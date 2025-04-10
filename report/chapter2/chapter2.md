@@ -185,7 +185,26 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 #### Segmento 1: Dueños de restaurantes.
 
-- Entrevista 1
+- _Entrevista 1_
+
+| Nombre               | Richard   |
+|----------------------|-----------|
+| Apellido             | Melgarejo |
+| Edad                 | 52 años   |
+| Distrito             |           |
+| Evidencia            |           |
+| Url                  |           |
+| Inicio de entrevista |           |    
+| Fin de entrevista    |           |
+
+Resumen de entrevista:
+
+Richard Melgarejo se dedica a asesoría de varios restaurantes y tiene su propio emprendimiento gastronómico hace 4 años.
+Comenta que lo que más indispensable, en su experiencia, es el control de inventario y que está acostumbrado a utilizar lápiz y papel para administrar los productos.  
+Además, menciona que los restaurantes suelen calcular la cantidad de alimentos que se necesitan para la semana y que al cliente se le deben de dart los productos más frescos.
+El entrevistado considera importante que al momento de usar una plataforma de inventario debería poder ver un cálculo o análisis del día a día para saber que platos o bebidas del restaurante se venden más y con ello poder ajustar cambios al menú. 
+
+- _Entrevista 2_
 
 | Nombre               |    |
 |----------------------|----|
@@ -197,19 +216,7 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 | Inicio de entrevista |    |    
 | Fin de entrevista    |    |
 
-- Entrevista 2
-
-| Nombre               |    |
-|----------------------|----|
-| Apellido             |    |
-| Edad                 |    |
-| Distrito             |    |
-| Evidencia            |    |
-| Url                  |    |
-| Inicio de entrevista |    |    
-| Fin de entrevista    |    |
-
-- Entrevista 3
+- _Entrevista 3_
 
 | Nombre               |    |
 |----------------------|----|
@@ -224,7 +231,7 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 ##### Segmento 2: Trabajadores de restaurantes.
 
-- Entrevista 1
+- _Entrevista 1_
 
 | Nombre               |    |
 |----------------------|----|
@@ -236,7 +243,7 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 | Inicio de entrevista |    |    
 | Fin de entrevista    |    |
 
-- Entrevista 2
+- _Entrevista 2_
 
 | Nombre               |    |
 |----------------------|----|
@@ -248,7 +255,7 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 | Inicio de entrevista |    |    
 | Fin de entrevista    |    |
 
-- Entrevista 3
+- _Entrevista 3_
 
 | Nombre               |    |
 |----------------------|----|
