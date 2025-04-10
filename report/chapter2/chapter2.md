@@ -183,7 +183,33 @@ recolectado información personal como por ejemplo las marcas de preferencia, di
 
 En esta sección se aborda la información recolectada de cada entrevista incluyendo un resumen de las respuestas de los entrevistados.
 
-Segmento 1: Dueños de restaurantes.
+#### Segmento 1: Dueños de restaurantes.
+
+- Entrevista 1
+
+| Nombre               |    |
+|----------------------|----|
+| Apellido             |    |
+| Edad                 |    |
+| Distrito             |    |
+| Evidencia            |    |
+| Url                  |    |
+| Inicio de entrevista |    |    
+| Fin de entrevista    |    |
+
+- Entrevista 2
+
+| Nombre               |    |
+|----------------------|----|
+| Apellido             |    |
+| Edad                 |    |
+| Distrito             |    |
+| Evidencia            |    |
+| Url                  |    |
+| Inicio de entrevista |    |    
+| Fin de entrevista    |    |
+
+- Entrevista 3
 
 | Nombre               |    |
 |----------------------|----|
@@ -196,7 +222,43 @@ Segmento 1: Dueños de restaurantes.
 | Fin de entrevista    |    |
 
 
-Segmento 2: Trabajadores de restaurantes.
+##### Segmento 2: Trabajadores de restaurantes.
+
+- Entrevista 1
+
+| Nombre               |    |
+|----------------------|----|
+| Apellido             |    |
+| Edad                 |    |
+| Distrito             |    |
+| Evidencia            |    |
+| Url                  |    |
+| Inicio de entrevista |    |    
+| Fin de entrevista    |    |
+
+- Entrevista 2
+
+| Nombre               |    |
+|----------------------|----|
+| Apellido             |    |
+| Edad                 |    |
+| Distrito             |    |
+| Evidencia            |    |
+| Url                  |    |
+| Inicio de entrevista |    |    
+| Fin de entrevista    |    |
+
+- Entrevista 3
+
+| Nombre               |    |
+|----------------------|----|
+| Apellido             |    |
+| Edad                 |    |
+| Distrito             |    |
+| Evidencia            |    |
+| Url                  |    |
+| Inicio de entrevista |    |    
+| Fin de entrevista    |    |
 
 
 ### 2.2.3. Análisis de entrevistas.
