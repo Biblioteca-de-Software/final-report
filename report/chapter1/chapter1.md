@@ -14,6 +14,10 @@
 
 ## 1.2. Solution Profile
 
+**Product Name:** KeepItFresh <br>
+**Product Description:** KeepItFresh, es una Web App que tiene como objetivo optimizar la gestión de los restaurantes. Para ello, esta permite al usuario monitorear los IoT que este tiene, mostrando información útil, ayudando con la gestión de inventarios y agilizando el trabajo de los trabajadores en la tienda. Los dueños de los restaurantes pueden usar KeepItFresh con el fin de optimizar varios procesos. <br>
+**Monetizacion:** KeepItFresh funciona mediante un modelo de suscripción mensual o anual, en el cual se alquilan los diferentes dispositivos IoT.
+
 ### 1.2.1 Antecedentes y problemática
 
 ### 1.2.2 Lean UX Process.
