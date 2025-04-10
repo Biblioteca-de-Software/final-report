@@ -22,7 +22,7 @@
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td></td>
+    <td>KeepItFresh es una aplicación que combina la gestión de inventario, el control de alimentos almacenados, le ofrece recomendaciones de conservación para alimentos al dueño del restaurante y un botón que llama mozos para los clientes.</td>
     <td>MarketMan es una solución de gestión de inventarios y compras basada en la nube que simplifica todas las operaciones internas agilizando  todo, desde el inventario hasta el presupuesto, los informes, la gestión de proveedores y el cálculo del coste de los alimentos.</td>
     <td>OpenTable es una plataforma para restaurantes que ofrece reservaciones, administración de mesas y un inventario a tiempo real en todos los dispositivos.</td>
     <td>CoverManager es una herramienta que ayuda a los restaurantes a controlar su negocio a tiempo real desde cualquier dispositivo, gestiona reservas y pagos en una sóla plataforma y fideliza clientes sin compartir datos a competencias.</td>
