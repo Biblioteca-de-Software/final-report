@@ -176,8 +176,7 @@ recolectado información personal como por ejemplo las marcas de preferencia, di
 - Cuando el restaurante está lleno, ¿cómo te das cuenta si un cliente necesita algo si no te llama directamente? 
 - ¿Te pasó alguna vez que un cliente se molestó por no recibir atención a tiempo? 
 - ¿Qué es lo más difícil de esos momentos de mucho trabajo?
-  ¿Cómo te imaginas que una app o sistema podría ayudarte a hacer tu trabajo más fácil?
-- 
+- ¿Cómo te imaginas que una app o sistema podría ayudarte a hacer tu trabajo más fácil?
 
 ### 2.2.2. Registro de entrevistas.
 
@@ -206,15 +205,15 @@ El entrevistado considera importante que al momento de usar una plataforma de in
 
 - _Entrevista 2_
 
-| Nombre               |    |
-|----------------------|----|
-| Apellido             |    |
-| Edad                 |    |
-| Distrito             |    |
-| Evidencia            |    |
-| Url                  |    |
-| Inicio de entrevista |    |    
-| Fin de entrevista    |    |
+| Nombre               |            |
+|----------------------|------------|
+| Apellido             |  |
+| Edad                 |  |
+| Distrito             |  |
+| Evidencia            |  |
+| Url                  |  |
+| Inicio de entrevista |  |    
+| Fin de entrevista    |  |
 
 - _Entrevista 3_
 
@@ -233,11 +232,11 @@ El entrevistado considera importante que al momento de usar una plataforma de in
 
 - _Entrevista 1_
 
-| Nombre               |    |
-|----------------------|----|
-| Apellido             |    |
-| Edad                 |    |
-| Distrito             |    |
+| Nombre               |    Diego   |
+|----------------------|------------|
+| Apellido             |  Espinoza  |
+| Edad                 |  21 años   |
+| Distrito             | Los Olivos |
 | Evidencia            |    |
 | Url                  |    |
 | Inicio de entrevista |    |    
