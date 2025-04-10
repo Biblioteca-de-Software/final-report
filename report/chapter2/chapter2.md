@@ -29,7 +29,7 @@
 </tr>
   <tr>
   <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-    <td></td>
+    <td>KeepItFresh ofrece un software inteligente para gestionar el inventario de tu negocio. Brinda un control completo del estado de los productos almacenados, recomienda las mejores condiciones de conservación para los alimentos y, además, incluye un botón para llamar a los mozos de forma rápida y eficiente.</td>
     <td>MarketMan ayuda a restaurantes y negocios de hostelería a gestionar eficientemente su inventario, controlar costos, reducir desperdicio, y optimizar las compras y recetas. El valor clave es el ahorro de tiempo, reducción de errores, mejora en la rentabilidad y toma de decisiones basadas en datos reales.</td>
     <td>OpenTable proporciona a los restaurantes una plataforma integral para gestionar reservaciones, optimizar la ocupación de mesas, mejorar la visibilidad en línea y fortalecer las relaciones con los comensales.</td>
     <td>CoverManager proporciona a los restaurantes y negocios de hostelería una solución integral para gestionar reservas, optimizar la ocupación de mesas, reducir ausencias (no-shows) y mejorar la experiencia del cliente.</td>
@@ -37,7 +37,7 @@
 <tr>
     <td rowspan="2">Perfil de Marketing</td>
     <td>Mercado Objetivo</td>
-    <td></td>
+    <td>Enfocado en restaurantes criollos, cevicherías y pollerías.</td>
     <td>Restaurantes individuales o cadenas (pequeñas, medianas o grandes).
 
 
@@ -66,7 +66,7 @@ Beach clubs y hoteles.
   </tr>
   <tr>
   <td>Estrategias de Marketing</td>
-    <td></td>
+    <td>Publicidad, posicionamiento de landing page, redes sociales y entrevistas.</td>
     <td>Posicionamiento SEO, Google Ads, y presencia activa en redes sociales.</td>
     <td>Campañas de promoción y resultados promocionados para aumentar la visibilidad y atraer más reservaciones.</td>
     <td>Ofrece herramientas para que los restaurantes integren sistemas de reservas en sus propios sitios web y redes sociales, potenciando las reservas directas sin comisiones.</td>
@@ -74,7 +74,7 @@ Beach clubs y hoteles.
 <tr>
     <td rowspan="3">Perfil de Producto</td>
     <td>Productos y Servicios</td>
-    <td></td>
+    <td>Software de manejo de inventario para restaurantes y analisis de datos de los productos alojados.</td>
     <td>Software de gestión de inventario.
 Cálculo de coste de recetas y menú.
 </td>
@@ -86,7 +86,7 @@ Pedidos de delivery y takeaway.
   </tr>
   <tr>
   <td>Precios y Costos</td>
-    <td></td>
+    <td>Suscripción de cada IOT para los restaurantes</td>
     <td>Modelo SaaS (software como servicio) con planes mensuales o anuales.
 Ofrecen prueba gratuita.
 </td>
@@ -94,7 +94,7 @@ Ofrecen prueba gratuita.
     <td>Plan estándar: Incluye gestión centralizada de reservas, integración con canales propios, usuarios y dispositivos ilimitados, y funcionalidades como pedido y pago desde el móvil. </td>
     </tr>
 <td>Canales de distribución (Web y/o Móvil)</td>
-    <td></td>
+    <td>Plataforma Web y aplicación movil</td>
     <td>Plataforma web 
 
 Aplicación móvil para Android y iOS .
@@ -111,28 +111,28 @@ Aplicación móvil: App para propietarios que permite gestionar reservaciones y 
 <tr>
     <td rowspan="4">Análisis SWOT</td>
     <td>Fortalezas</td>
-    <td></td>
+    <td>Ofrecer tecnología IOT de sensores y una interfaz intuitiva para todo público</td>
     <td>Plataforma muy especializada en el sector HORECA.</td>
     <td>Acceso a una amplia base de usuarios que utilizan OpenTable para realizar reservaciones.</td>
     <td>Ofrece una amplia gama de herramientas para la gestión de reservas, pedidos y fidelización en una única plataforma.</td>
   </tr>
   <tr>
   <td>Debilidades</td>
-    <td></td>
+    <td>Poca experiencia en el mercado</td>
     <td>Costo elevado para negocios muy pequeños.</td>
     <td>Las tarifas de suscripción y por reservación pueden ser significativas para pequeños restaurantes.</td>
     <td>La implementación de todas las funcionalidades puede requerir tiempo y formación para el personal.</td>
     </tr>
   <tr>
 <td>Oportunidades</td>
-    <td></td>
+    <td>El cliente puede ajustar la cantidad de dispositivos IOT que desee alquilar de acuerdo a su presupuesto</td>
     <td>Expansión en mercados emergentes y LATAM.</td>
     <td>Implementación de nuevas tecnologías, como inteligencia artificial, para mejorar la experiencia del usuario y la eficiencia operativa.</td>
     <td>Posibilidad de crecer en mercados donde la digitalización de la gestión de reservas y pedidos aún está en desarrollo</td>
 </tr>
   <tr>
 <td>Amenazas</td>
-    <td></td>
+    <td>Competencia de empresas con mayor manejo y tiempo en el mercado</td>
     <td>Alta competencia en el software de gestión de restaurantes.</td>
     <td>Tendencias hacia métodos alternativos de reservación o experiencias gastronómicas que no requieren reservaciones tradicionales.</td>
     <td>Presencia de otras soluciones en el mercado que ofrecen servicios similares, lo que puede dificultar la diferenciación.</td>
