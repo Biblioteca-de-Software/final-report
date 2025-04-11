@@ -282,6 +282,8 @@ Además, nos deja en claro lo útil que sería una aplicación que ayude al llam
 #### Segmento 1: Dueños de restaurantes.
 <img src="/assets/chapter2/userpersona1.png">
 
+<img src="/assets/chapter2/userpersona2.png">
+
 ### 2.3.2. User Task Matrix.
 
 ### 2.3.3. User Journey Mapping.
