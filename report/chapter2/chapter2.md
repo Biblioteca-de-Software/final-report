@@ -242,6 +242,12 @@ El entrevistado considera importante que al momento de usar una plataforma de in
 | Inicio de entrevista |    |    
 | Fin de entrevista    |    |
 
+Resumen de entrevista:
+
+Diego Espinoza es un trabajador de un restaurante de comida criolla en Los Olivos.
+Diego nos comenta que su rol en el resturante es ser mesero, pero también se codea con las personas que gestionan el inventario de insumos en el local.
+Además, nos deja en claro lo útil que sería una aplicación que ayude al llamado de mozos así como también una app que ayude a gestionar el inventario dándoles información respecto a la vigencia de cada insumo. De acorde a su experiencia, una app como esta, le daría facilidad y automatización a estos trabajos.
+
 - _Entrevista 2_
 
 | Nombre               |    |
