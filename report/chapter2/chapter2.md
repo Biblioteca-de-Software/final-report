@@ -78,7 +78,7 @@ Beach clubs y hoteles.
     <td>Software de gestión de inventario.
 Cálculo de coste de recetas y menú.
 </td>
-    <td>Software de reservaciones,Gestión de mesas y Lista de espera.</td>
+    <td>Software de reservaciones, Gestión de mesas y Lista de espera.</td>
     <td>Gestión de reservas.
 
 Pedidos de delivery y takeaway.
@@ -278,6 +278,9 @@ Además, nos deja en claro lo útil que sería una aplicación que ayude al llam
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
+
+#### Segmento 1: Dueños de restaurantes.
+<img src="/assets/chapter2/userpersona1.png">
 
 ### 2.3.2. User Task Matrix.
 
