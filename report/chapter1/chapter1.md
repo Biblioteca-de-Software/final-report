@@ -32,6 +32,44 @@ El desafío que hay actualmente es que las soluciones actuales no proveen un pre
 
 #### 1.2.2.2. Lean UX Assumptions.
 
+<ins>**Users Assumptions:**</ins>
+
+1. **Creo que mis clientes necesitan** una herramienta facil de usar para la gestion de inventarios, la cual facilite sus funciones, identificando problemas tales como posible descomposicion, o niveles no optimos para la temperatura.
+2. **Estas necesidades se pueden resolver con**
+3. **Mis clientes iniciales son**
+4. **El valor #1 que un cliente quiere de mi servicio es**
+5. **El cliente tambien puede obtener estos beneficios adicionales,**
+6. **Voy a adquirir la mayoria de mis clientes a través de estrategias de**
+7. **Haré dinero a través de**
+8. **Mi competencia principal en el mercado serán**
+9. **Los venceremos debido a**
+10. **Mi mayor riesgo de producto es**
+11. **Resolveremos esto a través de**
+12. **¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio/proyecto no funcione?**
+
+- 1
+- 2
+- 3
+
+**¿Quien es el usuario?**<br>
+
+**¿Dónde encaja nuestro producto en su trabajo o vida?**<br>
+
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**<br>
+
+**¿Cuándo y cómo se usa el producto?**<br>
+
+**¿Qué características son importantes?**<br>
+
+**¿Cómo debe verse nuestro producto y cómo debe comportarse?**<br>
+
+
+<ins>**Bussiness Outcomes**</ins>
+1. a
+2. b
+3. c
+4. d
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 #### 1.2.2.4. Lean UX Canvas.
