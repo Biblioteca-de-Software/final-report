@@ -15,9 +15,9 @@
   <tr>
     <td colspan="2"></td>
     <td>KeepItFresh<br></td>
-    <td>MarketMan<br></td>
-    <td>OpenTable<br></td>
-    <td>CoverManager<br></td>
+    <td><img src="/assets/chapter2/marketman-logo.webp" alt="MarketMan"><br></td>
+    <td><img src="/assets/chapter2/opentable.jpg" alt="OpenTable"/><br></td>
+    <td><img src="/assets/chapter2/covermanager.jpg" alt="CoverManager"/><br></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -245,7 +245,7 @@ El entrevistado considera importante que al momento de usar una plataforma de in
 Resumen de entrevista:
 
 Diego Espinoza es un trabajador de un restaurante de comida criolla en Los Olivos.
-Diego nos comenta que su rol en el resturante es ser mesero, pero también se codea con las personas que gestionan el inventario de insumos en el local.
+Diego nos comenta que su rol en el restaurante es ser mesero, pero también se codea con las personas que gestionan el inventario de insumos en el local.
 Además, nos deja en claro lo útil que sería una aplicación que ayude al llamado de mozos así como también una app que ayude a gestionar el inventario dándoles información respecto a la vigencia de cada insumo. De acorde a su experiencia, una app como esta, le daría facilidad y automatización a estos trabajos.
 
 - _Entrevista 2_
