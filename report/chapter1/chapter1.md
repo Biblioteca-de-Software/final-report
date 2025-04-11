@@ -16,7 +16,7 @@
 
 **Product Name:** KeepItFresh <br>
 **Product Description:** KeepItFresh, es una Web App que tiene como objetivo optimizar la gestión de los restaurantes. Para ello, esta permite al usuario monitorear los IoT que este tiene, mostrando información útil, ayudando con la gestión de inventarios y agilizando el trabajo de los trabajadores en la tienda. Los dueños de los restaurantes pueden usar KeepItFresh con el fin de optimizar varios procesos. <br>
-**Monetizacion:** KeepItFresh funciona mediante un modelo de suscripción mensual o anual, en el cual se alquilan los diferentes dispositivos IoT.
+**Monetización:** KeepItFresh funciona mediante un modelo de suscripción mensual o anual, en el cual se alquilan los diferentes dispositivos IoT.
 
 ### 1.2.1 Antecedentes y problemática
 
@@ -34,12 +34,12 @@ El desafío que hay actualmente es que las soluciones actuales no proveen un pre
 
 <ins>**Users Assumptions:**</ins>
 
-1. **Creo que mis clientes necesitan** una herramienta facil de usar para la gestion de inventarios, la cual facilite sus funciones, identificando problemas tales como posible descomposicion, o niveles no optimos para la temperatura.
+1. **Creo que mis clientes necesitan** una herramienta fácil de usar para la gestión de inventarios, la cual facilite sus funciones, identificando problemas tales como posible descomposición, o niveles no óptimos para la temperatura.
 2. **Estas necesidades se pueden resolver con**
 3. **Mis clientes iniciales son**
 4. **El valor #1 que un cliente quiere de mi servicio es**
-5. **El cliente tambien puede obtener estos beneficios adicionales,**
-6. **Voy a adquirir la mayoria de mis clientes a través de estrategias de**
+5. **El cliente también puede obtener estos beneficios adicionales,**
+6. **Voy a adquirir la mayoría de mis clientes a través de estrategias de**
 7. **Haré dinero a través de**
 8. **Mi competencia principal en el mercado serán**
 9. **Los venceremos debido a**
@@ -51,7 +51,7 @@ El desafío que hay actualmente es que las soluciones actuales no proveen un pre
 - 2
 - 3
 
-**¿Quien es el usuario?**<br>
+**¿Quién es el usuario?**<br>
 
 **¿Dónde encaja nuestro producto en su trabajo o vida?**<br>
 
