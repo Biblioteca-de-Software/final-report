@@ -75,11 +75,23 @@ Entre las características más importantes de KeepItFresh se encuentra el monit
 **¿Cómo debe verse nuestro producto y cómo debe comportarse?**<br>
 KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una paleta de colores que transmita frescura y confianza. La interfaz debe ser intuitiva, con una navegación fluida y amigable que permita al usuario encontrar con facilidad la información que necesita. Debe comportarse de forma estable y responsive, adaptándose sin dificultad a distintos tamaños de pantallas y dispositivos. La información debe de presentarse de forma clara, utilizando elementos como gráficos, iconos y colores para facilitar la interpretación de los datos.
 
-<ins>**Bussiness Outcomes**</ins>
-1. a
-2. b
-3. c
-4. d
+<ins>**Business Outcomes:**</ins>
+1. Al desarrollar KeepItFresh, prevemos un aumento en la cantidad de restaurantes con afinidad a nuestra plataforma, lo cual incrementará nuestras ventas y nos posicionará como una solución confiable en el mercado.
+2. Generación de ingresos constantes y predecibles mediante el modelo de suscripción mensual o anual, lo cual facilita la proyección financiera a largo plazo.
+3. Expansión del negocio hacia nuevos mercados y segmentos, como cadenas de restaurantes o franquicias, gracias a la escalabilidad de nuestro servicio.
+
+<ins>**User Outcomes:**</ins>
+
+1. Los usuarios podrán monitorear el estado de su inventario en tiempo real, lo que les permitirá tomar decisiones informadas y reducir el desperdicio de alimentos.
+2. Los dueños de restaurantes tendrán una mayor tranquilidad al saber que los productos están siendo almacenados adecuadamente, minimizando pérdidas económicas.
+3. La experiencia del cliente en el restaurante va a mejorar gracias al botón de llamado a meseros, agilizando la atención al cliente.
+
+<ins>**Features:**</ins>
+
+- Monitoreo en tiempo real de sensores IoT.
+- Panel de control centralizado e intuitivo con una fácil navegación.
+- Botón IoT para llamado de meseros que mejora la experiencia del cliente.
+- Alertas automáticas cuando las condiciones del inventario están fuera del rango óptimo.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
