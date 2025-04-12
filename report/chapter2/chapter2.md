@@ -282,6 +282,7 @@ Además, nos deja en claro lo útil que sería una aplicación que ayude al llam
 #### Segmento 1: Dueños de restaurantes.
 <img src="/assets/chapter2/userpersona1.png">
 
+#### Segmento 1: Empleados de restaurantes.
 <img src="/assets/chapter2/userpersona2.png">
 
 ### 2.3.2. User Task Matrix.
@@ -289,6 +290,14 @@ Además, nos deja en claro lo útil que sería una aplicación que ayude al llam
 ### 2.3.3. User Journey Mapping.
 
 ### 2.3.4. Empathy Mapping.
+
+#### Segmento 1: Dueños de restaurantes.
+
+<img src="/assets/chapter2/empathymap1.png">
+
+#### Segmento 2: Empleados de restaurantes.
+
+<img src="/assets/chapter2/empathymap2.png">
 
 ### 2.3.5. As-is Scenario Mapping.
 
