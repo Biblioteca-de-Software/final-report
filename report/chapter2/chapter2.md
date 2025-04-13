@@ -141,6 +141,12 @@ Aplicación móvil: App para propietarios que permite gestionar reservaciones y 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+Desarrollar estrategias y tácticas efectivas para enfrentar a nuestros competidores requiere de un enfoque cuidadoso y planificado. A continuación se presentan algunas estrategias y tácticas que podrían ser consideradas para tener una ventaja competitiva frente a otras alternativas:
+
+- Implementación de tecnología IOT: Utilizamos sensores IOT para ofrecer un monitoreo continuo de el estado de los alimentos que hay en el almacenamiento del restaurante y también le damos la oportunidad al cliente de decidir cuántos sensores desea de acuerdo a su presupuesto.
+- Enfoque en la experiencia para el usuario: Desarrollar una interfaz simple y fácil de entender para que el usuario no tenga dificultades en entenderlar y pueda usarla sin problemas.
+- Mantenimiento y mejoras en la aplicación: Mantener un ritmo constante en las actualizaciones para mejorar y arreglar la aplicación es esencial para que el usuario tenga la mejor experiencia posible y esto lo haremos recopilando información de errores y quejas de los usuarios.
+
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
