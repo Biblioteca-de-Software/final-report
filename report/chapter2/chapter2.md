@@ -206,20 +206,24 @@ Resumen de entrevista:
 
 Richard Melgarejo se dedica a asesoría de varios restaurantes y tiene su propio emprendimiento gastronómico hace 4 años.
 Comenta que lo que más indispensable, en su experiencia, es el control de inventario y que está acostumbrado a utilizar lápiz y papel para administrar los productos.  
-Además, menciona que los restaurantes suelen calcular la cantidad de alimentos que se necesitan para la semana y que al cliente se le deben de dart los productos más frescos.
+Además, menciona que los restaurantes suelen calcular la cantidad de alimentos que se necesitan para la semana y que al cliente se le deben de dar los productos más frescos.
 El entrevistado considera importante que al momento de usar una plataforma de inventario debería poder ver un cálculo o análisis del día a día para saber que platos o bebidas del restaurante se venden más y con ello poder ajustar cambios al menú. 
 
 - _Entrevista 2_
 
-| Nombre               |            |
+| Nombre               | Luis       |
 |----------------------|------------|
-| Apellido             |  |
+| Apellido             |   Agurto   |
 | Edad                 |  |
 | Distrito             |  |
 | Evidencia            |  |
 | Url                  |  |
 | Inicio de entrevista |  |    
 | Fin de entrevista    |  |
+
+Resumen de entrevista:
+
+Luis Agurto, fundador y gerente general de la cevichería "El Molinero", señaló durante la entrevista que le resultaría altamente beneficioso contar con una aplicación que facilite la gestión de inventario. Aunque actualmente utiliza un método propio para organizar sus productos y alimentos, considera que una solución tecnológica que automatice el control de stock, sugiera ubicaciones óptimas de almacenamiento, genere estadísticas predictivas como alertas sobre posibles faltantes y optimice el trabajo del personal de atención, sería ideal para mejorar la eficiencia operativa del restaurante. Luis nos comenta que le gustaría utilizar la aplicación porque sería algo distinto, innovador y podría facilitar todos los procesos.
 
 - _Entrevista 3_
 
