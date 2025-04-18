@@ -37,16 +37,16 @@ La página es adaptable visualmente a cualquier dispositivo.
 
 Componentes Implementados:
 
-Header: Título y botones de navegación.
-Sección Hero: Título, descripción y botón llamativo.
-Cards de características: Cada una con título, texto explicativo, y visual coherente.
-Sección de CTA (Call To Action): Clara, directa y llamativa.
-Footer: Señalización de derechos de autor.
+- Header: Título y botones de navegación.
+- Sección Hero: Título, descripción y botón llamativo.
+- Cards de características: Cada una con título, texto explicativo, y visual coherente.
+- Sección de CTA (Call To Action): Clara, directa y llamativa.
+- Footer: Señalización de derechos de autor.
 
 Interacciones:
 
-Hover sobre botones (cambio de color).
-Layout limpio, sin mucha carga de imágenes y videos.
+- Hover sobre botones (cambio de color).
+- Layout limpio, sin mucha carga de imágenes y videos.
 
 ## 4.2. Information Architecture.
 
@@ -54,20 +54,20 @@ Se realizó la página basada en órdenes simples y coherentes para usuarios fam
 
 Orden lógico de las secciones:
 
-Hero: Primer impacto visual y botón CTA.
-¿Qué es KeepItFresh?
-¿Cómo Funciona?
-Beneficios
-Audiencias objetivo
-Contacto / Solicita una demo
+- Hero: Primer impacto visual y botón CTA.
+- ¿Qué es KeepItFresh?
+- ¿Cómo Funciona?
+- Beneficios.
+- Audiencias objetivo.
+- Contacto / Solicita una demo.
 
 Dichos órdenes están detallados en las siguientes secciones.
 
 ### 4.2.1. Organization Systems.
 
-Jerárquico: El contenido se organiza desde lo más impactante e importante al detalle.
-Secuencial: La explicación del funcionamiento del sistema sigue un paso a paso lógico.
-Por audiencia: El mensaje está adaptado a el grupo clave: Restaurantes
+- Jerárquico: El contenido se organiza desde lo más impactante e importante al detalle.
+- Secuencial: La explicación del funcionamiento del sistema sigue un paso a paso lógico.
+- Por audiencia: El mensaje está adaptado a el grupo clave: Restaurantes
 
 ### 4.2.2. Labeling Systems.
 
@@ -75,10 +75,10 @@ Se representarán los datos basado en el sistema de organización detallado ante
 
 Etiquetas utilizadas en el sitio:
 
-“¿Qué es KeepItFresh?”
-“¿Cómo Funciona?”
-“Beneficios”
-“Solicita una Demo”
+- “¿Qué es KeepItFresh?”
+- “¿Cómo Funciona?”
+- “Beneficios”
+- “Solicita una Demo”
 
 ### 4.2.3. SEO Tags and Meta Tags
 
