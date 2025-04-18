@@ -17,11 +17,11 @@ Open Sans: Utilizada en párrafos y textos largos. Legible y versátil basado en
 
 Colores de Marca:
 
-Color		Código Hex	Uso Principal
-Verde		#28a745		Color principal (frescura, sostenibilidad)
-Verde Oscuro	#2e2e2e		Color de título de cards
-Naranja		#ff9800		Elementos interactivos (CTA, botones)
-Naranja Oscuro	#e67e00		Hover (CTA, botones)
+    Color      |	Código Hex   |	Uso Principal
+Verde	         |	  #28a745	   |	Color principal (frescura, sostenibilidad)
+Verde Oscuro   |	  #2e2e2e    |	Color de título de cards
+Naranja        |		#ff9800    |	Elementos interactivos (CTA, botones)
+Naranja Oscuro | 	  #e67e00    |	Hover (CTA, botones)
 
 Spacing y Layout:
 
