@@ -2,6 +2,14 @@
 
 ## 3.1. To-Be Scenario Mapping.
 
+**Segmento 1**
+
+| Fases       | Verificación de mesas          | Gestión de inventario        | Asignación de tareas      | Comunicación con equipo    |
+|-------------|--------------------------------|------------------------------|---------------------------|---------------------------|
+| **Doing**   | Consulta sistema de reservas en tiempo real | Recibe alertas automáticas de bajo stock | Asigna tareas mediante plataforma digital | Coordina mediante chat integrado |
+| **Thinking**| "Tengo visibilidad completa del estado del restaurante" | "El sistema me avisa antes de quedarnos sin ingredientes" | "Puedo balancear mejor las cargas de trabajo" | "Todos reciben las actualizaciones al instante" |
+| **Feeling** | Tranquilo y en control | Confiado en los suministros | Satisfecho con la distribución | Conectado con el equipo |
+
 ## 3.2. User Stories.
 
 | EPIC/ USER STORY ID | Título                                      | Descripción                                                                                                                                                                                   | Criterio de aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Relacionado a la épica # |
