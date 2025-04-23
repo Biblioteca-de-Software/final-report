@@ -138,6 +138,12 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+1. Hipótesis 1: Creemos que al implementar KeepItFresh, los restaurantes de tamaño mediano podrán reducir en al menos un 30% el desperdicio de alimentos en los primeros tres meses, gracias al monitoreo continuo y en tiempo real del estado del inventario mediante sensores IoT.
+
+2. Hipótesis 2: Creemos que los dueños de restaurantes que utilicen KeepItFresh percibirán una mejora en la eficiencia operativa y en la gestión de inventario de al menos un 40%, al contar con alertas automatizadas, reportes visuales y un panel centralizado.
+
+3. Hipótesis 3: Creemos que al facilitar la atención al cliente mediante un botón IoT de llamado a meseros, los tiempos de espera disminuirán, generando una mejora del 25% en la percepción del servicio por parte de los comensales.
+
 #### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivos.
