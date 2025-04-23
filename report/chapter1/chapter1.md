@@ -20,6 +20,34 @@
 
 ### 1.2.1 Antecedentes y problemática
 
+**Técnica de The 5 ‘W’s y 2 ‘H’s**
+
+**What?** <br>
+El problema es la mala gestión del inventario en los restaurantes, lo que genera desperdicio de alimentos y un alto consumo de recursos debido al
+vencimiento de productos y a la falta de control eficiente. Además, el personal de atención enfrenta dificultades para identificar cuándo un cliente requiere
+asistencia, lo que puede afectar la calidad del servicio y la experiencia del cliente.
+
+**When?** <br>
+La problemática sucede en cualquier momento del día, ya que los restaurantes operan constantemente y deben gestionar su inventario y atención al
+cliente en todo momento.
+
+**Where?** <br>
+La problemática ocurre en los restaurantes, tanto en la cocina como en el área de atención al cliente.
+
+**Who?** <br>
+Los dueños, gerentes y trabajadores de un restaurante son los principales afectados por esta problemática. La mala gestión del inventario impacta en su
+rentabilidad y eficiencia operativa.
+
+**Why?** <br>
+La mala o dificultosa gestión de inventario en restaurantes se debe a la falta de herramientas adecuadas para monitorear y gestionar eficientemente el
+inventario, así como a la falta de visibilidad y datos concretos sobre el estado de los productos.
+
+**How?** <br>
+KeepItFresh facilitará el proceso de gestión de inventario mediante el monitoreo de los mismos gracias a sus modernos sensores conectados a la app.
+
+**How much?** <br>
+KeepItFresh tendrá el alcance de resolver esta problemática a todo aquel restaurante que compre sus servicios.
+
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
@@ -97,8 +125,8 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 
 #### 1.2.2.4. Lean UX Canvas.
 
-## 1.3. Segmentos objetivo.
+## 1.3. Segmentos objetivos.
 
 KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un restaurante; Los dueños y trabajadores de los restaurantes. Estos dos grupos son los encargados principales en proveer la mejor experiencia posible al consumidor y de administrar el restaurante, por ello KeepItFresh se enfoca en proporcionarles soluciones inteligentes los cuales facilitan la labor de ambos segmentos.
 - **Dueños:** KeepItFresh, está hecho con el fin de facilitar la gestión del inventario por parte de los dueños de los restaurantes, debido a que esta es una tarea de gran dificultad, puesto que se sabe que en el 2019 aproximadamente el 33% de los alimentos producidos son descompuestos.
-- **Trabajadores:**
+- **Trabajadores:** KeepItFresh, está hecho con el fin de facilitar la gestión del inventario por parte de los trabajadores de los restaurantes, debido a que esta es una tarea de gran dificultad, puesto que se sabe que en el 2019 aproximadamente el 33% de los alimentos producidos son descompuestos. Así mismo también se busca facilitar la atención al cliente mediante el botón IoT para llamar a los meseros.
