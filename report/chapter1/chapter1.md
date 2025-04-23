@@ -4,7 +4,7 @@
 
 ### 1.1.1. Descripción de la Startup
 
-**Go4U** es una startup dedicada a soluciones digitales enfocadas en restaurantes. Utilizamos tecnologías IoT para agilizar la gestión de restaurantes. Nuestro enfoque es preventivo, proporcionando sensores y herramientas para evitar problemas tales como la descomposición de alimentos. No ofrecemos servicios de intervención, ni de accion inmediata.<br>
+**Go4U** es una startup dedicada a soluciones digitales enfocadas en restaurantes. Utilizamos tecnologías IoT para agilizar la gestión de restaurantes. Nuestro enfoque es preventivo, proporcionando sensores y herramientas para evitar problemas tales como la descomposición de alimentos. No ofrecemos servicios de intervención, ni de acción inmediata.<br>
 
 - **Misión:** Facilitar la gestión de los restaurantes a través de tecnologías las cuales permiten el monitoreo continuo del restaurante, al igual que optimizan la atención de los trabajadores, para que estos puedan ofrecer un mejor servicio a sus consumidores. 
 - **Visión:** Ser la empresa más importante en Perú, en el ámbito de gestión y optimización de restaurantes con el uso de soluciones tecnológicas.
