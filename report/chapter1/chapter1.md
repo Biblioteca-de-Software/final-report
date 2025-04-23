@@ -20,7 +20,7 @@
 
 ### 1.2.1 Antecedentes y problemática
 
-**Técnica de The 5 ‘W’s y 2 ‘H’s**
+**Técnica de The 5 'W's y 2 'H's**
 
 **What?** <br>
 El problema es la mala gestión del inventario en los restaurantes, lo que genera desperdicio de alimentos y un alto consumo de recursos debido al
