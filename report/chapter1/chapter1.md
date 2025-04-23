@@ -146,6 +146,8 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 
 #### 1.2.2.4. Lean UX Canvas.
 
+<img src="/assets/chapter1/Lean UX canvas.png" alt="LeanUXCanvas">
+
 ## 1.3. Segmentos objetivos.
 
 KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un restaurante; Los dueños y trabajadores de los restaurantes. Estos dos grupos son los encargados principales en proveer la mejor experiencia posible al consumidor y de administrar el restaurante, por ello KeepItFresh se enfoca en proporcionarles soluciones inteligentes los cuales facilitan la labor de ambos segmentos.
