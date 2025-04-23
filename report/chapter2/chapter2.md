@@ -317,4 +317,16 @@ Además, nos deja en claro lo útil que sería una aplicación que ayude al llam
 
 ### 2.3.5. As-is Scenario Mapping.
 
+**Segmento 1**
+
+Escenario: El dueño necesita revisar el estado de las mesas, el inventario de ingredientes y asignar tareas al personal.
+
+As-Is:
+
+| Fases    |                      Verificar disponibilidad de mesas                         |                         Verificacion de inventario                         |                Asignar tareas al personal                  |              Comunicacion con el equipo                                       |
+|----------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
+| Doing    | Revisa mesas físicamente                               | Cuenta ingredientes manualmente                | Asigna tareas verbalmente                  | Comunica cambios en persona              |
+| Thinking | "No tengo visibilidad en tiempo real" | "Podríamos quedarnos sin ingredientes"  | "El personal parece sobrecargado" | "La comunicación es ineficiente" |
+| Feeling  | Me siento inseguro sobre la disponibilidad de la mesas | Me preocupa que tengamos posibles ingredientes faltantes. | me siento estresado por la carga laboral | Me frusta que existan malentendidos al momento de comunicar |
+
 ## 2.4. Ubiquitous Language.
