@@ -105,31 +105,31 @@ Etiquetas utilizadas en el sitio:
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
-![wireframe.jpg](../../assets/wireframe.jpg)<br>
+![wireframe.jpg](../../assets/chapter4/wireframe.jpg)
 
-![wireframe2.jpg](../../assets/wireframe2.jpg)<br>
+![wireframe2.jpg](../../assets/chapter4/wireframe2.jpg)
 
-![wireframe3.jpg](../../assets/wireframe3.jpg)<br>
+![wireframe3.jpg](../../assets/chapter4/wireframe3.jpg)
 
-![wireframe4.jpg](../../assets/wireframe4.jpg)<br>
+![wireframe4.jpg](../../assets/chapter4/wireframe4.jpg)
 
-![wireframe5.jpg](../../assets/wireframe5.jpg)<br>
+![wireframe5.jpg](../../assets/chapter4/wireframe5.jpg)
 
-![wireframe6.jpg](../../assets/wireframe6.jpg)<br>
+![wireframe6.jpg](../../assets/chapter4/wireframe6.jpg)
 
 ### 4.3.2. Landing Page Mock-up.
 
-![mockup1.png](../../assets/mockup1.png)<br>
+![mockup1.png](../../assets/chapter4/mockup1.png)
 
-![mockup2.png](../../assets/mockup2.png)<br>
+![mockup2.png](../../assets/chapter4/mockup2.png)
 
-![mockup3.png](../../assets/mockup3.png)<br>
+![mockup3.png](../../assets/chapter4/mockup3.png)
 
-![mockup4.png](../../assets/mockup4.png)<br>
+![mockup4.png](../../assets/chapter4/mockup4.png)
 
-![mockup5.png](../../assets/mockup5.png)<br>
+![mockup5.png](../../assets/chapter4/mockup5.png)
 
-![mockup6.png](../../assets/mockup6.png)<br>
+![mockup6.png](../../assets/chapter4/mockup6.png)
 
 ## 4.4. Web Applications UX/UI Design.
 
@@ -151,7 +151,7 @@ Los wireframes de la plataforma web KeepItFresh muestran la estructura funcional
 
 Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la prevención de pérdidas y la toma de decisiones basada en datos.
 
-<img src="/assets/Wireframes_WebApp.png">
+![Mockups_WebApp.png](../../assets/chapter4/Mockups_WebApp.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
@@ -161,7 +161,7 @@ Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la
 
 Como dueño de restaurante, deseo crear una cuenta o iniciar sesión con mis credenciales, para acceder a las funcionalidades de la plataforma según mi rol.
 
-<img src="/assets/login.png">
+![login.png](../../assets/chapter4/login.png)
 
 **User Goal:** Visualizar el estado de los sensores en tiempo real
 
@@ -169,7 +169,7 @@ Como dueño de restaurante, deseo crear una cuenta o iniciar sesión con mis cre
 
 Como dueño de restaurante, quiero ver los datos actualizados de temperatura y gas desde los sensores IoT, para monitorear las condiciones de mi inventario y asegurar su conservación.
 
-<img src="/assets/iot.png">
+![iot.png](../../assets/chapter4/iot.png)
 
 **User Goal:** Registrar y consultar mi inventario
 
@@ -177,7 +177,7 @@ Como dueño de restaurante, quiero ver los datos actualizados de temperatura y g
 
 Como dueño de restaurante, deseo ingresar productos con su fecha de vencimiento y condiciones de almacenamiento, y consultar el inventario actualizado, para tomar mejores decisiones de compra y uso.
 
-<img src="/assets/gestion.png">
+![gestion.png](../../assets/chapter4/gestion.png)
 
 **User Goal:** Ser notificado ante productos por vencer, bajo stock o condiciones no tan buenas
 
@@ -185,7 +185,7 @@ Como dueño de restaurante, deseo ingresar productos con su fecha de vencimiento
 
 Como dueño de restaurante, deseo recibir alertas cuando un producto esté por vencer, el stock esté bajo, o condiciones no tan buneas para evitar pérdidas económicas y reponer a tiempo con la distribuidora.
 
-<img src="/assets/alerta.png">
+![alerta.png](../../assets/chapter4/alerta.png)
 
 **User Goal:** Generar y exportar reportes
 
@@ -193,48 +193,48 @@ Como dueño de restaurante, deseo recibir alertas cuando un producto esté por v
 
 Como dueño de restaurante, deseo generar reportes de ventas y exportarlos en formatos PDF o Excel, para tener acceso a estos datos en mi formato preferido y compartirlos fácilmente.
 
-<img src="/assets/exportar.png">
+![exportar.png](../../assets/chapter4/exportar.png)
 
 ### 4.4.2. Web Applications Mock-ups.
 
-<img src="/assets/Mockups_WebApp.png">
+![Mockups_WebApp.png](../../assets/chapter4/Mockups_WebApp.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-<img src="/assets/Mockups_Userflow.png">
+![Mockups_Userflow.png](../../assets/chapter4/Mockups_Userflow.png)
 
 ## 4.5. Web Applications Prototyping.
 
-<img src="/assets/Mockups_Userflow.png">
+![Mockups_Userflow.png](../../assets/chapter4/Mockups_Userflow.png)
 
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepFresh.
-![ContextDiagram.png](../../assets/ContextDiagram.png)
+![ContextDiagram.png](../../assets/chapter4/ContextDiagram.png)
 ### 4.6.2. Software Architecture Container Diagrams.
 A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
-![Container.png](../../assets/ContainerDiagram.png)
+![ContainerDiagram.png](../../assets/chapter4/ContainerDiagram.png)
 ### 4.6.3. Software Architecture Components Diagrams.
 A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica## 4.7. Software Object-Oriented Design.
 
 Diagrama de componente de Customer Feedback
-![DiagramComponentcustomerFeedbackBC.png](../../assets/DiagramComponentcustomerFeedbackBC.png)
+![DiagramComponentcustomerFeedbackBC.png](../../assets/chapter4/DiagramComponentcustomerFeedbackBC.png)
 
 Diagrama de componente de Inventory Monitoring
-![DiagramComponentinventoryMonitoringBC.png](../../assets/DiagramComponentinventoryMonitoringBC.png)
+![DiagramComponentinventoryMonitoringBC.png](../../assets/chapter4/DiagramComponentinventoryMonitoringBC.png)
 
 Diagrama de componente de Location and Environment
-![DiagramComponentlocationAndEnvironmentBC.png](../../assets/DiagramComponentlocationAndEnvironmentBC.png)
+![DiagramComponentlocationAndEnvironmentBC.png](../../assets/chapter4/DiagramComponentlocationAndEnvironmentBC.png)
 
 Diagrama de componente de Restaurant Operations
-![DiagramComponentrestaurantOperationsBC.png](../../assets/DiagramComponentrestaurantOperationsBC.png)
+![DiagramComponentrestaurantOperationsBC.png](../../assets/chapter4/DiagramComponentrestaurantOperationsBC.png)
 
 Diagrama de componente de Supplier Management
-![DiagramComponentsupplierManagementBC.png](../../assets/DiagramComponentsupplierManagementBC.png)
+![DiagramComponentsupplierManagementBC.png](../../assets/chapter4/DiagramComponentsupplierManagementBC.png)
 
 ### 4.7.1. Class Diagrams.
-![ClassDiagram_KeepItFresh - open.png](../../assets/ClassDiagram_KeepItFresh%20-%20open.png)
+![ClassDiagram_KeepItFresh - open.png](../../assets/chapter4/ClassDiagram_KeepItFresh%20-%20open.png)
 ### 4.7.2. Class Dictionary.
 ```markdown
 ### IoT Devices
@@ -375,4 +375,4 @@ Diagrama de componente de Supplier Management
 ```
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![DBDiagram_KeepItFresh.png](../../assets/DBDiagram_KeepItFresh.png)
+![DBDiagram_KeepItFresh.png](../../assets/chapter4/DBDiagram_KeepItFresh.png)
