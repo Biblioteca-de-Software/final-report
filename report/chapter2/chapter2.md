@@ -290,7 +290,8 @@ Además, nos deja en claro lo útil que sería una aplicación que ayude al llam
 
 Resumen de entrevista: 
 
-
+Luis Roman es un mozo de una cevichería.
+Luis nos comenta que tiene responsabilidades relacionadas con el inventario, el cual revisa cada 4 a 5 horas laborales y también cuando llegan nuevos productos. Propone que una app podría facilitarle el trabajo si le permitiera ver con claridad qué mesa pidió qué plato y le avisara cuándo un pedido está listo. Esto reduciría el estrés y los olvidos, además de evitar desplazamientos innecesarios hacia la cocina.
 
 
 ### 2.2.3. Análisis de entrevistas.
