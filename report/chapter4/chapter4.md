@@ -135,11 +135,17 @@ Etiquetas utilizadas en el sitio:
 
 ### 4.4.1. Web Applications Wireframes.
 
+<img src="/assets/Wireframes_WebApp.png">
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 ### 4.4.2. Web Applications Mock-ups.
 
+<img src="/assets/Mockups_WebApp.png">
+
 ### 4.4.3. Web Applications User Flow Diagrams.
+
+<img src="/assets/Mockups_Userflow.png">
 
 ## 4.5. Web Applications Prototyping.
 
