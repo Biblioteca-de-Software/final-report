@@ -157,7 +157,7 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 del ABET – EAC - Student Outcome 3.
 
 
-| Criterio específico                                                   | Acciones realizadas | Conclusiones |
-|-----------------------------------------------------------------------|---------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.  |                     |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia |                     |              |
+| Criterio específico                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                         | Conclusiones |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | TB1:<br>        Romina Guadalupe Maita Falckenheiner: En esta entrega hice uso de mis habilidades de comunicación para poder coordinar y realizar las entrevistas, además que me mantuve al tanto con el equipo para completar las siguientes tareas: Landing Page, Impact Mapping, Carátula, Diagrama de Clases, Diagrama Base de Datos, entrevistas, etc. |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia |                                                                                                                                                                                                                                                                                                                                                             |              |
