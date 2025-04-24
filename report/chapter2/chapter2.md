@@ -266,15 +266,15 @@ Además, nos deja en claro lo útil que sería una aplicación que ayude al llam
 
 - _Entrevista 2_
 
-| Nombre               | Estephano                                                                                                                                                                                                                                                                                                                   |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Moscoso Bejar                                                                                                                                                                                                                                                                                                               |
-| Edad                 | 22                                                                                                                                                                                                                                                                                                                          |
-| Distrito             | Comas                                                                                                                                                                                                                                                                                                                       |
-| Evidencia            | ![Moscoso.jpg](../../assets/chapter2/Moscoso.jpg)                                                                                                                                                                                                                                                                           |
+| Nombre               | Estephano                                                                                                                                                                                                                                                                                                                  |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Moscoso Bejar                                                                                                                                                                                                                                                                                                              |
+| Edad                 | 22                                                                                                                                                                                                                                                                                                                         |
+| Distrito             | Comas                                                                                                                                                                                                                                                                                                                      |
+| Evidencia            | ![Moscoso.jpg](../../assets/chapter2/Moscoso.jpg)                                                                                                                                                                                                                                                                          |
 | Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
-| Inicio de entrevista | 47:12                                                                                                                                                                                                                                                                                                                       |    
-| Fin de entrevista    | 53:50                                                                                                                                                                                                                                                                                                                       |
+| Inicio de entrevista | 47:12                                                                                                                                                                                                                                                                                                                      |    
+| Fin de entrevista    | 53:50                                                                                                                                                                                                                                                                                                                      |
 
 Resumen de entrevista:
 
@@ -384,6 +384,15 @@ Cantidad: 3/6 (50%)
 <img src="/assets/chapter2/userpersona2.png">
 
 ### 2.3.2. User Task Matrix.
+| Actividades                | **Daniel** | Daniel      | **Javier** | Javier      |
+|----------------------------|------------|-------------|------------|-------------|
+|                            | Frecuencia | Importancia | Frecuencia | Importancia |
+| Guardar productos          | Always     | High        | Rarely     | High        |
+| Atender clientes           | Always     | Medium      | Rarely     | High        |
+| Tomar pedidos              | Always     | High        | Never      | High        |
+| Cobrar cuenta              | Always     | Medium      | Never      | Medium      |
+| Manejo financiero          | Rarely     | Medium      | Always     | Medium      |
+| Contratacion y supervision | Never      | Medium      | Always     | Medium      |
 
 ### 2.3.3. User Journey Mapping.
 
