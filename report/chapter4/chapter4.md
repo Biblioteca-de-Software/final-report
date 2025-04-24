@@ -289,4 +289,4 @@ Diagrama de componente de Supplier Management
 ```
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![ClassDiagram_KeepItFresh.png](../../assets/ClassDiagram_KeepItFresh.png)
+![DBDiagram_KeepItFresh.png](../../assets/DBDiagram_KeepItFresh.png)
