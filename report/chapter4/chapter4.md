@@ -135,7 +135,49 @@ Sobre nosotros
 
 
 ### 4.3.2. Landing Page Mock-up.
+Se muestra una versión inicial de nuestro sitio web, en la cual se describe el contenido que incluirá. A esta propuesta se le incorporan los colores definidos en nuestra guía de estilo, así como imágenes acordes a la información presentada, con el objetivo de brindar al usuario una comprensión más clara de los conceptos que deseamos transmitir.
 
+**Desktop Web Browser**
+![menu.jpg](../../assets/chapter2/menu.jpg)
+Menu de la aplicacion
+
+![que ofrecemos.jpg](../../assets/chapter2/que%20ofrecemos.jpg)
+Informacion sobre el producto
+
+![sobre nosotros.jpg](../../assets/chapter2/sobre%20nosotros.jpg)
+Informacion sobre la startup
+
+![soporte.jpg](../../assets/chapter2/soporte.jpg)
+Formulario de soporte para antender cualquier problema
+
+![planes.jpg](../../assets/chapter2/planes.jpg)
+Planes disponibles
+
+![beneficios.jpg](../../assets/chapter2/beneficios.jpg)
+Beneficios y opiniones de usuario
+
+**Desktop Mobile Browser**
+
+Menu mobile
+![mobile1.jpg](../../assets/chapter2/mobile1.jpg)
+
+Menu  opciones
+![mobile2.jpg](../../assets/chapter2/mobile2.jpg)
+
+Presentacion de la solucion
+![mobile3.jpg](../../assets/chapter2/mobile3.jpg)
+
+Presentacion de la startup
+![mobile4.jpg](../../assets/chapter2/mobile4.jpg)
+
+Beneficios y opiniones
+![mobile5.jpg](../../assets/chapter2/mobile5.jpg)
+
+Contacto a soporte
+![mobile6.jpg](../../assets/chapter2/mobile6.jpg)
+
+Planes disponibles
+![mobile7.jpg](../../assets/chapter2/mobile7.jpg)
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
