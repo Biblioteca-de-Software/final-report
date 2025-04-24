@@ -148,6 +148,15 @@ Ciclo 2025-01
 ### [Anexos](#anexos-1)
 
 # Student Outcome
+
+ABET – EAC - Student Outcome 3
+
+Se refiere a la capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 3.
+
+
 | Criterio específico                                                   | Acciones realizadas | Conclusiones |
 |-----------------------------------------------------------------------|---------------------|--------------|
 | Comunica oralmente con efectividad a diferentes rangos de audiencia.  |                     |              |
