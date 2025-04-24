@@ -135,9 +135,65 @@ Etiquetas utilizadas en el sitio:
 
 ### 4.4.1. Web Applications Wireframes.
 
+Los wireframes de la plataforma web KeepItFresh muestran la estructura funcional pensada para ayudar a propietarios y gestores a mantener un control eficiente sobre su inventario con sensores inteligentes. Incluyen:
+
+- **Pantallas de Autenticación:** flujo de inicio de sesión, registro de usuarios y recuperación de contraseñas.
+
+- **Dashboard Principal:** vista central con el estado en tiempo real de sensores, resumen del inventario, alertas y reportes.
+
+- **Apartado Estadístico:** muestra datos sobre temperatura y niveles de gas de forma gráfica y comprensible.
+
+- **Gestión de Reportes:** sección dedicada a visualizar y exportar reportes, con una confirmación previa antes de descargar.
+
+- **Alertas de Productos:** notificaciones sobre el estado de los productos almacenados.
+
+- **Sistema de Suscripción:** validación de métodos de pago, confirmación de transacciones y formulario para registrar datos de tarjeta.
+
+Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la prevención de pérdidas y la toma de decisiones basada en datos.
+
 <img src="/assets/Wireframes_WebApp.png">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+**User Goal:** Registrarme o iniciar sesión en KeepItFresh
+
+**Descripción:**
+
+Como dueño de restaurante, deseo crear una cuenta o iniciar sesión con mis credenciales, para acceder a las funcionalidades de la plataforma según mi rol.
+
+<img src="/assets/login.png">
+
+**User Goal:** Visualizar el estado de los sensores en tiempo real
+
+**Descripción:**
+
+Como dueño de restaurante, quiero ver los datos actualizados de temperatura y gas desde los sensores IoT, para monitorear las condiciones de mi inventario y asegurar su conservación.
+
+<img src="/assets/iot.png">
+
+**User Goal:** Registrar y consultar mi inventario
+
+**Descripción:**
+
+Como dueño de restaurante, deseo ingresar productos con su fecha de vencimiento y condiciones de almacenamiento, y consultar el inventario actualizado, para tomar mejores decisiones de compra y uso.
+
+<img src="/assets/gestion.png">
+
+**User Goal:** Ser notificado ante productos por vencer, bajo stock o condiciones no tan buenas
+
+**Descripción:**
+
+Como dueño de restaurante, deseo recibir alertas cuando un producto esté por vencer, el stock esté bajo, o condiciones no tan buneas para evitar pérdidas económicas y reponer a tiempo con la distribuidora.
+
+<img src="/assets/alerta.png">
+
+**User Goal:** Generar y exportar reportes
+
+**Descripción:**
+
+Como dueño de restaurante, deseo generar reportes de ventas y exportarlos en formatos PDF o Excel, para tener acceso a estos datos en mi formato preferido y compartirlos fácilmente.
+
+<img src="/assets/exportar.png">
 
 ### 4.4.2. Web Applications Mock-ups.
 
