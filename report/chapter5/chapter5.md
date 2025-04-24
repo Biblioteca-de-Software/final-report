@@ -153,3 +153,6 @@ https://www.figma.com/design/qhRLKjdaF9fijkKjSNQYEV/wireframe?node-id=0-1&t=aAud
 **Anexo F: Mockup**<br>
 https://www.figma.com/design/XuRVo3M9aclKQzb5VTGsC7/Untitled?node-id=0-1&t=iMrbvYmaqMFpc3SE-1
 
+**Anexo G: Web Application MockUp and Wireframe**<br>
+https://www.figma.com/design/ZPqKdgAXbM04JV4jEnc5rw/KeepItFresh--Copy-?node-id=74-247&t=CLgUbrYHBU9JTQu1-1
+
