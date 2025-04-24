@@ -216,7 +216,7 @@ El entrevistado considera importante que al momento de usar una plataforma de in
 | Apellido             | Agurto                                                                                                                                                                                                                                                                                                                      |
 | Edad                 | 34 años                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | San Borja                                                                                                                                                                                                                                                                                                                   |
-| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![entrevistaLuis1.jpg](../../assets/chapter2/entrevistaLuis1.jpg)                                                                                                                                                                                                                                                                                                                            |
 | Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
 | Inicio de entrevista | 0:00                                                                                                                                                                                                                                                                                                                        |    
 | Fin de entrevista    | 6:32                                                                                                                                                                                                                                                                                                                        |
@@ -283,14 +283,15 @@ Además, nos deja en claro lo útil que sería una aplicación que ayude al llam
 | Apellido             | Roman                                                                                                                                                                                                                                                                                                                       |
 | Edad                 | 20 años                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | Jesús María                                                                                                                                                                                                                                                                                                                 |
-| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![entrevistaLuis2.jpg](../../assets/chapter2/entrevistaLuis2.jpg)                                                                                                                                                                                                                                                                                                                            |
 | Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
 | Inicio de entrevista | 39:55                                                                                                                                                                                                                                                                                                                       |    
 | Fin de entrevista    | 42:55                                                                                                                                                                                                                                                                                                                       |
 
 Resumen de entrevista: 
 
-
+Luis Roman es un mozo de una cevichería.
+Luis nos comenta que tiene responsabilidades relacionadas con el inventario, el cual revisa cada 4 a 5 horas laborales y también cuando llegan nuevos productos. Propone que una app podría facilitarle el trabajo si le permitiera ver con claridad qué mesa pidió qué plato y le avisara cuándo un pedido está listo. Esto reduciría el estrés y los olvidos, además de evitar desplazamientos innecesarios hacia la cocina.
 
 
 ### 2.2.3. Análisis de entrevistas.
@@ -308,6 +309,14 @@ Resumen de entrevista:
 ### 2.3.2. User Task Matrix.
 
 ### 2.3.3. User Journey Mapping.
+
+#### Segmento 1: Dueños de restaurantes.
+
+<img src="/assets/chapter2/userjourney_owner.png">
+
+### Segmento 2: Empleados de restaurantes.
+
+<img src="/assets/chapter2/userjourney_worker.png">
 
 ### 2.3.4. Empathy Mapping.
 
@@ -332,5 +341,17 @@ As-Is:
 | Doing    | Revisa mesas físicamente                               | Cuenta ingredientes manualmente                | Asigna tareas verbalmente                  | Comunica cambios en persona              |
 | Thinking | "No tengo visibilidad en tiempo real" | "Podríamos quedarnos sin ingredientes"  | "El personal parece sobrecargado" | "La comunicación es ineficiente" |
 | Feeling  | Me siento inseguro sobre la disponibilidad de la mesas | Me preocupa que tengamos posibles ingredientes faltantes. | me siento estresado por la carga laboral | Me frusta que existan malentendidos al momento de comunicar |
+
+**Segmento 2**  
+
+Escenario: El empleado completa tareas y necesita comunicar su estado al supervisor.
+
+As-Is:
+
+| Fases    |                         Realizacion de tareas                               |                             Notificacion de tareas                         |                   Verificacion de insumos                       |     Comunicacion con el supervisor                                               |
+|----------|------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
+| Doing    | Limpia o Prepara manualmente                          | Notificando al supervisor cuando terminan las tareas de limpieza      | Verifica fisicamente el stock             | Busca al supervisor para reportes               |
+| Thinking | "Podría ser más eficiente" | "No sé si me escucharon" | "No hay sistema para ver stock" | "Ojalá hubiera mejor comunicación" |
+| Feeling  | Me siento insatisfecho con la manera en que realice mis tareas | Me siento inseguro sobre algunas notificaciones | Me preocupa que hayan faltantes | Me frusta dichos procesos |
 
 ## 2.4. Ubiquitous Language.
