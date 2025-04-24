@@ -148,7 +148,16 @@ Ciclo 2025-01
 ### [Anexos](#anexos-1)
 
 # Student Outcome
-| Criterio específico                                                   | Acciones realizadas | Conclusiones |
-|-----------------------------------------------------------------------|---------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.  |                     |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia |                     |              |
+
+ABET – EAC - Student Outcome 3
+
+Se refiere a la capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 3.
+
+
+| Criterio específico                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                         | Conclusiones |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | TB1:<br>        Romina Guadalupe Maita Falckenheiner: En esta entrega hice uso de mis habilidades de comunicación para poder coordinar y realizar las entrevistas, además que me mantuve al tanto con el equipo para completar las siguientes tareas: Landing Page, Impact Mapping, Carátula, Diagrama de Clases, Diagrama Base de Datos, entrevistas, etc. |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:<br>        Romina Guadalupe Maita Falckenheiner:aaaEn esta entrega, coordiné con el equipo a través de WhatsApp y Discord. Usé WhatsApp para asignar tareas de manera rápida y efectiva, mientras que en Discord mantuvimos conversaciones más detalladas sobre las entrevistas que estaba realizando. Esta combinación me permitió tener una comunicación fluida y asegurarme de que el equipo tuviera claro el progreso de cada tarea.                                                                                                                                                                                                                                                            |              |
