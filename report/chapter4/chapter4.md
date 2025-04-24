@@ -4,38 +4,42 @@
 
 ### 4.1.1. General Style Guidelines.
 
-Tono de Comunicación:
+**Tono de Comunicación:** <br>
+- Serio, por tratarse de un sistema dirigido a ambientes laborales.
+- Formal pero amigable, para mantener una comunicación profesional, sin ser distante.
+- Entusiasta, para transmitir pasión e impacto por la solución que representa KeepItFresh.
 
-Serio, por tratarse de un sistema dirigido a ambientes laborales.
-Formal pero amigable, para mantener una comunicación profesional, sin ser distante.
-Entusiasta, para transmitir pasión e impacto por la solución que representa KeepItFresh.
+**Tipografía:**<br>
+- **Montserrat:** Utilizada en títulos y encabezados. Moderna y clara.
+- **Open Sans:** Utilizada en párrafos y textos largos. Legible y versátil basado en el contenido.
 
-Tipografía:
+**Colores de Marca:**<br>
+- **Primario:** Verde (#28a745) - Representa frescura y sostenibilidad.
+- **Secundario:** Naranja (#ff9800) - Utilizado para elementos interactivos y botones.
+- **Neutro:** Gris (#2e2e2e) - Utilizado para textos secundarios y elementos de fondo.
+- **Fondo:** Blanco (#ffffff) - Limpio y claro, para facilitar la lectura.
 
-Montserrat: Utilizada en títulos y encabezados. Moderna y clara.
-Open Sans: Utilizada en párrafos y textos largos. Legible y versátil basado en el contenido.
+**Paleta de Colores:**<br>
 
-Colores de Marca:
+    Color            | Código Hex   |	Uso Principal
+    -----------------|--------------|--------------------------------
+    Verde	         |   #28a745    |	Color principal (frescura, sostenibilidad)
+    Blanco           |   #ffffff    |	Fondo principal
+    Naranja          |   #ff9800    |	Elementos interactivos (CTA, botones)
+    Gris             |   #2e2e2e    |	Fondos de cards
 
-    Color            |	Código Hex   |	Uso Principal
-    Verde	         |	  #28a745    |	Color principal (frescura, sostenibilidad)
-    Verde Oscuro     |	  #2e2e2e    |	Color de título de cards
-    Naranja          |	  #ff9800    |	Elementos interactivos (CTA, botones)
-    Naranja Oscuro   | 	  #e67e00    |	Hover (CTA, botones)
-
-Spacing y Layout:
-
-Uso de espacios en gris claro para dar claridad visual.
-Márgenes y paddings bien definidos para evitar sobrecarga visual.
-Cards con bordes redondeados, sombras suaves y aparición con transición para mejorar la jerarquía visual y la estética.
+**Spacing y Layout:**<br>
+- Uso de espacios en gris claro para dar claridad visual.
+- Márgenes y paddings bien definidos para evitar sobrecarga visual.
+- Cards con bordes redondeados, sombras suaves y aparición con transición para mejorar la jerarquía visual y la estética.
 
 ### 4.1.2. Web Style Guidelines.
 
-Responsive Design:
+**Responsive Design:**<br>
 
 La página es adaptable visualmente a cualquier dispositivo.
 
-Componentes Implementados:
+**Componentes Implementados:**<br>
 
 - Header: Título y botones de navegación.
 - Sección Hero: Título, descripción y botón llamativo.
@@ -43,7 +47,7 @@ Componentes Implementados:
 - Sección de CTA (Call To Action): Clara, directa y llamativa.
 - Footer: Señalización de derechos de autor.
 
-Interacciones:
+**Interacciones:** <br>
 
 - Hover sobre botones (cambio de color).
 - Layout limpio, sin mucha carga de imágenes y videos.
@@ -56,10 +60,10 @@ Orden lógico de las secciones:
 
 - Hero: Primer impacto visual y botón CTA.
 - ¿Qué es KeepItFresh?
-- ¿Cómo Funciona?
+- ¿Quiénes somos?
 - Beneficios.
-- Audiencias objetivo.
-- Contacto / Solicita una demo.
+- Comentarios de usuarios.
+- Contacto
 
 Dichos órdenes están detallados en las siguientes secciones.
 
@@ -67,25 +71,37 @@ Dichos órdenes están detallados en las siguientes secciones.
 
 - Jerárquico: El contenido se organiza desde lo más impactante e importante al detalle.
 - Secuencial: La explicación del funcionamiento del sistema sigue un paso a paso lógico.
-- Por audiencia: El mensaje está adaptado a el grupo clave: Restaurantes
+- Por audiencia: El mensaje está adaptado al grupo clave: Restaurantes
 
 ### 4.2.2. Labeling Systems.
 
-Se representarán los datos basado en el sistema de organización detallado anteriormente, buscando así, la simplicidad y objetividad.
+Se representarán los datos basados en el sistema de organización detallado anteriormente, buscando así, la simplicidad y objetividad.
 
 Etiquetas utilizadas en el sitio:
 
 - “¿Qué es KeepItFresh?”
-- “¿Cómo Funciona?”
+- “Sobre nosotros”
 - “Beneficios”
-- “Solicita una Demo”
+- “Experiencias de usuarios”
 
 ### 4.2.3. SEO Tags and Meta Tags
+- **Title:** KeepItFresh - Sistema de gestión de alimentos.
+- **Description:** KeepItFresh es un sistema de gestión de alimentos que ayuda a los restaurantes a optimizar su inventario y reducir el desperdicio.
+- **Keywords:** KeepItFresh, gestión de alimentos, optimización de inventario, reducción de desperdicio.
+- **Meta Tags:**
+  - **Viewport:** width=device-width, initial-scale=1.0
+  - **Charset:** UTF-8
+- **Author:** Go4U
 
 ### 4.2.4. Searching Systems.
 
-### 4.2.5. Navigation Systems.
+- **Búsqueda por categorías:** Facilita la navegación a través de diferentes secciones del sitio mediante la barra de navegación.
+- **Búsqueda por etiquetas:** Permite a los usuarios encontrar contenido relacionado a través de etiquetas asignadas a diferentes secciones del sitio en la barra de navegación.
 
+### 4.2.5. Navigation Systems.
+- **Barra de navegación:** Incluye enlaces a las secciones principales del sitio: Inicio, ¿Qué es KeepItFresh?, Beneficios, Comentarios de usuarios, Contacto.
+- **Botones de llamada a la acción (CTA):** Botones destacados en la sección Hero y en otras partes del sitio para guiar a los usuarios hacia acciones específicas, como "Solicitar una demostración" o "Contactar".
+- **Footer:** Incluye enlaces a las políticas de privacidad, términos de servicio y contacto.
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
