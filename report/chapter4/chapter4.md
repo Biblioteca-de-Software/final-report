@@ -148,9 +148,8 @@ Diagrama de componente de Supplier Management
 ![DiagramComponentsupplierManagementBC.png](../../assets/DiagramComponentsupplierManagementBC.png)
 
 ### 4.7.1. Class Diagrams.
-
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
-
 ### 4.8.1. Database Diagram.
+![ClassDiagram_KeepItFresh.png](../../assets/ClassDiagram_KeepItFresh.png)
