@@ -196,8 +196,8 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Apellido             | Melgarejo                                                                                                                                                                                                                                                                                                                   |
 | Edad                 | 52 años                                                                                                                                                                                                                                                                                                                     |
-| Distrito             |                                                                                                                                                                                                                                                                                                                             |
-| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| Distrito             | Lince                                                                                                                                                                                                                                                                                                                       |
+| Evidencia            | ![entrevistaRichard.png](../../assets/chapter2/entrevistaRichard.png)                                                                                                                                                                                                                                                       |
 | Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
 | Inicio de entrevista | 6:33                                                                                                                                                                                                                                                                                                                        |    
 | Fin de entrevista    | 25:26                                                                                                                                                                                                                                                                                                                       |
@@ -232,7 +232,7 @@ Luis Agurto, fundador y gerente general de la cevichería "El Molinero", señal�
 | Apellido             | Céspedes                                                                                                                                                                                                                                                                                                                    |
 | Edad                 | 54 años                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | Miami                                                                                                                                                                                                                                                                                                                       |
-| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![EntrevistaDaniel.png](../../assets/chapter2/EntrevistaDaniel.png)                                                                                                                                                                                                                                                                                                                            |
 | Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
 | Inicio de entrevista | 25:27                                                                                                                                                                                                                                                                                                                       |    
 | Fin de entrevista    | 39:54                                                                                                                                                                                                                                                                                                                       |
@@ -253,7 +253,7 @@ Daniel Céspedes, cofundador del restaurante de comida criolla en Miami "El poll
 | Apellido             | Espinoza                                                                                                                                                                                                                                                                                                                    |
 | Edad                 | 21 años                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | Los Olivos                                                                                                                                                                                                                                                                                                                  |
-| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![EntrevistaDiego.png](../../assets/chapter2/EntrevistaDiego.png)                                                                                                                                                                                                                                                                                                                            |
 | Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
 | Inicio de entrevista | 42:56                                                                                                                                                                                                                                                                                                                       |    
 | Fin de entrevista    | 47:11                                                                                                                                                                                                                                                                                                                       |
@@ -299,6 +299,79 @@ Luis nos comenta que tiene responsabilidades relacionadas con el inventario, el 
 
 
 ### 2.2.3. Análisis de entrevistas.
+
+**Segmento 1:**<br> 
+**Propietarios y/o fundadores de restaurantes**<br>
+**Entrevistados:** Richard Melgarejo, Luis Agurto, Daniel Céspedes
+Cantidad: 3/6 (50%)
+
+**Características objetivas:**<br>
+- Experiencia en gestión de restaurantes: 3/3 (100%)
+
+- Uso de métodos manuales (papel/lápiz o propios): 3/3 (100%)
+
+- Deseo de automatizar la gestión de inventario: 3/3 (100%)
+
+**Características subjetivas:**<br>
+- Valoración de la eficiencia operativa: 3/3 (100%)
+
+- Interés por análisis de datos y ventas: 2/3 (66%)
+
+- Actitud abierta a la innovación tecnológica: 3/3 (100%)
+
+**Segmento 2:**<br>
+**Personal operativo (meseros y operativos de inventario)**<br>
+**Entrevistados:** Diego Espinoza, Luis Roman, Esthephano Moscoso
+Cantidad: 3/6 (50%)
+
+**Características objetivas:**
+- Participación en gestión de inventario: 3/3 (100%)
+
+- Frecuencia de revisión del inventario durante el día: 2/3 (66%)
+
+- Interacción directa con cocina y atención al cliente: 3/3 (100%)
+
+**Características subjetivas:**
+- Deseo de automatización para facilitar el trabajo: 3/3 (100%)
+
+- Necesidad de mejorar la coordinación entre cocina y servicio: 3/3 (100%)
+
+- Percepción de carga de trabajo o estrés por falta de tecnología: 3/3 (100%)
+
+**Análisis global (6 entrevistados)**
+
+| **Característica común**                  | **Frecuencia** | **Porcentaje** |
+|-------------------------------------------|----------------|----------------|
+| Interés en automatizar inventario         | 6/6            | 100%           |
+| Uso actual de métodos manuales o informales | 5/6            | 83%            |
+| Valoración de la eficiencia y optimización del tiempo | 6/6 | 100%           |
+| Deseo de incorporar tecnología            | 6/6            | 100%           |
+| Interés en análisis predictivo o de ventas | 3/6            | 50%            |
+| Necesidad de mejorar la coordinación interna | 3/6          | 50%            |
+
+**Conclusiones para construcción de arquetipos**<br>
+
+**Arquetipo 1:** El Administrador Estratégico.
+
+**Perfil:** Propietario o gerente de restaurante.
+
+**Dolor principal:** Gestión manual del inventario, falta de análisis detallado de ventas.
+
+**Necesidades:** Plataforma que brinde control de inventario, estadísticas de productos más vendidos y sugerencias para optimizar el menú.
+
+**Motivación:** Optimización de recursos y mejora en la toma de decisiones.
+
+**Arquetipo 2:** El Operador Multifuncional.
+
+**Perfil:** Personal operativo (meseros o encargados de inventario).
+
+**Dolor principal:** Carga de trabajo alta, poca visibilidad del estado de pedidos, coordinación deficiente con cocina.
+
+**Necesidades:** Aplicación que automatice el control de stock, indique vigencia de productos, organice pedidos y comunique alertas de cocina.
+
+**Motivación:** Agilizar tareas diarias, reducir errores y evitar desplazamientos innecesarios.
+
+
 
 ## 2.3. Needfinding.
 
