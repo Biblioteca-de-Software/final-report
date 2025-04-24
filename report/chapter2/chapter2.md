@@ -310,6 +310,14 @@ Luis nos comenta que tiene responsabilidades relacionadas con el inventario, el 
 
 ### 2.3.3. User Journey Mapping.
 
+#### Segmento 1: Dueños de restaurantes.
+
+<img src="/assets/chapter2/userjourney_owner.jpg">
+
+### Segmento 2: Empleados de restaurantes.
+
+<img src="/assets/chapter2/userjourney_worker.png">
+
 ### 2.3.4. Empathy Mapping.
 
 #### Segmento 1: Dueños de restaurantes.
