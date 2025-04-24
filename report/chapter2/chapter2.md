@@ -276,6 +276,10 @@ Además, nos deja en claro lo útil que sería una aplicación que ayude al llam
 | Inicio de entrevista | 47:12                                                                                                                                                                                                                                                                                                                       |    
 | Fin de entrevista    | 53:50                                                                                                                                                                                                                                                                                                                       |
 
+Resumen de entrevista:
+
+Estephano Moscoso trabaja en un restaurante cerca de su casa. Él realiza múltiples funciones, como lavar y cocinar. Durante su turno, se encarga de la organización del inventario, atiende como mesero y también actúa como ayudante de cocina. Además, nos comenta que para organizar el inventario utilizan un cuaderno, en el que van sumando y restando los productos manualmente. Finalmente, menciona que para verificar si un producto está en stock, realizan inspecciones semanales.
+
 - _Entrevista 3_
 
 | Nombre               | Luis                                                                                                                                                                                                                                                                                                                        |
@@ -355,3 +359,18 @@ As-Is:
 | Feeling  | Me siento insatisfecho con la manera en que realice mis tareas | Me siento inseguro sobre algunas notificaciones | Me preocupa que hayan faltantes | Me frusta dichos procesos |
 
 ## 2.4. Ubiquitous Language.
+- Ubiquitous Language es un término que se refiere a un lenguaje común y compartido que se utiliza entre los miembros de un equipo de desarrollo de software, así como con los usuarios finales y otros interesados en el proyecto. Este lenguaje ayuda a asegurar que todos tengan una comprensión clara y coherente de los conceptos, términos y procesos involucrados en el desarrollo del software. A continuación, se presenta la lista de términos que se utilizarán en el desarrollo de la plataforma KeepltFresh, junto con sus definiciones y ejemplos de uso.
+
+- Fecha de caducidad: Día límite en el que un producto debe ser utilizado antes de ser considerado no apto para el consumo.
+
+- Sensor de temperatura: Dispositivo IoT que registra la temperatura de los productos almacenados y genera alertas si esta supera los límites establecidos.
+
+- Sensor de gases: Dispositivo IoT que mide la concentración de gases como etileno y otros indicadores de descomposición o calidad del aire.
+
+- Nivel de descomposición: Indicador del estado de deterioro de un alimento, calculado a partir de sensores de temperatura y gases.
+
+- Botón de llamado: Funcionalidad dentro del sistema que permite a los clientes de una mesa llamar a un trabajador para solicitar atención.
+
+- Optimización del servicio: Resultado de la mejora en la atención al cliente y en la eficiencia del personal, gracias al uso del botón de llamado y a la centralización de alertas.
+
+- Gestión de IoT: Administración de los sensores conectados, su configuración, mantenimiento y visualización de los datos recolectados.
