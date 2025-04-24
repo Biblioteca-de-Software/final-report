@@ -214,8 +214,8 @@ El entrevistado considera importante que al momento de usar una plataforma de in
 | Nombre               | Luis       |
 |----------------------|------------|
 | Apellido             |   Agurto   |
-| Edad                 |  |
-| Distrito             |  |
+| Edad                 |   34 años  |
+| Distrito             | San Borja  |
 | Evidencia            |  |
 | Url                  |  |
 | Inicio de entrevista |  |    
