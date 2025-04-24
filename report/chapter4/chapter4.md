@@ -111,7 +111,8 @@ Etiquetas utilizadas en el sitio:
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepFresh.
 ![ContextDiagram.png](../../assets/ContextDiagram.png)
 ### 4.6.2. Software Architecture Container Diagrams.
-
+A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
+![ContextDiagram.png](../../assets/ContainerDiagram.png)
 ### 4.6.3. Software Architecture Components Diagrams.
 
 ## 4.7. Software Object-Oriented Design.
