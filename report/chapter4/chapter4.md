@@ -114,9 +114,9 @@ Etiquetas utilizadas en el sitio:
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 
 ## 4.5. Web Applications Prototyping.
 
