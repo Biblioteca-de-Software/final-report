@@ -312,7 +312,7 @@ Luis nos comenta que tiene responsabilidades relacionadas con el inventario, el 
 
 #### Segmento 1: Dueños de restaurantes.
 
-<img src="/assets/chapter2/userjourney_owner.jpg">
+<img src="/assets/chapter2/userjourney_owner.png">
 
 ### Segmento 2: Empleados de restaurantes.
 
