@@ -103,10 +103,33 @@ Etiquetas utilizadas en el sitio:
 - **Botones de llamada a la acción (CTA):** Botones destacados en la sección Hero y en otras partes del sitio para guiar a los usuarios hacia acciones específicas, como "Solicitar una demostración" o "Contactar".
 - **Footer:** Incluye enlaces a las políticas de privacidad, términos de servicio y contacto.
 ## 4.3. Landing Page UI Design.
-
 ### 4.3.1. Landing Page Wireframe.
 
+![wireframe.jpg](../../assets/wireframe.jpg)<br>
+
+![wireframe2.jpg](../../assets/wireframe2.jpg)<br>
+
+![wireframe3.jpg](../../assets/wireframe3.jpg)<br>
+
+![wireframe4.jpg](../../assets/wireframe4.jpg)<br>
+
+![wireframe5.jpg](../../assets/wireframe5.jpg)<br>
+
+![wireframe6.jpg](../../assets/wireframe6.jpg)<br>
+
 ### 4.3.2. Landing Page Mock-up.
+
+![mockup1.png](../../assets/mockup1.png)<br>
+
+![mockup2.png](../../assets/mockup2.png)<br>
+
+![mockup3.png](../../assets/mockup3.png)<br>
+
+![mockup4.png](../../assets/mockup4.png)<br>
+
+![mockup5.png](../../assets/mockup5.png)<br>
+
+![mockup6.png](../../assets/mockup6.png)<br>
 
 ## 4.4. Web Applications UX/UI Design.
 
