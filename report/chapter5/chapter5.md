@@ -72,7 +72,7 @@ El deployment del software se realizó en GitHub Pages. Se creó, donde se aloja
 **URL del repositorio de la landing page:** https://biblioteca-de-software.github.io/landing-page/
 <br>
 **URL de la landing page deployada:** https://biblioteca-de-software.github.io/landing-page/
-![deploymentEvidence.png](../../assets/deploymentEvidence.png)
+![deploymentEvidence.png](../../assets/chapter5/deploymentEvidence.png)
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint n
 
@@ -129,26 +129,26 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
-![people.png](../../assets/people.png)
+![people.png](../../assets/chapter5/people.png)
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
-![deploymentEvidence.png](../../assets/deploymentEvidence.png)
+![deploymentEvidence.png](../../assets/chapter5/deploymentEvidence.png)
 <br>
 
 Aquí vemos la evidencia de la creación de dichos repositorios mencionados con anterioridad.
-![evidence.png](../../assets/evidence.png)
+![evidence.png](../../assets/chapter5/evidence.png)
 
 Aquí podemos notar la ejecución de los commits a lo largo del reporte
-![Evidence2.png](../../assets/Evidence2.png)
+![Evidence2.png](../../assets/chapter5/Evidence2.png)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
-![Evidence3.png](../../assets/Evidence3.png)
+![Evidence3.png](../../assets/chapter5/Evidence3.png)
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Aquí podemos evidenciar como ya se realizaron las tareas y no hay ningún error que corregir.
-![NoToDos.png](../../assets/NoToDos.png)
+![NoToDos.png](../../assets/chapter5/NoToDos.png)
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesarias para todo tipo de dificultad que se presentaba. Se usó la herramienta de Discord para poder comunicarnos y realizar las reuniones necesarias.
-![discord.png](../../assets/discord.png)
+![discord.png](../../assets/chapter5/discord.png)
 
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
