@@ -56,6 +56,8 @@
 
 ## 3.3. Impact Mapping.
 
+<img src="/assets/chapter3/impactmapping.jpeg">
+
 ## 3.4. Product Backlog.
 
 |     #Orden    |     User Story Id    |                   Título                 |                                                                                          Descripción                                                                                        |     Story Points (1/2/3/5/8)    |
