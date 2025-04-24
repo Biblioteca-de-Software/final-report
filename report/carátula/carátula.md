@@ -54,6 +54,12 @@ Ciclo 2025-01
 
 # Project Report Collaboration Insights
 
+Insights del reporte:
+![p1](/assets/p1.jpeg)
+
+Insights del landing page:
+![p2](/assets/p2.jpeg)
+
 # Contenido
 
 ## Tabla de Contenidos
