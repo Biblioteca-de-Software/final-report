@@ -192,15 +192,15 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 1_
 
-| Nombre               | Richard   |
-|----------------------|-----------|
-| Apellido             | Melgarejo |
-| Edad                 | 52 años   |
-| Distrito             |           |
-| Evidencia            |           |
-| Url                  |           |
-| Inicio de entrevista |           |    
-| Fin de entrevista    |           |
+| Nombre               | Richard                                                                                                                                                                                                                                                                                                                     |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Melgarejo                                                                                                                                                                                                                                                                                                                   |
+| Edad                 | 52 años                                                                                                                                                                                                                                                                                                                     |
+| Distrito             |                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
+| Inicio de entrevista | 6:33                                                                                                                                                                                                                                                                                                                        |    
+| Fin de entrevista    | 25:26                                                                                                                                                                                                                                                                                                                       |
 
 Resumen de entrevista:
 
@@ -211,15 +211,15 @@ El entrevistado considera importante que al momento de usar una plataforma de in
 
 - _Entrevista 2_
 
-| Nombre               | Luis       |
-|----------------------|------------|
-| Apellido             |   Agurto   |
-| Edad                 |   34 años  |
-| Distrito             | San Borja  |
-| Evidencia            |  |
-| Url                  |  |
-| Inicio de entrevista |  |    
-| Fin de entrevista    |  |
+| Nombre               | Luis                                                                                                                                                                                                                                                                                                                        |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Agurto                                                                                                                                                                                                                                                                                                                      |
+| Edad                 | 34 años                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | San Borja                                                                                                                                                                                                                                                                                                                   |
+| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
+| Inicio de entrevista | 0:00                                                                                                                                                                                                                                                                                                                        |    
+| Fin de entrevista    | 6:32                                                                                                                                                                                                                                                                                                                        |
 
 Resumen de entrevista:
 
@@ -227,15 +227,15 @@ Luis Agurto, fundador y gerente general de la cevichería "El Molinero", señal�
 
 - _Entrevista 3_
 
-| Nombre               | Daniel   |
-|----------------------|----|
-| Apellido             | Céspedes   |
-| Edad                 | 54 años  |
-| Distrito             | Miami   |
-| Evidencia            |    |
-| Url                  |    |
-| Inicio de entrevista |    |    
-| Fin de entrevista    |    |
+| Nombre               | Daniel                                                                                                                                                                                                                                                                                                                      |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Céspedes                                                                                                                                                                                                                                                                                                                    |
+| Edad                 | 54 años                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | Miami                                                                                                                                                                                                                                                                                                                       |
+| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
+| Inicio de entrevista | 25:27                                                                                                                                                                                                                                                                                                                       |    
+| Fin de entrevista    | 39:54                                                                                                                                                                                                                                                                                                                       |
 
 
 Resumen de entrevista:
@@ -248,15 +248,15 @@ Daniel Céspedes, cofundador del restaurante de comida criolla en Miami "El poll
 
 - _Entrevista 1_
 
-| Nombre               |    Diego   |
-|----------------------|------------|
-| Apellido             |  Espinoza  |
-| Edad                 |  21 años   |
-| Distrito             | Los Olivos |
-| Evidencia            |    |
-| Url                  |    |
-| Inicio de entrevista |    |    
-| Fin de entrevista    |    |
+| Nombre               | Diego                                                                                                                                                                                                                                                                                                                       |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Espinoza                                                                                                                                                                                                                                                                                                                    |
+| Edad                 | 21 años                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | Los Olivos                                                                                                                                                                                                                                                                                                                  |
+| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
+| Inicio de entrevista | 42:56                                                                                                                                                                                                                                                                                                                       |    
+| Fin de entrevista    | 47:11                                                                                                                                                                                                                                                                                                                       |
 
 Resumen de entrevista:
 
@@ -266,27 +266,27 @@ Además, nos deja en claro lo útil que sería una aplicación que ayude al llam
 
 - _Entrevista 2_
 
-| Nombre               |    |
-|----------------------|----|
-| Apellido             |    |
-| Edad                 |    |
-| Distrito             |    |
-| Evidencia            |    |
-| Url                  |    |
-| Inicio de entrevista |    |    
-| Fin de entrevista    |    |
+| Nombre               |                                                                                                                                                                                                                                                                                                                             |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             |                                                                                                                                                                                                                                                                                                                             |
+| Edad                 |                                                                                                                                                                                                                                                                                                                             |
+| Distrito             |                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
+| Inicio de entrevista | 47:12                                                                                                                                                                                                                                                                                                                       |    
+| Fin de entrevista    | 53:50                                                                                                                                                                                                                                                                                                                       |
 
 - _Entrevista 3_
 
-| Nombre               |     Luis      |
-|----------------------|---------------|
-| Apellido             |     Roman     |
-| Edad                 |    20 años    |
-| Distrito             |  Jesús María  |
-| Evidencia            |    |
-| Url                  |    |
-| Inicio de entrevista |    |    
-| Fin de entrevista    |    |
+| Nombre               | Luis                                                                                                                                                                                                                                                                                                                        |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Roman                                                                                                                                                                                                                                                                                                                       |
+| Edad                 | 20 años                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | Jesús María                                                                                                                                                                                                                                                                                                                 |
+| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
+| Inicio de entrevista | 39:55                                                                                                                                                                                                                                                                                                                       |    
+| Fin de entrevista    | 42:55                                                                                                                                                                                                                                                                                                                       |
 
 Resumen de entrevista: 
 
