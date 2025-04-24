@@ -103,8 +103,36 @@ Etiquetas utilizadas en el sitio:
 - **Botones de llamada a la acción (CTA):** Botones destacados en la sección Hero y en otras partes del sitio para guiar a los usuarios hacia acciones específicas, como "Solicitar una demostración" o "Contactar".
 - **Footer:** Incluye enlaces a las políticas de privacidad, términos de servicio y contacto.
 ## 4.3. Landing Page UI Design.
-
+Se optó por utilizar una Landing Page como herramienta clave para captar potenciales clientes mediante mensajes atractivos e información relevante del producto. Se diseñaron dos versiones: una para dispositivos móviles y otra para computadoras.
+En móviles, el contenido es el mismo que en la versión de escritorio, pero adaptado al tamaño de pantalla. Se reorganizó el diseño y se incluyó un botón de navegación que mejora la experiencia del usuario al recorrer la página de forma sencilla e intuitiva.
+En la versión para computadoras, se incorporaron secciones con descripciones claras de cada opción, facilitando la comprensión del sitio. Además, la barra de navegación permanece fija, permitiendo un acceso constante y fluido a todas las secciones de la Landing Page
 ### 4.3.1. Landing Page Wireframe.
+En esta sección se define la base del diseño web del software, tanto para la versión de escritorio como para la versión móvil. El objetivo es mostrar de forma clara el contenido principal de la plataforma.
+
+La Landing Page se adapta al tamaño de cada pantalla, con la información centrada para mejorar la visibilidad. Se prioriza una presentación concisa, evitando sobrecargar al usuario. Además, se incluye una barra de navegación fija que facilita el recorrido por la página de forma intuitiva.
+
+![wireframe.jpg](../../assets/wireframe.jpg)
+Menu inicio de KeepItFresh.
+
+![wireframe2.jpg](../../assets/wireframe2.jpg)
+Apartado About us de KeepItFresh
+
+![wireframe3.jpg](../../assets/wireframe3.jpg)
+
+Planes disponibles de la plataforma
+
+![wireframe4.jpg](../../assets/wireframe4.jpg)
+
+Menu de contacto a soporte
+
+![wireframe5.jpg](../../assets/wireframe5.jpg)
+
+Menu de beneficios
+
+![wireframe6.jpg](../../assets/wireframe6.jpg)
+
+Sobre nosotros
+
 
 ### 4.3.2. Landing Page Mock-up.
 
