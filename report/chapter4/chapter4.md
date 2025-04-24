@@ -148,8 +148,145 @@ Diagrama de componente de Supplier Management
 ![DiagramComponentsupplierManagementBC.png](../../assets/DiagramComponentsupplierManagementBC.png)
 
 ### 4.7.1. Class Diagrams.
+![ClassDiagram_KeepItFresh - open.png](../../assets/ClassDiagram_KeepItFresh%20-%20open.png)
 ### 4.7.2. Class Dictionary.
+```markdown
+### IoT Devices
+**Atributos:**
+- `location: string`
+- `status: string`
+- `last_active: string`
 
+**Métodos:**
+- `+AuditInventory(): void`
+
+---
+
+### Product
+**Atributos:**
+- `name: string`
+- `expirationDate: string`
+- `quantity: int`
+- `category: string`
+
+**Métodos:**
+- `+showInfo(): void`
+- `+updateQuantity(): void`
+
+---
+
+### Inventario (interface)
+**Métodos:**
+- `+AddProduct(): void`
+- `+RemoveProduct(): void`
+- `+UpdateProduct(): void`
+- `+AdjustStockLevel(): void`
+- `+CheckStockLevel(): void`
+- `+SetInventory(): void`
+- `+RetrieveInventory(): void`
+- `+SearchProductByName(productName: string): void`
+- `+GetProductList(): void`
+- `+RecordInventoryChange(): void`
+- `+GenerateInventoryReport(): void`
+
+---
+
+### Button_Notification
+**Atributos:**
+- `pressed: bool`
+- `lastPressedTime: string`
+- `status: string`
+
+**Métodos:**
+- `+pressButton(): string`
+- `+resetButton(): string`
+
+---
+
+### Waiter
+**Atributos:**
+- `name: string`
+- `age: int`
+- `occupation: string`
+
+---
+
+### Restaurant
+**Atributos:**
+- `restaurantID: int`
+- `restaurantName: string`
+- `restaurantOwner: RestaurantOwner`
+- `address: string`
+- `product: Product`
+
+**Métodos:**
+- `+addWaiter(w: Waiter): void`
+- `+removeWaiter(w: Waiter): void`
+
+---
+
+### RestaurantOwner
+**Atributos:**
+- `-List<Restaurant>: Restaurant`
+
+**Métodos:**
+- `+watchNotifications(): void`
+
+---
+
+### SensorNotification
+**Atributos:**
+- `alertType: string`
+- `status: string`
+
+**Métodos:**
+- `+send(): void`
+- `+checkDevice(): void`
+- `+sendAlert(): void`
+- `+getStatus(): void`
+
+---
+
+### Subscription
+**Atributos:**
+- `planType: string`
+- `startDate: string`
+- `durationMonths: int`
+- `pricePerMonth: float`
+
+**Métodos:**
+- `+calculateTotalPrice(): float`
+- `+cancelSubscription(): void`
+
+---
+
+### User (Entidad)
+**Atributos:**
+- `loginID: string`
+- `email: string`
+- `userName: string`
+- `password: string`
+- `phone_number: int`
+- `userID: int`
+
+---
+
+### Operaciones_Usuario (interface)
+**Métodos:**
+- `+changePassword(username: String, oldPassword: String, newPassword: String): bool`
+- `+changeName(username: String, oldName: String, newName: String): bool`
+- `+editInfo(): bool`
+- `+logout(username: String): bool`
+
+---
+
+### Autenticación_usuario (interface)
+**Métodos:**
+- `+login(username: String, password: String): bool`
+- `+register(email: String, username: String, password: String): bool`
+- `+logout(username: String): bool`
+- `+validateUser(username: String, oldPassword: String, newPassword: String): bool`
+```
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 ![ClassDiagram_KeepItFresh.png](../../assets/ClassDiagram_KeepItFresh.png)
