@@ -152,3 +152,4 @@ Ciclo 2025-01
 |-----------------------------------------------------------------------|---------------------|--------------|
 | Comunica oralmente con efectividad a diferentes rangos de audiencia.  |                     |              |
 | Comunica por escrito con efectividad a diferentes rangos de audiencia |                     |              |
+
