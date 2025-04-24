@@ -12,6 +12,14 @@
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+|                                                                   | Apellido y Nombre               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                                      | Habilidades                                                                                             |
+|-------------------------------------------------------------------|---------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| | Briceño Llanos, Ayrton Omar | Ingeniería de Software | Escribir aqui | Escribir aqui |
+| | ------------------- | Ingeniería de Software | Escribir aqui | Escribir aqui |
+| | Lang Nassi, Werner Khalil | Ingeniería de Software | Escribir aqui | Escribir aqui |
+| | -------------------- | Ingeniería de Software | Escribir aqui | Escribir aqui |
+| | -------------------- | Ingeniería de Software | Escribir aqui | Escribir aqui |
+
 ## 1.2. Solution Profile
 
 **Product Name:** KeepItFresh <br>
