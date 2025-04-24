@@ -124,12 +124,28 @@ Etiquetas utilizadas en el sitio:
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
-
+En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepFresh.
+![ContextDiagram.png](../../assets/ContextDiagram.png)
 ### 4.6.2. Software Architecture Container Diagrams.
-
+A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
+![Container.png](../../assets/ContainerDiagram.png)
 ### 4.6.3. Software Architecture Components Diagrams.
+A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica## 4.7. Software Object-Oriented Design.
 
-## 4.7. Software Object-Oriented Design.
+Diagrama de componente de Customer Feedback
+![DiagramComponentcustomerFeedbackBC.png](../../assets/DiagramComponentcustomerFeedbackBC.png)
+
+Diagrama de componente de Inventory Monitoring
+![DiagramComponentinventoryMonitoringBC.png](../../assets/DiagramComponentinventoryMonitoringBC.png)
+
+Diagrama de componente de Location and Environment
+![DiagramComponentlocationAndEnvironmentBC.png](../../assets/DiagramComponentlocationAndEnvironmentBC.png)
+
+Diagrama de componente de Restaurant Operations
+![DiagramComponentrestaurantOperationsBC.png](../../assets/DiagramComponentrestaurantOperationsBC.png)
+
+Diagrama de componente de Supplier Management
+![DiagramComponentsupplierManagementBC.png](../../assets/DiagramComponentsupplierManagementBC.png)
 
 ### 4.7.1. Class Diagrams.
 
