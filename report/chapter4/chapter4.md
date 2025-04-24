@@ -205,6 +205,7 @@ Como dueño de restaurante, deseo generar reportes de ventas y exportarlos en fo
 
 ## 4.5. Web Applications Prototyping.
 
+<img src="/assets/Mockups_Userflow.png">
 
 ## 4.6. Domain-Driven Software Architecture.
 
