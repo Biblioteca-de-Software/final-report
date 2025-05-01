@@ -143,14 +143,31 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 - Panel de control centralizado e intuitivo con una fácil navegación.
 - Botón IoT para llamado de meseros que mejora la experiencia del cliente.
 - Alertas automáticas cuando las condiciones del inventario están fuera del rango óptimo.
+- Registro y consulta de inventario detallado
+- Historial de alertas
+- Medición del tiempo de respuesta de atencion al cliente
+- Gestión de suscripcion y facturación
+- Flujo de recepción y almacenamiento de inventario por el personal
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-1. Hipótesis 1: Creemos que al implementar KeepItFresh, los restaurantes de tamaño mediano podrán reducir en al menos un 30% el desperdicio de alimentos en los primeros tres meses, gracias al monitoreo continuo y en tiempo real del estado del inventario mediante sensores IoT.
+1. Hipótesis 1: Creemos que al implementar el monitoreo continuo y en tiempo real del estado del inventario mediante sensores IoT, los dueños de restaurantes podrán tomar decisiones más informadas sobre el inventario, lo cual reducirá el desperdicio de alimentos y las pérdidas.
 
-2. Hipótesis 2: Creemos que los dueños de restaurantes que utilicen KeepItFresh percibirán una mejora en la eficiencia operativa y en la gestión de inventario de al menos un 40%, al contar con alertas automatizadas, reportes visuales y un panel centralizado.
+2. Hipótesis 2: Creemos que al ofrecer un panel de control centralizado e intuitivo con fácil navegación para dueños y personal, la plataforma será fácil de usar y mejorará la eficiencia general en la gestión de inventario y alertas.
 
-3. Hipótesis 3: Creemos que al facilitar la atención al cliente mediante un botón IoT de llamado a meseros, los tiempos de espera disminuirán, generando una mejora del 25% en la percepción del servicio por parte de los comensales.
+3. Hipótesis 3: Creemos que al facilitar la atención al cliente mediante un botón IoT de llamado a meseros, los comensales solicitarán atención más fácilmente, lo cual disminuirá los tiempos de espera y generará una mejora en la experiencia y percepción del servicio por parte de los comensales.
+
+4. Hipótesis 4: Creemos que al enviar alertas automáticas cuando las condiciones del inventario están fuera del rango óptimo, los dueños y el personal podrán reaccionar a tiempo ante condiciones críticas, lo cual prevenirá la descomposición y reducirá las pérdidas económicas.
+
+5. Hipótesis 5: Creemos que al permitir a los dueños registrar y consultar inventario detallado (incluyendo vencimiento y condiciones de almacenamiento), tendrán mejor control sobre su stock y facilitarán una gestión más organizada del inventario.
+
+6. Hipótesis 6: Creemos que al proporcionar a los dueños un historial de alertas pasadas, podrán entender los incidentes ocurridos en ciertos días, lo cual les permitirá mejorar la planificación y toma de decisiones futuras para prevenir problemas recurrentes.
+
+7. Hipótesis 7: Creemos que al permitir a los administradores medir cuánto tiempo tarda el personal en atender una solicitud, podrán evaluar la eficiencia del servicio, lo cual contribuirá al objetivo de disminuir los tiempos de espera.
+
+8. Hipótesis 8: Creemos que al implementar un sistema de gestión de suscripción y facturación, generaremos un flujo de ingresos seguro y predecible para ClearView, mientras los dueños gestionan de forma transparente su alquiler de servicio.
+
+9. Hipótesis 9: Creemos que al proporcionar un flujo específico para que el personal registre y almacene inventario entrante, el proceso de actualización de stock será más eficiente y preciso para los trabajadores, lo cual reducirá su carga de trabajo y asegurará registros exactos en el sistema.
 
 #### 1.2.2.4. Lean UX Canvas.
 
