@@ -4,19 +4,11 @@
 
 **Segmento 1**
 
-| Fases       | Verificación de mesas          | Gestión de inventario        | Asignación de tareas      | Comunicación con equipo    |
-|-------------|--------------------------------|------------------------------|---------------------------|---------------------------|
-| **Doing**   | Consulta sistema de reservas en tiempo real | Recibe alertas automáticas de bajo stock | Asigna tareas mediante plataforma digital | Coordina mediante chat integrado |
-| **Thinking**| "Tengo visibilidad completa del estado del restaurante" | "El sistema me avisa antes de quedarnos sin ingredientes" | "Puedo balancear mejor las cargas de trabajo" | "Todos reciben las actualizaciones al instante" |
-| **Feeling** | Tranquilo y en control | Confiado en los suministros | Satisfecho con la distribución | Conectado con el equipo |
+![alt text](../../assets/chapter3/To_Be_Seg1.png)
 
 **Segmento 2**
 
-|     Fases       |     Sistema de botón IOT                                                            |     Verificación de recursos                               |     Exportación de reportes                                     |     Verificación de estado de recursos                                                             |
-|-----------------|-------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-|     Doing       |     Los clientes usan el botón para llamar al mesero                                |     Verifica disponibilidad y cantidad de los alimentos    |     Exporta los reportes diarios en PDF/Excel                   |     Verifica el estado de conservación de los productos                                            |
-|     Thinking    |     “Puedo saber el momento exacto en el que llaman y los atiendo   rápidamente”    |     "Sé si falta algo antes se acabe"                      |     “Puedo tener los reportes ordenados cuando los necesite”    |     “Puedo estar tranquilo porque sé que los productos no se vencerán   y están en buen estado”    |
-|     Feeling     | Mejora notoria en la atención                                                       |     Tranquilo por evitar falta o pérdida de productos      |     Organizado y enfocado                                       |     Confiado en su rendimiento                                                                     |
+![alt text](../../assets/chapter3/To_Be_Seg2.png)    
 
 ## 3.2. User Stories.
 
