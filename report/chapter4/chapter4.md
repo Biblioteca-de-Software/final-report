@@ -2,6 +2,8 @@
 
 ## 4.1. Style Guidelines.
 
+En esta sección, se presentan las pautas de estilo y diseño que guiarán la creación de la página web y la aplicación web de KeepItFresh. Estas pautas aseguran una experiencia de usuario coherente y atractiva, alineada con la identidad de marca y los objetivos del proyecto.
+
 ### 4.1.1. General Style Guidelines.
 
 **Tono de Comunicación:** <br>
@@ -103,6 +105,9 @@ Etiquetas utilizadas en el sitio:
 - **Botones de llamada a la acción (CTA):** Botones destacados en la sección Hero y en otras partes del sitio para guiar a los usuarios hacia acciones específicas, como "Solicitar una demostración" o "Contactar".
 - **Footer:** Incluye enlaces a las políticas de privacidad, términos de servicio y contacto.
 ## 4.3. Landing Page UI Design.
+
+En esta sección, se presentan los wireframes y mock-ups de la página de inicio de KeepItFresh. Estos diseños visuales son fundamentales para establecer la estructura y apariencia del sitio web, asegurando una experiencia de usuario fluida y atractiva.
+
 ### 4.3.1. Landing Page Wireframe.
 
 ![wireframe.jpg](../../assets/chapter4/wireframe.jpg)
@@ -132,6 +137,8 @@ Etiquetas utilizadas en el sitio:
 ![mockup6.png](../../assets/chapter4/mockup6.png)
 
 ## 4.4. Web Applications UX/UI Design.
+
+En esta sección, se presentan los wireframes y mock-ups de la aplicación web de KeepItFresh. Así como también, los wireflow y user flow diagrams. Estos diseños son esenciales para establecer la estructura y funcionalidad de la plataforma, asegurando una experiencia de usuario intuitiva y eficiente.
 
 ### 4.4.1. Web Applications Wireframes.
 
@@ -201,9 +208,13 @@ Como dueño de restaurante, deseo generar reportes de ventas y exportarlos en fo
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+Aquí, se presentan los diagramas de flujo de usuario para la aplicación web de KeepItFresh. Estos diagramas ilustran cómo los usuarios interactúan con la plataforma, desde el registro hasta la gestión del inventario y la generación de reportes.
+
 ![Mockups_Userflow.png](../../assets/chapter4/Mockups_Userflow.png)
 
 ## 4.5. Web Applications Prototyping.
+
+//ToDo
 
 ![Mockups_Userflow.png](../../assets/chapter4/Mockups_Userflow.png)
 
@@ -234,145 +245,151 @@ Diagrama de componente de Supplier Management
 ![DiagramComponentsupplierManagementBC.png](../../assets/chapter4/DiagramComponentsupplierManagementBC.png)
 
 ### 4.7.1. Class Diagrams.
+
+Aquí se presenta el diagrama de clases del sistema KeepItFresh. Este diagrama ilustra las entidades y sus relaciones, proporcionando una visión clara de la estructura del software.
+
 ![ClassDiagram_KeepItFresh - open.png](../../assets/chapter4/ClassDiagram_KeepItFresh%20-%20open.png)
 ### 4.7.2. Class Dictionary.
-```markdown
+A continuación, se presenta un diccionario de clases que describe las entidades y sus atributos, así como los métodos asociados a cada una. Este diccionario proporciona una referencia clara para comprender la estructura y funcionalidad del sistema.
 ### IoT Devices
 **Atributos:**
-- `location: string`
-- `status: string`
-- `last_active: string`
+- location: string
+- status: string
+- last_active: string
 
 **Métodos:**
-- `+AuditInventory(): void`
+- AuditInventory(): void
 
 ---
 
 ### Product
+
 **Atributos:**
-- `name: string`
-- `expirationDate: string`
-- `quantity: int`
-- `category: string`
+- name: string
+- expirationDate: string
+- quantity: int
+- category: string
 
 **Métodos:**
-- `+showInfo(): void`
-- `+updateQuantity(): void`
+- showInfo(): void
+- updateQuantity(): void
 
 ---
 
 ### Inventario (interface)
 **Métodos:**
-- `+AddProduct(): void`
-- `+RemoveProduct(): void`
-- `+UpdateProduct(): void`
-- `+AdjustStockLevel(): void`
-- `+CheckStockLevel(): void`
-- `+SetInventory(): void`
-- `+RetrieveInventory(): void`
-- `+SearchProductByName(productName: string): void`
-- `+GetProductList(): void`
-- `+RecordInventoryChange(): void`
-- `+GenerateInventoryReport(): void`
+- AddProduct(): void
+- RemoveProduct(): void
+- UpdateProduct(): void
+- AdjustStockLevel(): void
+- CheckStockLevel(): void
+- SetInventory(): void
+- RetrieveInventory(): void
+- SearchProductByName(productName: string): void
+- GetProductList(): void
+- RecordInventoryChange(): void
+- GenerateInventoryReport(): void
 
 ---
 
 ### Button_Notification
 **Atributos:**
-- `pressed: bool`
-- `lastPressedTime: string`
-- `status: string`
+- pressed: bool
+- lastPressedTime: string
+- status: string
 
 **Métodos:**
-- `+pressButton(): string`
-- `+resetButton(): string`
+- pressButton(): string
+- resetButton(): string
 
 ---
 
 ### Waiter
 **Atributos:**
-- `name: string`
-- `age: int`
-- `occupation: string`
+- name: string
+- age: int
+- occupation: string
 
 ---
 
 ### Restaurant
 **Atributos:**
-- `restaurantID: int`
-- `restaurantName: string`
-- `restaurantOwner: RestaurantOwner`
-- `address: string`
-- `product: Product`
+- restaurantID: int
+- restaurantName: string
+- restaurantOwner: RestaurantOwner
+- address: string
+- product: Product
 
 **Métodos:**
-- `+addWaiter(w: Waiter): void`
-- `+removeWaiter(w: Waiter): void`
+- addWaiter(w: Waiter): void
+- removeWaiter(w: Waiter): void
 
 ---
 
 ### RestaurantOwner
 **Atributos:**
-- `-List<Restaurant>: Restaurant`
+- List<Restaurant>: Restaurant
 
 **Métodos:**
-- `+watchNotifications(): void`
+- watchNotifications(): void
 
 ---
 
 ### SensorNotification
 **Atributos:**
-- `alertType: string`
-- `status: string`
+- alertType: string
+- status: string
 
 **Métodos:**
-- `+send(): void`
-- `+checkDevice(): void`
-- `+sendAlert(): void`
-- `+getStatus(): void`
+- send(): void
+- checkDevice(): void
+- sendAlert(): void
+- getStatus(): void
 
 ---
 
 ### Subscription
 **Atributos:**
-- `planType: string`
-- `startDate: string`
-- `durationMonths: int`
-- `pricePerMonth: float`
+- planType: string
+- startDate: string
+- durationMonths: int
+- pricePerMonth: float
 
 **Métodos:**
-- `+calculateTotalPrice(): float`
-- `+cancelSubscription(): void`
+- calculateTotalPrice(): float
+- cancelSubscription(): void
 
 ---
 
 ### User (Entidad)
 **Atributos:**
-- `loginID: string`
-- `email: string`
-- `userName: string`
-- `password: string`
-- `phone_number: int`
-- `userID: int`
+- loginID: string
+- email: string
+- userName: string
+- password: string
+- phone_number: int
+- userID: int
 
 ---
 
 ### Operaciones_Usuario (interface)
 **Métodos:**
-- `+changePassword(username: String, oldPassword: String, newPassword: String): bool`
-- `+changeName(username: String, oldName: String, newName: String): bool`
-- `+editInfo(): bool`
-- `+logout(username: String): bool`
+- changePassword(username: String, oldPassword: String, newPassword: String): bool
+- changeName(username: String, oldName: String, newName: String): bool
+- editInfo(): bool
+- logout(username: String): bool
 
 ---
 
 ### Autenticación_usuario (interface)
 **Métodos:**
-- `+login(username: String, password: String): bool`
-- `+register(email: String, username: String, password: String): bool`
-- `+logout(username: String): bool`
-- `+validateUser(username: String, oldPassword: String, newPassword: String): bool`
-```
+- login(username: String, password: String): bool
+- register(email: String, username: String, password: String): bool
+- logout(username: String): bool
+- validateUser(username: String, oldPassword: String, newPassword: String): bool
+
+
 ## 4.8. Database Design.
+En esta sección, se presenta el diseño de la base de datos para el sistema KeepItFresh. Este diseño incluye el diagrama de entidad-relación (ERD) y una descripción de las tablas y sus relaciones.
 ### 4.8.1. Database Diagram.
 ![DBDiagram_KeepItFresh.png](../../assets/chapter4/DBDiagram_KeepItFresh.png)
