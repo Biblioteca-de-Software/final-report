@@ -39,7 +39,7 @@ Estudios recientes han analizado los factores que impulsan el desperdicio de ali
 
 Dicho estudio, propone soluciones adaptadas a cada factor identificado, ofreciendo un marco relevante para abordar problemáticas similares en contextos gastronómicos. 
 
-**Problematicas:**
+**Problemáticas:**
 
 La gestión del inventario de un restaurante suele llegar a consumir muchos recursos y tiempo. Además también es muy complicado estar al tanto de la fecha de vencimiento por producto, al igual que la temperatura idónea de los mismos. También cuando un restaurante tiene una gran cantidad de clientela se le suele dificultar a los mozos darse cuenta cuando un cliente requiere de atención.
 
@@ -72,6 +72,8 @@ KeepItFresh facilitará el proceso de gestión de inventario mediante el monitor
 KeepItFresh tendrá el alcance de resolver esta problemática a todo aquel restaurante que compre sus servicios.
 
 ### 1.2.2 Lean UX Process.
+
+En esta sección, se presenta el proceso de Lean UX que se ha seguido para el desarrollo de la plataforma KeepItFresh. Este proceso incluye la creación de un Lean UX Problem Statement, Assumptions, Hypothesis Statements y un Lean UX Canvas. El objetivo es definir claramente el problema que se busca resolver, las suposiciones que se tienen sobre los usuarios y el producto, así como las hipótesis que guiarán el desarrollo del mismo.
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
