@@ -1,39 +1,47 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
+
+En esta sección se muestran las decisiones y convenciones que permitirán mantener consistencia durante el ciclo de vida del proyecto.
+
 ### 5.1.1. Software Development Environment Configuration.
 
-En esta sección, se incluirá los productos de software que se usaron el en proyecto.
+En esta sección, se incluirá los productos de software que se usaron en el proyecto.
+Los enlaces a cada una de las herramientas también se encuentran disponibles en los anexos.
 
-Se clasificará en el siguiente orden:
-- Producto UX/UI Design.
-- Software Development.
-- Software Deployment.
+##### Project Management:
+-[Trello](): Herramienta de gestión de proyectos basada en Kanban, utilizada para planificar tareas y asignar responsabilidades al equipo.
 
-**Producto UX/UI Design:**<br>
-- [Figma](https://www.figma.com/) - Herramienta de diseño colaborativo para crear prototipos y maquetas de interfaces de usuario.
-- [Lucidchart](https://lucid.app/) - Herramienta de diagramación para crear diagramas de flujo, wireframes y otros elementos visuales.
-- [Uxpressia](https://uxpressia.com/) - Herramienta de diseño centrada en el usuario para crear mapas de empatía y customer journey maps.
-- [Structurizr](https://structurizr.com/) - Herramienta de modelado de software para crear diagramas de arquitectura y diseño orientado a dominios.
+##### Product UX/UI Design:
+- [Figma](): Herramienta colaborativa para crear prototipos interactivos de interfaces.
+- [Lucidchart](): Para creación de diagramas de flujo y wireframes.
+- [Uxpressia](): Para elaboración de mapas de empatía y recorridos del usuario (Customer Journey).
+- [Structurizr](): Para modelado de arquitectura de software.
 
-**Software Development:**<br>
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Entorno de desarrollo integrado (IDE) para Java y otros lenguajes de programación.
-- [Github](https://www.github.com/) - Plataforma de control de versiones y colaboración para el desarrollo de software.
-- [Visual Studio Code](https://code.visualstudio.com/) - Editor de código fuente ligero y potente para varios lenguajes de programación.
-- [HTML](https://www.w3.org/TR/html52/) - Lenguaje de marcado para la creación de páginas web.
-- [CSS](https://www.w3.org/Style/CSS/) - Lenguaje de estilo para la presentación de documentos HTML.
+#### Software Development
+- IntelliJ IDEA: IDE para desarrollo backend en Java. Para el primer y segundo sprint se utilizó para la redacción del informe del proyecto.
+- WebStorm: IDE especializado para el desarrollo frontend. Para el proyecto se hace uso de Angular.
+- Visual Studio Code: Editor utilizado principalmente para desarrollo de Landing Page y exportación del informe al formato PDF.
+- [GitHub](): Plataforma de control de versiones y colaboración.
 
-**Software Deployment:**<br>
-- GitHub Pages - Servicio de alojamiento web para proyectos estáticos.
+#### Software Deployment
+- [GitHub Pages](): Servicio de despliegue de aplicaciones web estáticas desde repositorios GitHub.
+
 ### 5.1.2. Source Code Management.
-Para el sistema, se usará Github como herramienta de gestión de código fuente. Se creará un repositorio para el proyecto, donde se almacenará todo el código fuente y los documentos relacionados.
 
-**URL de la organización:** https://github.com/Biblioteca-de-Software
-**URL del repositorio:**https://github.com/Biblioteca-de-Software/final-report
-**URL del repositorio de la landing page:** https://github.com/Biblioteca-de-Software/landing-page
+Para la gestión del código fuente, se utilizará GitHub como plataforma central de control de versiones y colaboración entre los miembros del equipo. Se han creado repositorios separados para los distintos productos del proyecto.
+Los enlaces también están disponibles en la sección de anexos.
+
+- **Organización en GitHub:** [https://github.com/Biblioteca-de-Software](https://github.com/Biblioteca-de-Software)
+- **Repositorio del informe final:** [https://github.com/Biblioteca-de-Software/final-report](https://github.com/Biblioteca-de-Software/final-report)
+- **Repositorio de la Landing Page:** [https://github.com/Biblioteca-de-Software/landing-page](https://github.com/Biblioteca-de-Software/landing-page)
+- **Repositorio del FrontEnd:**
+
+#### Modelo de ramificación: GitFlow
 
 Para el modelo de desarrollo, se decidió usar GitFlow como modelo de ramificación. Este modelo permite una gestión eficiente de las ramas y facilita la colaboración entre los desarrolladores.
-Se crearán las siguientes ramas:
+
+Para el repositorio del informe final se crearon las siguientes ramas:
 - **dev:** Rama principal de desarrollo, donde se integrarán todas las características y correcciones de errores.
 - **chapter-1:** Rama para el desarrollo del capítulo 1 del informe.
 - **chapter-2:** Rama para el desarrollo del capítulo 2 del informe.
@@ -41,29 +49,84 @@ Se crearán las siguientes ramas:
 - **chapter-4:** Rama para el desarrollo del capítulo 4 del informe.
 - **chapter-5:** Rama para el desarrollo del capítulo 5 del informe.
 
+Para el repositorio de Landing Page se crearon las siguientes ramas:
+
+Para el repositorio del Fronted se crearon las siguientes ramas:
+
+#### Estilo de commits: Conventional Commits
+Para asegurar mensajes de commits claros y estandarizados, se seguirá la convención [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Algunos ejemplos:
+
+- `feat: add search by name functionality`
+- `fix: correct form validation error`
+- `docs: update installation instructions`
+- `refactor: simplify calculation logic`
+
+El prefijo de categorías se define de la siguiente forma:
+- `feat`: A new feature
+- `fix`: A bug fix
+- `docs`: Documentation only changes
+- `style`: Changes that do not affect the meaning of the code (formatting, missing semicolons, etc.)
+- `refactor`: A code change that neither fixes a bug nor adds a feature
+- `test`: Adding missing tests or correcting existing ones
+- `chore`: Changes to the build process or auxiliary tools
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-**Principios Generales**<br>
-- **Idioma estándar:** Todo el código está en inglés.
+### 5.1.3. Guía de estilo y convenciones de código fuente
 
-- **Legibilidad primero:** Se prefiere nombres descriptivos, claros y significativos sobre abreviaciones o tecnicismos innecesarios.
+En esta sección se definen las convenciones de nombres y codificación adoptadas por el equipo para los lenguajes utilizados en el proyecto: HTML, CSS, JavaScript, TypeScript y Java. El idioma estándar para todo el código (nombres de variables, funciones, clases, archivos, etc.) es el **inglés**.
 
-- **Formato consistente:** Se sigue el mismo estilo en todo el equipo y en todos los lenguajes.
+#### Principios generales
 
-- **Nombres significativos:** Se ua sustantivos para clases, nombres de archivos y componentes. Verbos para funciones o métodos.
+- **Idioma estándar:** Todo el código fuente está escrito en inglés, incluyendo nombres de archivos, clases, variables y funciones.
+- **Legibilidad ante todo:** Se prioriza el uso de nombres descriptivos y claros por encima de abreviaciones o tecnicismos innecesarios.
+- **Formato consistente:** Se aplica un estilo uniforme en todo el equipo y en todos los lenguajes, reforzado por herramientas automáticas.
+- **Nombres semánticos:** Se usan **sustantivos** para clases, componentes y archivos, y **verbos** para funciones o métodos.
+- **Indentación:** 2 espacios para HTML, CSS, JS y TS. 4 espacios para Java.
 
-**HTML & CSS**<br>
-- Archivos HTML terminan en .html
-
-- Archivos CSS terminan en .css
-
-- Se usa kebab-case para nombres de clases y archivos:
-Ej: main-header, product-card, login-form.
+#### HTML y CSS
 
 **HTML**
-- Elementos estructurados correctamente (header, section, nav, footer).
+- Archivos terminan en `.html`.
+- Se utilizan etiquetas semánticas como `<header>`, `<section>`, `<nav>`, `<footer>`, etc.
+- Se incluye `alt` en imágenes y atributos `aria-*` para accesibilidad.
+- Atributos con comillas dobles (`"`).
+- Se usa `camelCase` para IDs y `kebab-case` para clases.
+- Indentación: 2 espacios.
 
-- Se usa alt para imágenes y aria-* para accesibilidad.
+**CSS**
+- Archivos terminan en `.css`.
+- Se usa `kebab-case` para nombres de clases y archivos: `main-header`, `product-card`, `login-form`.
+- Se agrupan estilos relacionados y se separan con comentarios.
+- Se evita el uso de estilos inline (`style="..."`).
+
+#### JavaScript y TypeScript
+
+Basado en:
+- [Guía de estilo TypeScript de Google](https://google.github.io/styleguide/tsguide.html)
+- [Guía de estilo JavaScript de Airbnb](https://github.com/airbnb/javascript)
+
+- Archivos terminan en `.js` o `.ts`.
+- Se usa `camelCase` para variables y funciones: `userName`, `getUserData()`.
+- Se usa `PascalCase` para clases y componentes: `UserProfile`, `LoginForm`.
+- Se prefiere `const` y `let` en lugar de `var`.
+- Se prefieren funciones flecha (`=>`) y nombres explícitos.
+- Cada archivo debe tener una única responsabilidad o componente.
+
+
+#### Java
+
+Basado en:
+- [Guía de estilo Java de Google](https://google.github.io/styleguide/javaguide.html)
+- [Buenas prácticas de Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+
+- Archivos terminan en `.java`.
+- Clases con `PascalCase`: `UserService`, `OrderController`.
+- Métodos y variables con `camelCase`: `getUserById()`, `userEmail`.
+- Constantes con `UPPER_SNAKE_CASE`: `MAX_ATTEMPTS`.
+- Una clase pública por archivo.
+- Se documentan métodos y clases públicas con JavaDoc.
+
 
 ### 5.1.4. Software Deployment Configuration.
 El deployment del software se realizó en GitHub Pages. Se creó, donde se alojará el código HTML, CSS del proyecto.
@@ -73,6 +136,8 @@ El deployment del software se realizó en GitHub Pages. Se creó, donde se aloja
 <br>
 **URL de la landing page deployada:** https://biblioteca-de-software.github.io/landing-page/
 ![deploymentEvidence.png](../../assets/chapter5/deploymentEvidence.png)
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint n
 
