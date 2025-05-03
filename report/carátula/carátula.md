@@ -54,10 +54,13 @@ Ciclo 2025-01
 
 # Project Report Collaboration Insights
 
-Insights del reporte:
+**Link de la organización del proyecto:**<br>
+https://github.com/orgs/Biblioteca-de-Software/repositories
+
+**Insights del reporte:**<br>
 ![p1](/assets/p1.jpeg)
 
-Insights del landing page:
+**Insights del landing page:**<br>
 ![p2](/assets/p2.jpeg)
 
 # Contenido
