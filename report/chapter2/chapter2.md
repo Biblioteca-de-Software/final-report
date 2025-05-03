@@ -2,6 +2,8 @@
 
 ## 2.1. Competidores.
 
+En esta sección, se presenta un análisis de los competidores de KeepItFresh y sus respectivas estrategias y tácticas. Se incluye un análisis competitivo, así como una comparación de las fortalezas y debilidades de cada competidor.
+
 ### 2.1.1. Análisis competitivo.
 
 <table>
@@ -380,10 +382,15 @@ Cantidad: 3/6 (50%)
 #### Segmento 1: Dueños de restaurantes.
 <img src="/assets/chapter2/userpersona1.png">
 
-#### Segmento 1: Empleados de restaurantes.
+#### Segmento 2: Empleados de restaurantes.
 <img src="/assets/chapter2/userpersona2.png">
 
 ### 2.3.2. User Task Matrix.
+
+En esta sección, se presenta la matriz de tareas de los usuarios, que muestra las actividades realizadas por los dueños y empleados de restaurantes, junto con su frecuencia e importancia. Esta matriz ayuda a identificar las tareas clave y su relevancia para cada tipo de usuario.
+Para ello, usamos los user personas creadas en la sección anterior tomando a Daniel, segmento 1: Dueño de restaurante, y a Javier, segmento 2: trabajador de restaurante. <br>
+A continuación, se presenta la matriz de tareas:
+
 | Actividades                | **Daniel** | Daniel      | **Javier** | Javier      |
 |----------------------------|------------|-------------|------------|-------------|
 |                            | Frecuencia | Importancia | Frecuencia | Importancia |
@@ -396,7 +403,7 @@ Cantidad: 3/6 (50%)
 
 ### 2.3.3. User Journey Mapping.
 
-#### Segmento 1: Dueños de restaurantes.
+### Segmento 1: Dueños de restaurantes.
 
 <img src="/assets/chapter2/userjourney_owner.png">
 
