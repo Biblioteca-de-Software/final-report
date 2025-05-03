@@ -129,14 +129,34 @@ Basado en:
 
 
 ### 5.1.4. Software Deployment Configuration.
-El deployment del software se realizó en GitHub Pages. Se creó, donde se alojará el código HTML, CSS del proyecto.
-<br>
 
-**URL del repositorio de la landing page:** https://biblioteca-de-software.github.io/landing-page/
-<br>
-**URL de la landing page deployada:** https://biblioteca-de-software.github.io/landing-page/
+En esta sección se describe la configuración necesaria para desplegar cada uno de los componentes del proyecto: Landing Page, Web Services y Frontend Web Application. El objetivo es garantizar que, a partir del código fuente almacenado en los repositorios, se pueda lograr una publicación funcional y accesible para los usuarios.
+
+#### Landing Page
+
+La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediante **GitHub Pages**, un servicio gratuito de hosting para sitios estáticos.
+
+**Pasos de despliegue:**
+1. Se creó el repositorio `landing-page` en GitHub.
+2. Se subió el código fuente HTML, CSS y recursos estáticos.
+3. Desde la configuración del repositorio, se activó **GitHub Pages** seleccionando la rama `main` y la carpeta raíz (`/`).
+4. Automáticamente, GitHub publicó el sitio web en una URL pública.
+
+**Repositorio:** [https://github.com/Biblioteca-de-Software/landing-page](https://github.com/Biblioteca-de-Software/landing-page)  
+**URL desplegada:** [https://biblioteca-de-software.github.io/landing-page/](https://biblioteca-de-software.github.io/landing-page/)
+
+**Evidencia del despliegue:**  
 ![deploymentEvidence.png](../../assets/chapter5/deploymentEvidence.png)
 
+---
+
+#### Frontend Web Application
+
+La aplicación frontend fue desarrollada con **Angular**.
+
+#### Web Services
+
+Los servicios backend serán desarrollados en **Java (Spring Boot)** más adelante.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint n
