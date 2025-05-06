@@ -389,17 +389,34 @@ Cantidad: 3/6 (50%)
 
 En esta sección, se presenta la matriz de tareas de los usuarios, que muestra las actividades realizadas por los dueños y empleados de restaurantes, junto con su frecuencia e importancia. Esta matriz ayuda a identificar las tareas clave y su relevancia para cada tipo de usuario.
 Para ello, usamos los user personas creadas en la sección anterior tomando a Daniel, segmento 1: Dueño de restaurante, y a Javier, segmento 2: trabajador de restaurante. <br>
-A continuación, se presenta la matriz de tareas:
 
-| Actividades                | **Daniel** | Daniel      | **Javier** | Javier      |
-|----------------------------|------------|-------------|------------|-------------|
-|                            | Frecuencia | Importancia | Frecuencia | Importancia |
-| Guardar productos          | Always     | High        | Rarely     | High        |
-| Atender clientes           | Always     | Medium      | Rarely     | High        |
-| Tomar pedidos              | Always     | High        | Never      | High        |
-| Cobrar cuenta              | Always     | Medium      | Never      | Medium      |
-| Manejo financiero          | Rarely     | Medium      | Always     | Medium      |
-| Contratacion y supervision | Never      | Medium      | Always     | Medium      |
+Segmento Objetivo 1: Daniel(Dueño de restaurante)
+
+| Actividades                  | Frecuencia   | Importancia |
+|------------------------------|--------------|-------------|
+| Guardar productos            | Rara vez     | Media       |
+| Atender clientes             | Rara vez     | Alta        |
+| Tomar pedidos                | Rara vez     | Alta        |
+| Cobrar cuenta                | Rara vez     | Alta        |
+| Manejo financiero            | Siempre      | Alta        |
+| Contratacion y supervision      | Con Frecuencia     | Media       |
+| Gestion de inventario        | Siempre      | Alta        |
+| Limpieza de area             | Rara vez     | Media       |
+| Capacitacion de personal     | Con Frecuencia     | Media       |
+
+Segmento Objetivo 2: Javier(Trabajador de restaurante)
+
+| Actividades       | Frecuencia      | Importancia |
+|-------------------|-----------------|------------|
+| Guardar productos | Con Frecuencia     | Media      |
+| Atender clientes  | Siempre         | Alta       |
+| Tomar pedidos     | Siempre         | Alta       |
+| Cobrar cuenta                | Siempre         | Alta       |
+| Manejo financiero            | Rara vez        | Alta       |
+| Contratacion y supervision       | Rara vez        | Media      |
+| Gestion de inventario        | Rara vez        | Alta       |
+| Limpieza de area             | Con Frecuencia  | Media      |
+| Capacitacion de personal     | Rara vez        | Media |
 
 ### 2.3.3. User Journey Mapping.
 
