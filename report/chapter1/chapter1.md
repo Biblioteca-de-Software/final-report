@@ -198,7 +198,7 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 
 ## 1.3. Segmentos objetivos.
 
-## Segmentos objetivo
+
 
 ### Segmento objetivo #1: Dueños de restaurantes
 
