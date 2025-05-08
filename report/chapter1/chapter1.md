@@ -1,6 +1,7 @@
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
+A continuación, se brindará información sobre a qué se dedica nuestra empresa, WebExpert.
 
 ### 1.1.1. Descripción de la Startup
 
@@ -26,6 +27,26 @@
 **Product Description:** KeepItFresh, es una Web App que tiene como objetivo optimizar la gestión de los restaurantes. Para ello, esta permite al usuario monitorear los IoT que este tiene, mostrando información útil, ayudando con la gestión de inventarios y agilizando el trabajo de los trabajadores en la tienda. Los dueños de los restaurantes pueden usar KeepItFresh con el fin de optimizar varios procesos. <br>
 **Monetización:** KeepItFresh funciona mediante un modelo de suscripción mensual o anual, en el cual se alquilan los diferentes dispositivos IoT.
 
+ **Plan Básico:**
+
+Ideal para restaurantes pequeños que desean iniciarse en la digitalización operativa con funciones esenciales.
+
+- Monitoreo en tiempo real de temperatura y humedad en cámaras y vitrinas
+- Alertas automáticas ante condiciones fuera de rango
+- Reportes básicos semanales del estado de los dispositivos IoT
+- Gestión sencilla de inventario (registro manual de productos y vencimientos)
+- Soporte técnico en horario laboral
+
+
+ **Plan Gestión Pro:**
+
+Pensado para negocios que requieren mayor control, eficiencia operativa y soporte avanzado. Incluye todo lo del Plan Básico, más:
+
+- Integración avanzada con sensores IoT adicionales (puertas, energía, etc.)
+- Análisis automático de inventario (con predicciones de rotación y vencimiento)
+- Notificaciones inteligentes para compras, caducidades y mantenimiento
+- Informes personalizados de desempeño por sucursal
+- Soporte técnico 24/7 y mantenimiento preventivo de hardware
 ### 1.2.1 Antecedentes y problemática
 
 **Antecedentes:**
@@ -177,6 +198,58 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 
 ## 1.3. Segmentos objetivos.
 
-KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un restaurante; Los dueños y trabajadores de los restaurantes. Estos dos grupos son los encargados principales en proveer la mejor experiencia posible al consumidor y de administrar el restaurante, por ello KeepItFresh se enfoca en proporcionarles soluciones inteligentes los cuales facilitan la labor de ambos segmentos.
-- **Dueños:** KeepItFresh, está hecho con el fin de facilitar la gestión del inventario por parte de los dueños de los restaurantes, debido a que esta es una tarea de gran dificultad, puesto que se sabe que en el 2019 aproximadamente el 47,6% de los alimentos producidos son descompuestos.
-- **Trabajadores:** KeepItFresh, está hecho con el fin de facilitar la gestión del inventario por parte de los trabajadores de los restaurantes, debido a que esta es una tarea de gran dificultad, puesto que se sabe que en el 2019 aproximadamente el 47,6% de los alimentos producidos son descompuestos. Así mismo también se busca facilitar la atención al cliente mediante el botón IoT para llamar a los meseros.
+## Segmentos objetivo
+
+### Segmento objetivo #1: Dueños de restaurantes
+
+**Descripción:**  
+Este segmento está compuesto por propietarios de restaurantes de tamaño pequeño y mediano que buscan optimizar la gestión operativa de sus negocios, especialmente en lo relacionado al control de inventario y la reducción del desperdicio de alimentos.
+
+**Aspectos demográficos:**  
+Este grupo está compuesto mayoritariamente por hombres y mujeres de entre 30 y 55 años, con un nivel socioeconómico medio-alto (B) y medio (C). En su mayoría, cuentan con educación técnica o universitaria, especialmente en áreas de administración, negocios o gastronomía.
+
+**Aspectos geográficos:**  
+Son peruanos que operan principalmente en zonas urbanas, con un enfoque particular en Lima, Arequipa, Trujillo y otras ciudades con una fuerte actividad gastronómica.
+
+**Aspectos psicográficos:**  
+Valoran la eficiencia operativa, el control de gastos y la sostenibilidad. Son empresarios orientados a resultados, que buscan innovar y mantenerse competitivos en un mercado gastronómico cada vez más demandante.
+
+**Necesidades:**  
+Desean automatizar el control del inventario para evitar pérdidas por caducidad o mal almacenamiento, tener acceso a reportes claros en tiempo real, y recibir alertas sobre productos próximos a vencer.
+
+**Requisitos:**  
+Buscan una plataforma intuitiva, confiable y adaptable al flujo de trabajo del restaurante. Requieren acceso desde dispositivos móviles y soporte técnico constante.
+
+**Objetivo:**  
+Reducir el desperdicio de alimentos, mejorar la rentabilidad del restaurante y tomar decisiones estratégicas basadas en datos precisos.
+
+**Sustento estadístico:**  
+Según el Ministerio de la Producción del Perú (Produce, 2023), existen más de 220,000 restaurantes registrados en el país, de los cuales cerca del 85% corresponden a pequeñas y medianas empresas. Lima concentra aproximadamente el 40% del total de estos negocios. Además, estudios del Banco Interamericano de Desarrollo señalan que en América Latina, hasta el 34% de los alimentos en restaurantes se desperdician por una mala gestión de inventario.
+
+ 
+
+### Segmento objetivo #2: Trabajadores de restaurantes
+
+**Descripción:**  
+Este segmento incluye cocineros, meseros y personal operativo de restaurantes, quienes desempeñan funciones clave en la atención al cliente y la administración diaria del inventario.
+
+**Aspectos demográficos:**  
+Está compuesto mayormente por hombres y mujeres de entre 20 y 35 años, pertenecientes a clases sociales C y D. Tienen formación técnica en gastronomía, atención al cliente o educación secundaria completa.
+
+**Aspectos geográficos:**  
+Este grupo está ubicado principalmente en zonas urbanas, específicamente en Lima, Callao y otras ciudades principales del país con una fuerte presencia de restaurantes.
+
+**Aspectos psicográficos:**  
+Valoran herramientas que faciliten su trabajo diario y les permitan brindar una mejor experiencia al cliente. Son personas prácticas que aprecian la tecnología cuando es fácil de usar y útil en su entorno laboral.
+
+**Necesidades:**  
+Necesitan una forma rápida y clara de gestionar los productos disponibles en cocina, identificar faltantes y vencimientos, y mejorar la coordinación con el equipo. También buscan mejorar la atención en sala mediante herramientas como botones IoT que agilicen el servicio.
+
+**Requisitos:**  
+Requieren una plataforma sencilla, rápida y accesible desde celulares o tablets. Valoran la facilidad de uso, el idioma claro y una curva de aprendizaje corta.
+
+**Objetivo:**  
+Facilitar su labor diaria, reducir errores humanos en el manejo de productos y mejorar la eficiencia en la atención al cliente.
+
+**Sustento estadístico:**  
+De acuerdo con el Instituto Nacional de Estadística e Informática (INE
