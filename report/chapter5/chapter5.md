@@ -223,34 +223,76 @@ En esta sección se detalla los líderes de cada aspecto. Para el primer Sprint 
 #### 5.2.1.3. Sprint Backlog n.
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
-Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
-![people.png](../../assets/chapter5/people.png)
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
-Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
-![deploymentEvidence.png](../../assets/chapter5/deploymentEvidence.png)
-<br>
 
-Aquí vemos la evidencia de la creación de dichos repositorios mencionados con anterioridad.
-![evidence.png](../../assets/chapter5/evidence.png)
-
-Aquí podemos notar la ejecución de los commits a lo largo del reporte
-![Evidence2.png](../../assets/chapter5/Evidence2.png)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
-![Evidence3.png](../../assets/chapter5/Evidence3.png)
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Aquí podemos evidenciar como ya se realizaron las tareas y no hay ningún error que corregir.
-![NoToDos.png](../../assets/chapter5/NoToDos.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesarias para todo tipo de dificultad que se presentaba. Se usó la herramienta de Discord para poder comunicarnos y realizar las reuniones necesarias.
-![discord.png](../../assets/chapter5/discord.png)
 
 
-### 5.2.X. Sprint 1
-### 5.2.X.1. Sprint Planning n.
 
+### 5.2.2. Sprint 2
+### 5.2.2.1. Sprint Planning 2.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 2</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">06/05/2025</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">8:00 pm</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Ayrton Omar Briceño Llanos</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Ayrton Omar Briceño Llanos, Maita Falckenheiner Romina Guadalupe, Lang Nassi Werner Khalil, Torres Flores Paolo Alessandro, Mamani Marca Gabriel Cristian.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  1 Review Summary</td>
+    <td colspan="8">En este segundo sprint se definió los procesos necesarios para el desarrollo del frontend y correcciones necesarias de la landing page. Para ello, se asignaron responsabilidades a cada integrante.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">Los integrantes mencionaron sus habilidades y puntos de mejora con respecto a la programación y diseño del frontend.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Goal</td>
+    <td colspan="8">Desarrollar y desplegar una primera versión del frontend con las características más fundamentales con relación al negocio, con la finalidad de que los usuarios puedan interactuar con una interfaz funcional, validar los flujos principales del sistema y brindar retroalimentación temprana que permita ajustar el desarrollo de las siguientes iteraciones. </td>
+</tr>
+</table>
 
 #### 5.2.X.2. Aspect Leaders and Collaborators.
+
+En esta sección se detalla los líderes de cada aspecto. Para este segundo sprint se crearon 
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Figma Designs: Leader (L) / Collaborator (C) | Aspect 3: Report Leader (L) / Collaborator (C) | Aspect 3: Frontend (L) / Collaborator (C) | Aspect 3: Videos (L) / Collaborator (C) |
+|------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------------|-------------------------------------------|-----------------------------------------|
+| Maita Romina                       | RominaMaita     | C                                                    | C                                                      | C                                              | L                                         | C                                       |
+| Torres Paolo                       | PaleToFo        | C                                                    | C                                                      | L                                              | C                                         | C                                       |
+| Lang Werner                        | 00WernerLang    | C                                                    | L                                                      | C                                              | C                                         | C                                       |
+| Briceño Ayrton                     | Ayrton          | L                                                    | C                                                      | C                                              | C                                         | C                                       |
+| Mamani Gabriel                     | Gabriel0105     | C                                                    | C                                                      | C                                              | C                                         | L                                       |
+
 #### 5.2.X.3. Sprint Backlog n.
 #### 5.2.X.4. Development Evidence for Sprint Review.
 #### 5.2.X.5. Execution Evidence for Sprint Review.
@@ -297,3 +339,5 @@ https://www.figma.com/design/XuRVo3M9aclKQzb5VTGsC7/Untitled?node-id=0-1&t=iMrbv
 **Anexo G: Web Application MockUp and Wireframe**<br>
 https://www.figma.com/design/ZPqKdgAXbM04JV4jEnc5rw/KeepItFresh--Copy-?node-id=74-247&t=CLgUbrYHBU9JTQu1-1
 
+figma
+https://acortar.link/4Ym8OK
