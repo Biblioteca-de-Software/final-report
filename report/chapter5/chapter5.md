@@ -7,25 +7,25 @@ En esta sección se muestran las decisiones y convenciones que permitirán mante
 ### 5.1.1. Software Development Environment Configuration.
 
 En esta sección, se incluirá los productos de software que se usaron en el proyecto.
-Los enlaces a cada una de las herramientas también se encuentran disponibles en los anexos.
+Los enlaces a cada una de las herramientas se encuentran disponibles en los anexos.
 
 ##### Project Management:
--[Trello](): Herramienta de gestión de proyectos basada en Kanban, utilizada para planificar tareas y asignar responsabilidades al equipo.
+- Trello: Herramienta de gestión de proyectos basada en Kanban, utilizada para planificar tareas y asignar responsabilidades al equipo.
 
 ##### Product UX/UI Design:
-- [Figma](): Herramienta colaborativa para crear prototipos interactivos de interfaces.
-- [Lucidchart](): Para creación de diagramas de flujo y wireframes.
-- [Uxpressia](): Para elaboración de mapas de empatía y recorridos del usuario (Customer Journey).
-- [Structurizr](): Para modelado de arquitectura de software.
+- Figma: Herramienta colaborativa para crear prototipos interactivos de interfaces.
+- Lucidchart: Para creación de diagramas de flujo y wireframes.
+- Uxpressia: Para elaboración de mapas de empatía y recorridos del usuario (Customer Journey).
+- Structurizr: Para modelado de arquitectura de software.
 
 #### Software Development
 - IntelliJ IDEA: IDE para desarrollo backend en Java. Para el primer y segundo sprint se utilizó para la redacción del informe del proyecto.
-- WebStorm: IDE especializado para el desarrollo frontend. Para el proyecto se hace uso de Angular.
-- Visual Studio Code: Editor utilizado principalmente para desarrollo de Landing Page y exportación del informe al formato PDF.
-- [GitHub](): Plataforma de control de versiones y colaboración.
+- WebStorm: IDE especializado para el desarrollo frontend. Se utilizó para el desarrollo de la Landing Page y frontend de la aplicación.
+- Visual Studio Code: Editor utilizado únicamente para la exportación del reporte de formato markdown a PDF.
+- GitHub: Plataforma de control de versiones y colaboración.
 
 #### Software Deployment
-- [GitHub Pages](): Servicio de despliegue de aplicaciones web estáticas desde repositorios GitHub.
+- GitHub Pages: Servicio de despliegue de aplicaciones web estáticas desde repositorios GitHub.
 
 ### 5.1.2. Source Code Management.
 
@@ -35,7 +35,7 @@ Los enlaces también están disponibles en la sección de anexos.
 - **Organización en GitHub:** [https://github.com/Biblioteca-de-Software](https://github.com/Biblioteca-de-Software)
 - **Repositorio del informe final:** [https://github.com/Biblioteca-de-Software/final-report](https://github.com/Biblioteca-de-Software/final-report)
 - **Repositorio de la Landing Page:** [https://github.com/Biblioteca-de-Software/landing-page](https://github.com/Biblioteca-de-Software/landing-page)
-- **Repositorio del FrontEnd:**
+- **Repositorio del FrontEnd:** [https://github.com/Biblioteca-de-Software/frontend](https://github.com/Biblioteca-de-Software/frontend)
 
 #### Modelo de ramificación: GitFlow
 
@@ -52,6 +52,11 @@ Para el repositorio del informe final se crearon las siguientes ramas:
 Para el repositorio de Landing Page se crearon las siguientes ramas:
 
 Para el repositorio del Fronted se crearon las siguientes ramas:
+- **develop**: Rama principal donde una vez concluida la programación de un bounded context se hace un merge a esta rama.
+- **feature/orders**: Rama en la que se desarrolla el bounded context de órdenes donde una persona del segmento trabajadores del restaurante registra las órdenes de cada mesa.
+- **feature/inventory**: Rama donde se desarrolla el bounded context del inventario donde una persona del segmento dueños de restaurante puede ingresar productos al inventario y revisar su fecha de caducidad.
+- **feature/notifications**: Rama donde se desarrolla del bounded context de notificaciones donde el usuario, ya sea dueño o trabajador, puede ver todas las notificaciones. Es parte del core del negocio, ya que para el segmento de dueños las notificaciones le permiten estar alerta de la fecha de vencimiento de los productos. 
+- **feature/userManagement**: Rama donde se desarrolla el código respecto a el registro o ingreso a la cuenta de cada segmento objetivo.
 
 #### Estilo de commits: Conventional Commits
 Para asegurar mensajes de commits claros y estandarizados, se seguirá la convención [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Algunos ejemplos:
@@ -71,8 +76,6 @@ El prefijo de categorías se define de la siguiente forma:
 - `chore`: Changes to the build process or auxiliary tools
 
 ### 5.1.3. Source Code Style Guide & Conventions.
-
-### 5.1.3. Guía de estilo y convenciones de código fuente
 
 En esta sección se definen las convenciones de nombres y codificación adoptadas por el equipo para los lenguajes utilizados en el proyecto: HTML, CSS, JavaScript, TypeScript y Java. El idioma estándar para todo el código (nombres de variables, funciones, clases, archivos, etc.) es el **inglés**.
 
@@ -98,13 +101,8 @@ En esta sección se definen las convenciones de nombres y codificación adoptada
 - Archivos terminan en `.css`.
 - Se usa `kebab-case` para nombres de clases y archivos: `main-header`, `product-card`, `login-form`.
 - Se agrupan estilos relacionados y se separan con comentarios.
-- Se evita el uso de estilos inline (`style="..."`).
 
 #### JavaScript y TypeScript
-
-Basado en:
-- [Guía de estilo TypeScript de Google](https://google.github.io/styleguide/tsguide.html)
-- [Guía de estilo JavaScript de Airbnb](https://github.com/airbnb/javascript)
 
 - Archivos terminan en `.js` o `.ts`.
 - Se usa `camelCase` para variables y funciones: `userName`, `getUserData()`.
@@ -113,12 +111,12 @@ Basado en:
 - Se prefieren funciones flecha (`=>`) y nombres explícitos.
 - Cada archivo debe tener una única responsabilidad o componente.
 
+Basado en:
+- [Guía de estilo TypeScript de Google](https://google.github.io/styleguide/tsguide.html)
+- [Guía de estilo JavaScript de Airbnb](https://github.com/airbnb/javascript)
+
 
 #### Java
-
-Basado en:
-- [Guía de estilo Java de Google](https://google.github.io/styleguide/javaguide.html)
-- [Buenas prácticas de Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 - Archivos terminan en `.java`.
 - Clases con `PascalCase`: `UserService`, `OrderController`.
@@ -127,12 +125,15 @@ Basado en:
 - Una clase pública por archivo.
 - Se documentan métodos y clases públicas con JavaDoc.
 
+Basado en:
+- [Guía de estilo Java de Google](https://google.github.io/styleguide/javaguide.html)
+- [Buenas prácticas de Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 ### 5.1.4. Software Deployment Configuration.
 
 En esta sección se describe la configuración necesaria para desplegar cada uno de los componentes del proyecto: Landing Page, Web Services y Frontend Web Application. El objetivo es garantizar que, a partir del código fuente almacenado en los repositorios, se pueda lograr una publicación funcional y accesible para los usuarios.
 
-#### Landing Page
+#### Despliegue de Landing Page
 
 La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediante **GitHub Pages**, un servicio gratuito de hosting para sitios estáticos.
 
@@ -145,23 +146,40 @@ La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediant
 **Repositorio:** [https://github.com/Biblioteca-de-Software/landing-page](https://github.com/Biblioteca-de-Software/landing-page)  
 **URL desplegada:** [https://biblioteca-de-software.github.io/landing-page/](https://biblioteca-de-software.github.io/landing-page/)
 
-**Evidencia del despliegue:**  
-![deploymentEvidence.png](../../assets/chapter5/deploymentEvidence.png)
+**Evidencia del despliegue:**
 
+![img_2.png](img_2.png)
 ---
+
+Enlace al landing page desplegado: [https://biblioteca-de-software.github.io/landing-page/](https://biblioteca-de-software.github.io/landing-page/)
 
 #### Frontend Web Application
 
-La aplicación frontend fue desarrollada con **Angular**.
 
-#### Web Services
+
+#### RESTful Web Services
 
 Los servicios backend serán desarrollados en **Java (Spring Boot)** más adelante.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.1. Sprint n
 
-#### 5.2.1.1. Sprint Planning n.
+En esta sección se detalla y evidencia la implementación de cada entregable de KeepItFresh.
+
+#### Landing page:
+La landing page fue realizada de manera grupal y desplegada debidamente con la herramienta GitHub Pages.
+A continuación las siguientes imágenes sirven de referencia para evidencia la implementación de la Landing Page.
+
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+
+#### Frontend:
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1.
 
 <table>
 <tr>
@@ -222,13 +240,18 @@ En esta sección se detalla los líderes de cada aspecto. Para el primer Sprint 
 
 #### 5.2.1.3. Sprint Backlog n.
 
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
+Este primer sprint se enfoca en el desarrollo de la landing page y para ello no hemos implementado ningún servicio por el momento.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
