@@ -1,7 +1,7 @@
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
-A continuación, se brindará información sobre a qué se dedica nuestra empresa, WebExpert.
+A continuación, se brindará información sobre a qué se dedica nuestra empresa, Go4U.
 
 ### 1.1.1. Descripción de la Startup
 
