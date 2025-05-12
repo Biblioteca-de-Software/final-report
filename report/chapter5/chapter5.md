@@ -241,10 +241,8 @@ En esta sección se detalla los líderes de cada aspecto. Para el primer Sprint 
 |------------|--------|-----------|----------------|---------------------|--------------------|
 |            |        |           |                |                     |                    |
 
-
 ![img_8.png](img_8.png)
 #### 5.2.1.5. Execution Evidence for Sprint Review.
-
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Durante el presente Sprint, el equipo se enfocó en el desarrollo inicial del proyecto, completando la Landing Page de la aplicación. Aún no se han implementado ni documentado Endpoints con OpenAPI, ya que el desarrollo de los servicios web está planificado para los siguientes Sprints, conforme al roadmap del proyecto.
@@ -266,7 +264,7 @@ Se verificó la correcta publicación de la Landing Page en la siguiente URL:
 
 **Evidencia del despliegue:**
 ![img_2.png](img_2.png)
----
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta sección se evidencia la colaboración de cada integrante en el repositorio de la Landing Page.
 
@@ -323,7 +321,7 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 </tr>
 </table>
 
-#### 5.2.X.2. Aspect Leaders and Collaborators.
+#### 5.2.2.2. Aspect Leaders and Collaborators.
 
 En esta sección se detalla los líderes de cada aspecto. Para este segundo sprint se crearon 
 
@@ -335,12 +333,54 @@ En esta sección se detalla los líderes de cada aspecto. Para este segundo spri
 | Briceño Ayrton                     | Ayrton          | L                                                    | C                                                      | C                                              | C                                         | C                                       |
 | Mamani Gabriel                     | Gabriel0105     | C                                                    | C                                                      | C                                              | C                                         | L                                       |
 
-#### 5.2.X.3. Sprint Backlog n.
+#### 5.2.X.3. Sprint Backlog 2.
+| User Story ID | Title                               | Task ID | Title                          | Description                                                                                                      | Estimation | Assigned to | Status (To-do) |
+|---------------|-------------------------------------|---------|--------------------------------|------------------------------------------------------------------------------------------------------------------|------------|-------------|----------------|
+|               | Registro de Producto                | T01     | Crear formulario de registro   | Crear formulario en el frontend para registrar productos con nombre, categoría, cantidad y fecha de vencimiento. | 3h         |             | To-do          |
+|               |                                     | T02     | Configurar servicio HTTP       | Implementar servicio Angular para enviar los datos del producto al backend (JSON Server).                        | 2h         |             | To-do          |
+|               | Consulta de inventario              | T03     | Crear vista de inventario      | Desarrollar una página que muestre todos los productos registrados usando PrimeVue o Angular Material.           | 3h         |             | To-do          |
+|               | Alertas de vencimiento              | T06     | Mostrar alerta visual          | Mostrar alertas visuales (badge o toast) para productos próximos a vencer.                                       | 2h         |             | To-do          |
+|               | Ingresar nuevo pedido para una mesa | T07     | Creación de formulario         | Crear un formulario donde el trabajador del restaurante puede ingresar los pedidos de acuerdo al menú del día.   | 3h         |             | To-do          |
+|               |                                     | T08     | Validación y guardado          | Validar campos y guardar pedidos en el JSON Server.                                                              | 2h         |             | To-do          |
+|               | Visualizar los pedidos por mesa     | T09     | Creación de cards de cada mesa | Crear cards que muestren las órdenes por mesa obtenidas desde el db.json.                                        | 3h         |             | To-do          |
+|               | Notificación diaria de resumen      | T11     | Generar resumen diario         | Crear función que calcule resumen de ventas y pedidos al final del día.                                          | 2.5h       |             | To-do          |
+|               |                                     | T12     | Enviar notificación            | Mostrar resumen al usuario mediante toast o modal al iniciar sesión cada día.                                    | 2h         |             | To-do          |
+|               | Historial de alertas                | T13     | Guardar alertas en el backend  | Modificar backend (db.json) para almacenar historial de alertas de vencimiento.                                  | 2h         |             | To-do          |
+|               |                                     | T14     | Mostrar historial al usuario   | Crear vista donde se pueda ver el historial de alertas con fecha y producto relacionado.                         | 2.5h       |             | To-do          |
+|               | Reportes de ventas                  | T15     | Calcular totales de ventas     | Calcular ventas por día, semana o mes a partir de los pedidos registrados.                                       | 3h         |             | To-do          |
+|               |                                     | T16     | Crear gráficos de reportes     | Mostrar resultados en gráficos usando alguna librería como Chart.js o ngx-charts.                                | 2.5h       |             | To-do          |
+|               | Registro de usuario                 | T17     | Crear formulario de registro   | Crear formulario con campos como nombre, email, rol y contraseña.                                                | 2.5h       |             | To-do          |
+|               |                                     | T18     | Guardar datos en backend       | Usar servicio HTTP para registrar usuario en el backend simulado.                                                | 2h         |             | To-do          |
+|               | Inicio de sesión                    | T19     | Crear formulario de login      | Crear formulario de inicio de sesión con validación.                                                             | 2h         |             | To-do          |
+|               |                                     | T20     | Verificar credenciales         | Comparar email y contraseña con lo almacenado en JSON Server y redirigir si es correcto.                         | 2h         |             | To-do          |
 
 #### 5.2.X.4. Development Evidence for Sprint Review.
+En esta sección se demuestran los commits relacionados a los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
+
+🔗 Enlace al repositorio del frontend: https://github.com/Biblioteca-de-Software/frontend
+
+| Repository | Branch            | Commit Id                                 | commit Message                                  | Commit Message Body | Commited on (Date) |
+|------------|-------------------|-------------------------------------------|-------------------------------------------------|---------------------|--------------------|
+|            | feature/inventory | 511a28fc33a708a84805bdb0b51526931a4acd77  | feat(inventory): add inventory entities.        |                     |                    |
+|            | feature/inventory | 7d9aee295dedaea2622e7e68466a5ee36be04dcc  | feat(inventory): add inventory services.        |                     |                    |
+|            | feature/inventory | 3f49d70cbc19da5d44b5ed65bb4159d94be42f51  | feat(inventory): add inventory components.      |                     |                    |
+|            | feature/orders    | 19e93de97fde7839a4f5c8c3bac2f5117eb9cca9  | feat(order): add order form component.          |                     |                    |
+|            | feature/orders    | d050f5b9c193e3c64e936f4b868b04dc640f7f43  | feat(order): add order page component.          |                     | 09/05/2025         |
+|            | feature/orders    | 1afe4f2d4c61966ed03286e5b2dabef5e78b8720  | feat(order): add order list component.          |                     | 09/05/2025         |
+|            | feature/orders    | 2913232089867f2da8fc86bb9f2c21e64637b48c  | feat(order): add order response and assembler.  |                     | 09/05/2025         |
+|            |                   |                                           |                                                 |                     |                    |
+|            |                   |                                           |                                                 |                     |                    |
+|            |                   |                                           |                                                 |                     |                    |
+|            |                   |                                           |                                                 |                     |                    |
+
+
 #### 5.2.X.5. Execution Evidence for Sprint Review.
+
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
 
 
