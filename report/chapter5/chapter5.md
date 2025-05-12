@@ -192,7 +192,7 @@ Los servicios backend serán desarrollados en **Java (Spring Boot)** más adelan
 </tr>
 <tr>
     <td colspan="5">Sprint  1 Review Summary</td>
-    <td colspan="8">En esta primera sección se planteo el desarrollo de la Landing Page para el proyecto de KeeptItFresh.</td>
+    <td colspan="8">En este primer sprint se asignaron responsabilidades a cada integrante y planteo los requerimientos para el desarrollo de la Landing Page.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 1 Retrospective Summary</td>
@@ -209,6 +209,16 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+
+En esta sección se detalla los líderes de cada aspecto. Para el primer Sprint hemos segmentado en 3 aspectos relacionados a los entregables.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
+|------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
+| Maita Romina                       | RominaMaita     | C                                                    | C                                                      | L                                        |
+| Torres Paolo                       | PaleToFo        | L                                                    | C                                                      | L                                        |
+| Lang Werner                        | 00WernerLang    | C                                                    | L                                                      | L                                        |
+| Briceño Ayrton                     | Ayrton          | C                                                    | L                                                      | L                                        |
+| Mamani Gabriel                     | Gabriel0105     | C                                                    | C                                                      | L                                        |
 
 #### 5.2.1.3. Sprint Backlog n.
 
@@ -234,6 +244,20 @@ Aquí podemos evidenciar como ya se realizaron las tareas y no hay ningún error
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesarias para todo tipo de dificultad que se presentaba. Se usó la herramienta de Discord para poder comunicarnos y realizar las reuniones necesarias.
 ![discord.png](../../assets/chapter5/discord.png)
+
+
+### 5.2.X. Sprint 1
+### 5.2.X.1. Sprint Planning n.
+
+
+#### 5.2.X.2. Aspect Leaders and Collaborators.
+#### 5.2.X.3. Sprint Backlog n.
+#### 5.2.X.4. Development Evidence for Sprint Review.
+#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.X.8. Team Collaboration Insights during Sprint.
+
 
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
