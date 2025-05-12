@@ -234,6 +234,7 @@ En esta sección se detalla los líderes de cada aspecto. Para el primer Sprint 
 #### 5.2.1.3. Sprint Backlog 1.
 
 
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | commit Message | Commit Message Body | Commited on (Date) |
