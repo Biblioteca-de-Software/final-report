@@ -146,13 +146,6 @@ La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediant
 **Repositorio:** [https://github.com/Biblioteca-de-Software/landing-page](https://github.com/Biblioteca-de-Software/landing-page)  
 **URL desplegada:** [https://biblioteca-de-software.github.io/landing-page/](https://biblioteca-de-software.github.io/landing-page/)
 
-**Evidencia del despliegue:**
-
-![img_2.png](img_2.png)
----
-
-Enlace al landing page desplegado: [https://biblioteca-de-software.github.io/landing-page/](https://biblioteca-de-software.github.io/landing-page/)
-
 #### Frontend Web Application
 
 
@@ -238,23 +231,48 @@ En esta sección se detalla los líderes de cada aspecto. Para el primer Sprint 
 | Briceño Ayrton                     | Ayrton          | C                                                    | L                                                      | L                                        |
 | Mamani Gabriel                     | Gabriel0105     | C                                                    | C                                                      | L                                        |
 
-#### 5.2.1.3. Sprint Backlog n.
-
+#### 5.2.1.3. Sprint Backlog 1.
 
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
+| Repository | Branch | Commit Id | commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|            |        |           |                |                     |                    |
+
+
+![img_8.png](img_8.png)
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Durante el presente Sprint, el equipo se enfocó en el desarrollo inicial del proyecto, completando la Landing Page de la aplicación. Aún no se han implementado ni documentado Endpoints con OpenAPI, ya que el desarrollo de los servicios web está planificado para los siguientes Sprints, conforme al roadmap del proyecto.
 
-Este primer sprint se enfoca en el desarrollo de la landing page y para ello no hemos implementado ningún servicio por el momento.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Durante este Sprint, se completó el desarrollo de la Landing Page y se realizó su despliegue utilizando GitHub Pages como plataforma de publicación gratuita. El objetivo fue contar con una primera versión accesible en línea del producto digital para revisión y retroalimentación.
 
+Actividades realizadas:
+Se creó el repositorio en GitHub: https://github.com/Biblioteca-de-Software/landing-page
+
+Se subió el código fuente de la Landing Page, incluyendo los archivos HTML, CSS necesarios.
+
+Se configuró GitHub Pages desde la pestaña Settings > Pages, seleccionando la rama principal y la carpeta raíz.
+
+Se verificó la correcta publicación de la Landing Page en la siguiente URL:
+
+🔗 Landing Page desplegada: https://biblioteca-de-software.github.io/landing-page/
+
+**Evidencia del despliegue:**
+![img_2.png](img_2.png)
+---
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+En esta sección se evidencia la colaboración de cada integrante en el repositorio de la Landing Page.
 
+🔗 Repositorio de Landing Page: https://github.com/Biblioteca-de-Software/landing-page
+
+#### Capturas de Insights del repositorio:
+![img_9.png](img_9.png)
 
 
 ### 5.2.2. Sprint 2
@@ -308,7 +326,7 @@ Este primer sprint se enfoca en el desarrollo de la landing page y para ello no 
 
 En esta sección se detalla los líderes de cada aspecto. Para este segundo sprint se crearon 
 
-| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Figma Designs: Leader (L) / Collaborator (C) | Aspect 3: Report Leader (L) / Collaborator (C) | Aspect 3: Frontend (L) / Collaborator (C) | Aspect 3: Videos (L) / Collaborator (C) |
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Figma Designs: Leader (L) / Collaborator (C) | Aspect 3: Report Leader (L) / Collaborator (C) | Aspect 4: Frontend (L) / Collaborator (C) | Aspect 5: Videos (L) / Collaborator (C) |
 |------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------------|-------------------------------------------|-----------------------------------------|
 | Maita Romina                       | RominaMaita     | C                                                    | C                                                      | C                                              | L                                         | C                                       |
 | Torres Paolo                       | PaleToFo        | C                                                    | C                                                      | L                                              | C                                         | C                                       |
@@ -317,6 +335,7 @@ En esta sección se detalla los líderes de cada aspecto. Para este segundo spri
 | Mamani Gabriel                     | Gabriel0105     | C                                                    | C                                                      | C                                              | C                                         | L                                       |
 
 #### 5.2.X.3. Sprint Backlog n.
+
 #### 5.2.X.4. Development Evidence for Sprint Review.
 #### 5.2.X.5. Execution Evidence for Sprint Review.
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
