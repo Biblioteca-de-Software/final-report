@@ -147,10 +147,20 @@ La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediant
 **URL desplegada:** [https://biblioteca-de-software.github.io/landing-page/](https://biblioteca-de-software.github.io/landing-page/)
 
 #### Frontend Web Application
+El frontend se desplegó utilizando la herramienta Netlify.
 
+**Pasos de despliegue:**
+1. Build del proyecto: Generar los archivos estáticos de producción (ng build --configuration=production)
+2. Verificar que el proyecto esté completado en la rama develop.
+3. Creación de cuenta en Netlify
+4. Click en "Add new site" → "Import an existing project" y elegir el repositorio y rama (develop)
+5. Configurar build:
+- Build command: ng build --configuration=production
+- Publish directory: dist/nombre-de-tu-app
 
+**Repositorio:** https://github.com/Biblioteca-de-Software/frontend
 
-#### RESTful Web Services
+#### Restful API
 
 Los servicios backend serán desarrollados en **Java (Spring Boot)** más adelante.
 
@@ -169,6 +179,13 @@ A continuación las siguientes imágenes sirven de referencia para evidencia la 
 ![img_7.png](img_7.png)
 
 #### Frontend:
+El frontend fue realizado de manera grupal utilizando el framework Angular.
+A continuación las siguientes imágenes sirven de referencia para evidencia la implementación del frontend.
+
+![img_15.png](img_15.png)
+![img_16.png](img_16.png)
+![img_17.png](img_17.png)
+![img_18.png](img_18.png)
 
 ### 5.2.1. Sprint 1
 
@@ -360,10 +377,10 @@ En esta sección se detalla los líderes de cada aspecto. Para este segundo spri
 |               |                                     | T14     | Mostrar historial al usuario   | Crear vista donde se pueda ver el historial de alertas con fecha y producto relacionado.                         | 2.5h       | Werner      | Done           |
 |               | Reportes de ventas                  | T15     | Calcular totales de ventas     | Calcular ventas por día, semana o mes a partir de los pedidos registrados.                                       | 3h         | Ayrton      | Done           |
 |               |                                     | T16     | Crear gráficos de reportes     | Mostrar resultados en gráficos usando alguna librería como Chart.js o ngx-charts.                                | 2.5h       | Ayrton      | Done           |
-|               | Registro de usuario                 | T17     | Crear formulario de registro   | Crear formulario con campos como nombre, email, rol y contraseña.                                                | 2.5h       |             | Done           |
-|               |                                     | T18     | Guardar datos en backend       | Usar servicio HTTP para registrar usuario en el backend simulado.                                                | 2h         |             | Done           |
-|               | Inicio de sesión                    | T19     | Crear formulario de login      | Crear formulario de inicio de sesión con validación.                                                             | 2h         |             | Done           |
-|               |                                     | T20     | Verificar credenciales         | Comparar email y contraseña con lo almacenado en JSON Server y redirigir si es correcto.                         | 2h         |             | Done           |
+|               | Registro de usuario                 | T17     | Crear formulario de registro   | Crear formulario con campos como nombre, email, rol y contraseña.                                                | 2.5h       | Gabriel     | Done           |
+|               |                                     | T18     | Guardar datos en backend       | Usar servicio HTTP para registrar usuario en el backend simulado.                                                | 2h         | Gabriel     | Done           |
+|               | Inicio de sesión                    | T19     | Crear formulario de login      | Crear formulario de inicio de sesión con validación.                                                             | 2h         | Gabriel     | Done           |
+|               |                                     | T20     | Verificar credenciales         | Comparar email y contraseña con lo almacenado en JSON Server y redirigir si es correcto.                         | 2h         | Gabriel     | Done           |
 
 #### 5.2.X.4. Development Evidence for Sprint Review.
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
@@ -388,10 +405,13 @@ Estos commits provienen del repositorio del frontend de la organización de GitH
 Para este sprint se desarrolló una primera versión del frontend con el framework Angular.
 A continuación, se evidencian las imágenes del frontend.
 
+![img_15.png](img_15.png)
+![img_16.png](img_16.png)
+![img_17.png](img_17.png)
+![img_18.png](img_18.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
-Durante el desarrollo del frontend de la aplicación, se utilizó JSON Server como una API falsa (fake API) con el objetivo de simular las funcionalidades del backend. Esta decisión se tomó debido a que el backend aún no se encuentra implementado. JSON Server permitió crear un entorno de pruebas funcional que responde a peticiones HTTP (GET, POST, PUT, DELETE) como lo haría un servidor real, utilizando un archivo db.json como fuente de datos persistente. Gracias a esto, fue posible desarrollar, probar y validar las interfaces de usuario y los servicios del frontend de manera efectiva, manteniendo una arquitectura desacoplada y preparada para integrarse con el backend real en el futuro. 
-
+Durante el desarrollo del frontend de la aplicación, se utilizó JSON Server como una API falsa (fake API) con el objetivo de simular las funcionalidades del backend. Esta decisión se tomó debido a que el backend aún no se encuentra implementado. JSON Server permitió crear un entorno de pruebas funcional que responde a peticiones HTTP (GET, POST, PUT, DELETE) como lo haría un servidor real, utilizando un archivo db.json como fuente de datos persistente. Gracias a esto, fue posible desarrollar, probar y validar las interfaces de usuario y los servicios del frontend de manera efectiva, manteniendo una arquitectura desacoplada y preparada para integrarse con el backend real en el futuro.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
@@ -400,8 +420,7 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 🔗 Repositorio de Frontend: https://github.com/Biblioteca-de-Software/frontend
 
 #### Capturas de Insights del repositorio:
-![img_12.png](img_12.png)
-![img_13.png](img_13.png)
+![img_14.png](img_14.png)
 
 
 # Conclusiones
