@@ -200,17 +200,20 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 | Edad                 | 52 años                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | Lince                                                                                                                                                                                                                                                                                                                       |
 | Evidencia            | ![entrevistaRichard.png](../../assets/chapter2/entrevistaRichard.png)                                                                                                                                                                                                                                                       |
-| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
+| Url                  | https://acortar.link/9818Zn |
 | Inicio de entrevista | 6:33                                                                                                                                                                                                                                                                                                                        |    
 | Fin de entrevista    | 25:26                                                                                                                                                                                                                                                                                                                       |
 
-Resumen de entrevista:
+- Distrito de residencia: Jesús María
+- Estado civil: Divorciado
+- Ocupación: Dueño de restaurante
+- Dispositivo de preferencia: Smartphone
+- Canales de interacción digital: Instagram, X
 
-Richard Melgarejo se dedica a asesoría de varios restaurantes y tiene su propio emprendimiento gastronómico hace 4 años.
-Comenta que lo que más indispensable, en su experiencia, es el control de inventario y que está acostumbrado a utilizar lápiz y papel para administrar los productos.  
-Además, menciona que los restaurantes suelen calcular la cantidad de alimentos que se necesitan para la semana y que al cliente se le deben de dar los productos más frescos.
-El entrevistado considera importante que al momento de usar una plataforma de inventario debería poder ver un cálculo o análisis del día a día para saber que platos o bebidas del restaurante se venden más y con ello poder ajustar cambios al menú. 
+Resumen:
+Richard es un emprendedor gastronómico con residencia en Jesús María. Tiene una experiencia consolidada en la administración de su restaurante, pero continúa utilizando métodos manuales como papel y lápiz para el control del inventario y organización interna. Reconoce que esta práctica es ineficiente y ha expresado de forma clara su interés por adoptar soluciones tecnológicas. Usa con frecuencia su smartphone para comunicarse y consumir contenido en redes como Instagram y X, donde también busca tendencias gastronómicas. Tiene una personalidad ordenada, enfocada y con apertura a la innovación si esta le ofrece resultados concretos, como mejorar sus decisiones estratégicas. Está interesado en plataformas que lo ayuden a analizar productos más vendidos y gestionar el inventario con datos confiables y visuales.
 
+➡ Arquetipo base: Administrador Estratégico<br>
 - _Entrevista 2_
 
 | Nombre               | Luis                                                                                                                                                                                                                                                                                                                        |
@@ -219,14 +222,20 @@ El entrevistado considera importante que al momento de usar una plataforma de in
 | Edad                 | 34 años                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | San Borja                                                                                                                                                                                                                                                                                                                   |
 | Evidencia            | ![entrevistaLuis1.jpg](../../assets/chapter2/entrevistaLuis1.jpg)                                                                                                                                                                                                                                                                                                                            |
-| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
+| Url                  | https://acortar.link/9818Zn |
 | Inicio de entrevista | 0:00                                                                                                                                                                                                                                                                                                                        |    
 | Fin de entrevista    | 6:32                                                                                                                                                                                                                                                                                                                        |
 
-Resumen de entrevista:
+- Distrito de residencia: Santiago de Surco
+- Estado civil: Casado
+- Ocupación: Dueño de restaurante
+- Dispositivo de preferencia: Laptop
+- Canales de interacción digital: Facebook, X
 
-Luis Agurto, fundador y gerente general de la cevichería "El Molinero", señaló durante la entrevista que le resultaría altamente beneficioso contar con una aplicación que facilite la gestión de inventario. Aunque actualmente utiliza un método propio para organizar sus productos y alimentos, considera que una solución tecnológica que automatice el control de stock, sugiera ubicaciones óptimas de almacenamiento, genere estadísticas predictivas como alertas sobre posibles faltantes y optimice el trabajo del personal de atención, sería ideal para mejorar la eficiencia operativa del restaurante. Luis nos comenta que le gustaría utilizar la aplicación porque sería algo distinto, innovador y podría facilitar todos los procesos.
+Resumen:
+Luis reside en Santiago de Surco y es propietario de un restaurante en etapa de consolidación. Aunque posee buena experiencia en la gestión operativa, sus procesos internos siguen siendo manuales o informales, lo cual ha comenzado a representar una carga. Está casado, es reflexivo y valora profundamente la eficiencia operativa. Usa principalmente su laptop para temas de trabajo y se mantiene activo en redes como Facebook y X, desde donde se informa sobre herramientas para emprendedores. Tiene una disposición positiva hacia el uso de tecnologías que mejoren la gestión del inventario y el análisis de ventas. Reconoce que necesita datos para optimizar su carta y mejorar el flujo de atención al cliente.
 
+➡ Arquetipo base: Administrador Estratégico<br>
 - _Entrevista 3_
 
 | Nombre               | Daniel                                                                                                                                                                                                                                                                                                                      |
@@ -235,15 +244,20 @@ Luis Agurto, fundador y gerente general de la cevichería "El Molinero", señal�
 | Edad                 | 54 años                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | Miami                                                                                                                                                                                                                                                                                                                       |
 | Evidencia            | ![EntrevistaDaniel.png](../../assets/chapter2/EntrevistaDaniel.png)                                                                                                                                                                                                                                                                                                                            |
-| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
+| Url                  |  |
 | Inicio de entrevista | 25:27                                                                                                                                                                                                                                                                                                                       |    
 | Fin de entrevista    | 39:54                                                                                                                                                                                                                                                                                                                       |
 
+- Distrito de residencia: Miami
+- Estado civil: Casado
+- Ocupación: Dueño de restaurante
+- Dispositivo de preferencia: Computadora de escritorio
+- Canales de interacción digital: Messenger, Instagram
 
-Resumen de entrevista:
+Resumen:
+Daniel vive en Miami y es un dueño de restaurante que ha dirigido su negocio por varios años con métodos tradicionales. Aunque usa su computadora de escritorio como herramienta principal, su interacción digital también incluye canales como Messenger e Instagram. Su enfoque es práctico y, aunque no tan tecnológico, demuestra interés en automatizar la gestión del inventario, especialmente por las dificultades que enfrenta al controlar la rotación de productos y la reposición. Aprecia mucho la eficiencia, y su actitud hacia la innovación tecnológica es positiva, siempre que esta se adapte a su forma de trabajar y le permita reducir el margen de error. Tiene interés moderado en el análisis de ventas, pero reconoce el valor de las estadísticas visuales para tomar decisiones.
 
-Daniel Céspedes, cofundador del restaurante de comida criolla en Miami "El pollo Inka", demostró un alto interés en los beneficios que este contaría con una aplicación o sistema que le ayude a gestionar su inventario. Este comenta que, a pesar de que ellos ya constan con un método para organizar varios de sus productos, esto suele consumir bastante tiempo por parte del personal, por lo cual una aplicación como esta le ayudaría bastante en distribuir mejor las horas para sus trabajadores. Asimismo, el entrevistado deja a remarcar lo importante que es la incorporación de estas tecnologías en cualquier tipo de negocio, y cómo estás ayudan a optimizar el gasto de recursos y tiempo.
-
+➡ Arquetipo base: Administrador Estratégico<br>
 
 
 ##### Segmento 2: Trabajadores de restaurantes.
@@ -256,16 +270,20 @@ Daniel Céspedes, cofundador del restaurante de comida criolla en Miami "El poll
 | Edad                 | 21 años                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | Los Olivos                                                                                                                                                                                                                                                                                                                  |
 | Evidencia            | ![EntrevistaDiego.png](../../assets/chapter2/EntrevistaDiego.png)                                                                                                                                                                                                                                                                                                                            |
-| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
+| Url                  | https://acortar.link/9818Zn |
 | Inicio de entrevista | 42:56                                                                                                                                                                                                                                                                                                                       |    
 | Fin de entrevista    | 47:11                                                                                                                                                                                                                                                                                                                       |
 
-Resumen de entrevista:
+- Distrito de residencia: La Molina
+- Estado civil: Soltero
+- Ocupación: Mesero
+- Dispositivo de preferencia: Smartphone
+- Canales de interacción digital: Messenger, Instagram
 
-Diego Espinoza es un trabajador de un restaurante de comida criolla en Los Olivos.
-Diego nos comenta que su rol en el restaurante es ser mesero, pero también se codea con las personas que gestionan el inventario de insumos en el local.
-Además, nos deja en claro lo útil que sería una aplicación que ayude al llamado de mozos así como también una app que ayude a gestionar el inventario dándoles información respecto a la vigencia de cada insumo. De acorde a su experiencia, una app como esta, le daría facilidad y automatización a estos trabajos.
+Resumen:
+Diego es parte clave del equipo operativo de un restaurante, desempeñándose como mesero. Utiliza su smartphone de forma intensiva para comunicarse y acceder a redes como Instagram y Messenger. Expresó que la falta de tecnología le genera una carga de trabajo adicional, especialmente al coordinar con cocina o verificar inventario. Mencionó con claridad la necesidad de una herramienta que simplifique sus tareas, automatice pedidos y mejore la coordinación interna. Tiene una personalidad proactiva y digitalmente nativa, con disposición para adaptarse a nuevas herramientas si eso implica hacer su trabajo más ágil. Está muy familiarizado con la dinámica operativa, lo que lo convierte en un usuario ideal para validar soluciones móviles.
 
+➡ Arquetipo base: Operador Multifuncional<br>
 - _Entrevista 2_
 
 | Nombre               | Estephano                                                                                                                                                                                                                                                                                                                  |
@@ -274,31 +292,42 @@ Además, nos deja en claro lo útil que sería una aplicación que ayude al llam
 | Edad                 | 22                                                                                                                                                                                                                                                                                                                         |
 | Distrito             | Comas                                                                                                                                                                                                                                                                                                                      |
 | Evidencia            | ![Moscoso.jpg](../../assets/chapter2/Moscoso.jpg)                                                                                                                                                                                                                                                                          |
-| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
+| Url                  | https://acortar.link/9818Zn |
 | Inicio de entrevista | 47:12                                                                                                                                                                                                                                                                                                                      |    
 | Fin de entrevista    | 53:50                                                                                                                                                                                                                                                                                                                      |
 
-Resumen de entrevista:
+- Distrito de residencia: La Victoria
+- Estado civil: Soltero
+- Ocupación: Mesero
+- Dispositivo de preferencia: Laptop y computadora de escritorio
+- Canales de interacción digital: Facebook, Instagram
 
-Estephano Moscoso trabaja en un restaurante cerca de su casa. Él realiza múltiples funciones, como lavar y cocinar. Durante su turno, se encarga de la organización del inventario, atiende como mesero y también actúa como ayudante de cocina. Además, nos comenta que para organizar el inventario utilizan un cuaderno, en el que van sumando y restando los productos manualmente. Finalmente, menciona que para verificar si un producto está en stock, realizan inspecciones semanales.
+Resumen:
+Esthephano trabaja como mesero y tiene un rol activo en el inventario del restaurante donde labora. A diferencia de otros operativos, también utiliza laptop y PC para tareas complementarias, lo que lo hace más versátil en el uso de tecnología. Está completamente a favor de soluciones digitales que mejoren la coordinación entre cocina y servicio, reducir errores y ahorrar tiempo. Es una persona organizada y con visión a futuro, lo que lo hace ideal para introducir cambios tecnológicos en el entorno operativo. Suele navegar por Facebook e Instagram, donde sigue páginas de tecnología y gastronomía.
 
+➡ Arquetipo base: Operador Multifuncional<br>
 - _Entrevista 3_
 
-| Nombre               | Luis                                                                                                                                                                                                                                                                                                                        |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Roman                                                                                                                                                                                                                                                                                                                       |
-| Edad                 | 20 años                                                                                                                                                                                                                                                                                                                     |
-| Distrito             | Jesús María                                                                                                                                                                                                                                                                                                                 |
-| Evidencia            | ![entrevistaLuis2.jpg](../../assets/chapter2/entrevistaLuis2.jpg)                                                                                                                                                                                                                                                                                                                            |
-| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EVkbOSTYaqdGp_JMNYSXEuIB1sh9Fd2ofheHcg4LL0OPDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CKoF5Y |
-| Inicio de entrevista | 39:55                                                                                                                                                                                                                                                                                                                       |    
-| Fin de entrevista    | 42:55                                                                                                                                                                                                                                                                                                                       |
+| Nombre               | Luis                                                                                                                                                                                                                                                                                                                       |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Roman                                                                                                                                                                                                                                                                                                                      |
+| Edad                 | 20 años                                                                                                                                                                                                                                                                                                                    |
+| Distrito             | Jesús María                                                                                                                                                                                                                                                                                                                |
+| Evidencia            | ![entrevistaLuis2.jpg](../../assets/chapter2/entrevistaLuis2.jpg)                                                                                                                                                                                                                                                                                                                           |
+| Url                  | https://acortar.link/9818Zn |
+| Inicio de entrevista | 39:55                                                                                                                                                                                                                                                                                                                      |    
+| Fin de entrevista    | 42:55                                                                                                                                                                                                                                                                                                                      |
 
-Resumen de entrevista: 
+- Distrito de residencia: Jesús María
+- Estado civil: Soltero
+- Ocupación: Mesero
+- Dispositivo de preferencia: Smartphone
+- Canales de interacción digital: Instagram, Facebook
 
-Luis Roman es un mozo de una cevichería.
-Luis nos comenta que tiene responsabilidades relacionadas con el inventario, el cual revisa cada 4 a 5 horas laborales y también cuando llegan nuevos productos. Propone que una app podría facilitarle el trabajo si le permitiera ver con claridad qué mesa pidió qué plato y le avisara cuándo un pedido está listo. Esto reduciría el estrés y los olvidos, además de evitar desplazamientos innecesarios hacia la cocina.
+Resumen:
+Luis es un joven mesero que combina atención al cliente con tareas relacionadas al inventario. Durante la entrevista se mostró entusiasta por adoptar herramientas que automaticen tareas repetitivas como el control de stock o la organización de pedidos. Utiliza principalmente su smartphone para revisar redes sociales, donde se expone constantemente a herramientas digitales del rubro gastronómico. Es una persona dinámica, empática y orientada a resolver problemas inmediatos. Su frustración se centra en la falta de sincronización entre cocina y sala, lo que lo hace un claro portavoz del dolor operativo diario. Tiene conocimientos básicos de tecnología y es muy receptivo al uso de apps móviles.
 
+➡ Arquetipo base: Operador Multifuncional<br>
 
 ### 2.2.3. Análisis de entrevistas.
 
