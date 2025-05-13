@@ -110,31 +110,20 @@ En esta sección, se presentan los wireframes y mock-ups de la página de inicio
 
 ### 4.3.1. Landing Page Wireframe.
 
-![wireframe.jpg](../../assets/chapter4/wireframe.jpg)
-
-![wireframe2.jpg](../../assets/chapter4/wireframe2.jpg)
-
-![wireframe3.jpg](../../assets/chapter4/wireframe3.jpg)
-
-![wireframe4.jpg](../../assets/chapter4/wireframe4.jpg)
-
-![wireframe5.jpg](../../assets/chapter4/wireframe5.jpg)
-
-![wireframe6.jpg](../../assets/chapter4/wireframe6.jpg)
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
 
 ### 4.3.2. Landing Page Mock-up.
 
-![mockup1.png](../../assets/chapter4/mockup1.png)
-
-![mockup2.png](../../assets/chapter4/mockup2.png)
-
-![mockup3.png](../../assets/chapter4/mockup3.png)
-
-![mockup4.png](../../assets/chapter4/mockup4.png)
-
-![mockup5.png](../../assets/chapter4/mockup5.png)
-
-![mockup6.png](../../assets/chapter4/mockup6.png)
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+![img_8.png](img_8.png)
+![img_9.png](img_9.png)
+![img_10.png](img_10.png)
 
 ## 4.4. Web Applications UX/UI Design.
 
@@ -145,47 +134,34 @@ En esta sección, se presentan los wireframes y mock-ups de la aplicación web d
 Los wireframes de la plataforma web KeepItFresh muestran la estructura funcional pensada para ayudar a propietarios y gestores a mantener un control eficiente sobre su inventario con sensores inteligentes. Incluyen:
 
 **Dashboard:**
-
-![Wire_Dash.png](../../assets/chapter4/Wire_Dash.png)
-
+![img_11.png](img_11.png)
 **IoT Sensors:**
 
-![Wire_IoT.png](../../assets/chapter4/Wire_IoT.png)
+![img_12.png](img_12.png)
 
 **Inventory:**
-
-![Wire_Inv.png](../../assets/chapter4/Wire_Inv.png)
-
+![img_13.png](img_13.png)
 **Summary:**
-
-![Wire_sum.png](../../assets/chapter4/Wire_sum.png)
-
+![img_14.png](img_14.png)
 **Profile:**
-
-![Wire_Profile.png](../../assets/chapter4/Wire_Profile.png)
-
+![img_15.png](img_15.png)
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 **User goal:** Como administrador deseo agregar productos al inventario.
 
-![Wflow1.png](../../assets/chapter4/Wflow1.png)
-
+![img_16.png](img_16.png)
 **Use goal:** Como administrador deseo visualizar un resumen de reportes.
 
-![Wflow_2.png](../../assets/chapter4/Wflow_2.png)
-
+![img_17.png](img_17.png)
 **User goal:** Como administrador deseo gestionar los sensores IoT.
 
-![Wflow3.png](../../assets/chapter4/Wflow3.png)
-
+![img_18.png](img_18.png)
 **User goal:** Como trabajador deseo registrar órdenes.
 
-![Wflow4.png](../../assets/chapter4/Wflow4.png)
-
+![img_19.png](img_19.png)
 **User goal:** Como trabajador deseo recibir notificaciones de los pedidos realizados.
 
-![Wflow5.png](../../assets/chapter4/Wflow5.png)
-
+![img_20.png](img_20.png)
 
 ### 4.4.2. Web Applications Mock-ups.
 
@@ -197,23 +173,23 @@ permitiendo una comprensión clara de cómo funcionará la aplicación.
 
 **Dashboard:**
 
-![Mock_Dashboard.png](../../assets/chapter4/Mock_Dashboard.png)
+![img_21.png](img_21.png)
 
 **IoT Sensors:**
 
-![Mock_IoT.png](../../assets/chapter4/Mock_IoT.png)
+![img_22.png](img_22.png)
 
 **Inventory:**
 
-![Mock_Inv.png](../../assets/chapter4/Mock_Inv.png)
+![img_23.png](img_23.png)
 
 **Summary:**
 
-![Mock_Sum.png](../../assets/chapter4/Mock_Sum.png)
+![img_24.png](img_24.png)
 
 **Profile:**
 
-![Mock_Profile.png](../../assets/chapter4/Mock_Profile.png)
+![img_25.png](img_25.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
@@ -223,33 +199,33 @@ Los diagramas de flujo de usuario (User Flow Diagrams) son representaciones visu
 
 Happy Path:
 
-![Uflow1.png](../../assets/chapter4/Uflow1.png)
+![img_26.png](img_26.png)
 
 **User goal:** Como administrador deseo visualizar un resumen de reportes
 
 Happy Path:
-![Uflow2.png](../../assets/chapter4/Uflow2.png)
+![img_27.png](img_27.png)
 
 **User goal:** Como administrador deseo configurar los sensores que adquirí.
 
 Happy Path:
-![Uflow3.png](../../assets/chapter4/Uflow3.png)
+![img_28.png](img_28.png)
 
 **User goal:** Como trabajador deseo registrar órdenes
 
 Happy Path:
-![Uflow4.png](../../assets/chapter4/Uflow4.png)
+![img_29.png](img_29.png)
 
 **User goal:** Como trabajador deseo recibir notificaciones de los pedidos realizados
 
 Happy Path:
-![Uflow5.png](../../assets/chapter4/Uflow5.png)
+![img_30.png](img_30.png)
 
 ## 4.5. Web Applications Prototyping.
 
 En esta sección, se presentan los prototipos de la aplicación web de KeepItFresh. Estos prototipos son representaciones interactivas que permiten a los usuarios explorar y experimentar con la interfaz antes de su desarrollo final. Proporcionan una visión clara de la navegación, la disposición de los elementos y la funcionalidad general de la aplicación.
 
-![Protype.png](../../assets/chapter4/Protype.png)
+![img_31.png](img_31.png)
 
 ## 4.6. Domain-Driven Software Architecture.
 
@@ -281,7 +257,7 @@ Diagrama de componente de Supplier Management
 
 Aquí se presenta el diagrama de clases del sistema KeepItFresh. Este diagrama ilustra las entidades y sus relaciones, proporcionando una visión clara de la estructura del software.
 
-![ClassDiagram_KeepItFresh - open.png](../../assets/chapter4/ClassDiagram_KeepItFresh%20-%20open.png)
+![img_32.png](img_32.png)
 ### 4.7.2. Class Dictionary.
 A continuación, se presenta un diccionario de clases que describe las entidades y sus atributos, así como los métodos asociados a cada una. Este diccionario proporciona una referencia clara para comprender la estructura y funcionalidad del sistema.
 ### IoT Devices
@@ -425,4 +401,4 @@ A continuación, se presenta un diccionario de clases que describe las entidades
 ## 4.8. Database Design.
 En esta sección, se presenta el diseño de la base de datos para el sistema KeepItFresh. Este diseño incluye el diagrama de entidad-relación (ERD) y una descripción de las tablas y sus relaciones.
 ### 4.8.1. Database Diagram.
-![DBDiagram_KeepItFresh.png](../../assets/chapter4/DBDiagram_KeepItFresh.png)
+![img_33.png](img_33.png)
