@@ -150,6 +150,7 @@ Desarrollar estrategias y tácticas efectivas para enfrentar a nuestros competid
 - Mantenimiento y mejoras en la aplicación: Mantener un ritmo constante en las actualizaciones para mejorar y arreglar la aplicación es esencial para que el usuario tenga la mejor experiencia posible y esto lo haremos recopilando información de errores y quejas de los usuarios.
 
 ## 2.2. Entrevistas.
+En esta sección se presenta la investigación realizada a partir de entrevistas en profundidad dirigidas a representantes de los segmentos objetivo: propietarios/gerentes de restaurantes y personal operativo. El análisis recoge tanto características objetivas como percepciones subjetivas de los entrevistados, permitiendo identificar patrones, necesidades, motivaciones y dolores comunes. Esta información sirve como base para la construcción de los arquetipos de usuario y demás artefactos del proceso de diseño centrado en el usuario.
 
 ### 2.2.1. Diseño de entrevistas.
 
