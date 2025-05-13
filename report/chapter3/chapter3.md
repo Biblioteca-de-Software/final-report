@@ -5,11 +5,11 @@ En esta sección se presenta el escenario futuro ideal para cada User Persona, d
 
 **Segmento 1**
 
-![alt text](../../assets/chapter3/To_Be_Seg1.png)
+![img.png](img.png)
 
 **Segmento 2**
 
-![alt text](../../assets/chapter3/To_Be_Seg2.png)    
+![img_1.png](img_1.png)
 
 ## 3.2. User Stories.
 
@@ -57,7 +57,7 @@ En esta sección se presenta el escenario futuro ideal para cada User Persona, d
 
 ## 3.3. Impact Mapping.
 
-<img src="/assets/chapter3/impactmapping.jpeg">
+![img_2.png](img_2.png)
 
 ## 3.4. Product Backlog.
 
