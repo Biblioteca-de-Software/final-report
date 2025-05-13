@@ -400,6 +400,8 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 🔗 Repositorio de Frontend: https://github.com/Biblioteca-de-Software/frontend
 
 #### Capturas de Insights del repositorio:
+![img_12.png](img_12.png)
+![img_13.png](img_13.png)
 
 
 # Conclusiones
@@ -443,10 +445,10 @@ Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a la
 
 ### VIDEOS:
 
-| Título                  | Descripción                                        | Enlace |
-|-------------------------|----------------------------------------------------|--------|
-| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 |        |
-| Video de entrevistas    | Video recopilatorio de todas las entrevistas       |        |  
+| Título                  | Descripción                                        | Enlace                       |
+|-------------------------|----------------------------------------------------|------------------------------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/Vr5XIl                             |
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/9818Zn  |  
 
 ### DIAGRAMAS:
 **Anexo B: Diagrama de clases**<br>
