@@ -1,6 +1,7 @@
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
+En esta sección se presenta el escenario futuro ideal para cada User Persona, diseñado a partir del análisis de necesidades y oportunidades detectadas en los mapas As-Is. Se detalla el proceso seguido por el equipo, que incluyó preparación, lluvia de ideas individual, revisión colaborativa y definición de fases clave. Cada To-Be Scenario Mapping muestra cómo cambiaría la experiencia del usuario con la implementación de la solución propuesta, incluyendo sus acciones, pensamientos y emociones. Además, se comparan los cambios respecto al escenario actual, resaltando mejoras en eficiencia, claridad y satisfacción del usuario.
 
 **Segmento 1**
 
