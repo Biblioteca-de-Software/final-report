@@ -255,8 +255,6 @@ Este sprint estuvo únicamente enfocado en el desarrollo de la Landing Page. La 
 ![img_6.png](img_6.png)
 ![img_7.png](img_7.png)
 
-🔗 Enlace al video de landing page: 
-
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Como se mencionó previamente, Este sprint solo tuvo como objetivo el desarrollo de Landing Page .Aún no se han implementado ni documentado Endpoints con OpenAPI, ya que el desarrollo de los servicios web está planificado para los siguientes Sprints, conforme al roadmap del proyecto.
 
