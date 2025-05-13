@@ -30,9 +30,6 @@ En esta sección se presenta el escenario futuro ideal para cada User Persona, d
 
 
 
-
-
-
 | EPIC/ USER STORY ID | Título                                      | Descripción                                                                 | Criterio de aceptación                                                                                                                                                                                                                  | Relacionado a la épica # |
 |---------------------|---------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
 | US01                | Información general del proyecto           | Como visitante quiero conocer una breve descripción del proyecto KeepItFresh para entender su propósito.             | Escenario 1: Dado que el visitante entra a la página, cuando visualiza la sección "Sobre KeepItFresh", entonces encuentra una descripción clara y concisa del propósito del producto.                                                     | EP1                      |
