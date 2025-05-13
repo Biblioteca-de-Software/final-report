@@ -231,27 +231,25 @@ En esta sección, se presentan los prototipos de la aplicación web de KeepItFre
 
 ### 4.6.1. Software Architecture Context Diagram.
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepFresh.
-![ContextDiagram.png](../../assets/chapter4/ContextDiagram.png)
+![ContextDiagram.png](ContextDiagram.png)
 ### 4.6.2. Software Architecture Container Diagrams.
 A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
-![ContainerDiagram.png](../../assets/chapter4/ContainerDiagram.png)
+![structurizr-Containers (2).png](structurizr-Containers%20%282%29.png)
 ### 4.6.3. Software Architecture Components Diagrams.
 A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica## 4.7. Software Object-Oriented Design.
 
-Diagrama de componente de Customer Feedback
-![DiagramComponentcustomerFeedbackBC.png](../../assets/chapter4/DiagramComponentcustomerFeedbackBC.png)
+Diagrama de componente de Inventario
+![structurizr-InventoryComponentDiagram.png](structurizr-InventoryComponentDiagram.png)
+Diagrama de componente de Notificaciones
+![structurizr-NotificationComponentDiagram.png](structurizr-NotificationComponentDiagram.png)
+Diagrama de componente de Ordenes
+![structurizr-OrderComponentDiagram.png](structurizr-OrderComponentDiagram.png)
 
-Diagrama de componente de Inventory Monitoring
-![DiagramComponentinventoryMonitoringBC.png](../../assets/chapter4/DiagramComponentinventoryMonitoringBC.png)
+Diagrama de componente de Reportes
+![structurizr-ReportComponentDiagram.png](structurizr-ReportComponentDiagram.png)
 
-Diagrama de componente de Location and Environment
-![DiagramComponentlocationAndEnvironmentBC.png](../../assets/chapter4/DiagramComponentlocationAndEnvironmentBC.png)
-
-Diagrama de componente de Restaurant Operations
-![DiagramComponentrestaurantOperationsBC.png](../../assets/chapter4/DiagramComponentrestaurantOperationsBC.png)
-
-Diagrama de componente de Supplier Management
-![DiagramComponentsupplierManagementBC.png](../../assets/chapter4/DiagramComponentsupplierManagementBC.png)
+Diagrama de componente de Manejo de usuario
+![structurizr-UserComponentDiagram.png](structurizr-UserComponentDiagram.png)
 
 ### 4.7.1. Class Diagrams.
 
