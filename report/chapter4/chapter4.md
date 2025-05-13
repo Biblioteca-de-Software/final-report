@@ -144,79 +144,112 @@ En esta sección, se presentan los wireframes y mock-ups de la aplicación web d
 
 Los wireframes de la plataforma web KeepItFresh muestran la estructura funcional pensada para ayudar a propietarios y gestores a mantener un control eficiente sobre su inventario con sensores inteligentes. Incluyen:
 
-- **Pantallas de Autenticación:** flujo de inicio de sesión, registro de usuarios y recuperación de contraseñas.
+**Dashboard:**
 
-- **Dashboard Principal:** vista central con el estado en tiempo real de sensores, resumen del inventario, alertas y reportes.
+![Wire_Dash.png](../../assets/chapter4/Wire_Dash.png)
 
-- **Apartado Estadístico:** muestra datos sobre temperatura y niveles de gas de forma gráfica y comprensible.
+**IoT Sensors:**
 
-- **Gestión de Reportes:** sección dedicada a visualizar y exportar reportes, con una confirmación previa antes de descargar.
+![Wire_IoT.png](../../assets/chapter4/Wire_IoT.png)
 
-- **Alertas de Productos:** notificaciones sobre el estado de los productos almacenados.
+**Inventory:**
 
-- **Sistema de Suscripción:** validación de métodos de pago, confirmación de transacciones y formulario para registrar datos de tarjeta.
+![Wire_Inv.png](../../assets/chapter4/Wire_Inv.png)
 
-Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la prevención de pérdidas y la toma de decisiones basada en datos.
+**Summary:**
 
-![Mockups_WebApp.png](../../assets/chapter4/Mockups_WebApp.png)
+![Wire_sum.png](../../assets/chapter4/Wire_sum.png)
+
+**Profile:**
+
+![Wire_Profile.png](../../assets/chapter4/Wire_Profile.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-**User Goal:** Registrarme o iniciar sesión en KeepItFresh
+**User goal:** Como administrador deseo agregar productos al inventario.
 
-**Descripción:**
+![Wflow1.png](../../assets/chapter4/Wflow1.png)
 
-Como dueño de restaurante, deseo crear una cuenta o iniciar sesión con mis credenciales, para acceder a las funcionalidades de la plataforma según mi rol.
+**Use goal:** Como administrador deseo visualizar un resumen de reportes.
 
-![login.png](../../assets/chapter4/login.png)
+![Wflow_2.png](../../assets/chapter4/Wflow_2.png)
 
-**User Goal:** Visualizar el estado de los sensores en tiempo real
+**User goal:** Como administrador deseo gestionar los sensores IoT.
 
-**Descripción:**
+![Wflow3.png](../../assets/chapter4/Wflow3.png)
 
-Como dueño de restaurante, quiero ver los datos actualizados de temperatura y gas desde los sensores IoT, para monitorear las condiciones de mi inventario y asegurar su conservación.
+**User goal:** Como trabajador deseo registrar órdenes.
 
-![iot.png](../../assets/chapter4/iot.png)
+![Wflow4.png](../../assets/chapter4/Wflow4.png)
 
-**User Goal:** Registrar y consultar mi inventario
+**User goal:** Como trabajador deseo recibir notificaciones de los pedidos realizados.
 
-**Descripción:**
+![Wflow5.png](../../assets/chapter4/Wflow5.png)
 
-Como dueño de restaurante, deseo ingresar productos con su fecha de vencimiento y condiciones de almacenamiento, y consultar el inventario actualizado, para tomar mejores decisiones de compra y uso.
-
-![gestion.png](../../assets/chapter4/gestion.png)
-
-**User Goal:** Ser notificado ante productos por vencer, bajo stock o condiciones no tan buenas
-
-**Descripción:**
-
-Como dueño de restaurante, deseo recibir alertas cuando un producto esté por vencer, el stock esté bajo, o condiciones no tan buneas para evitar pérdidas económicas y reponer a tiempo con la distribuidora.
-
-![alerta.png](../../assets/chapter4/alerta.png)
-
-**User Goal:** Generar y exportar reportes
-
-**Descripción:**
-
-Como dueño de restaurante, deseo generar reportes de ventas y exportarlos en formatos PDF o Excel, para tener acceso a estos datos en mi formato preferido y compartirlos fácilmente.
-
-![exportar.png](../../assets/chapter4/exportar.png)
 
 ### 4.4.2. Web Applications Mock-ups.
 
-![Mockups_WebApp.png](../../assets/chapter4/Mockups_WebApp.png)
+En esta sección, presentamos los mock-ups de la aplicación web, 
+proporcionando una visión detallada de la apariencia final de las 
+diferentes páginas y funcionalidades. Son representaciones visuales 
+de alta fidelidad que muestran el diseño y la interfaz de usuario, 
+permitiendo una comprensión clara de cómo funcionará la aplicación.
+
+**Dashboard:**
+
+![Mock_Dashboard.png](../../assets/chapter4/Mock_Dashboard.png)
+
+**IoT Sensors:**
+
+![Mock_IoT.png](../../assets/chapter4/Mock_IoT.png)
+
+**Inventory:**
+
+![Mock_Inv.png](../../assets/chapter4/Mock_Inv.png)
+
+**Summary:**
+
+![Mock_Sum.png](../../assets/chapter4/Mock_Sum.png)
+
+**Profile:**
+
+![Mock_Profile.png](../../assets/chapter4/Mock_Profile.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-Aquí, se presentan los diagramas de flujo de usuario para la aplicación web de KeepItFresh. Estos diagramas ilustran cómo los usuarios interactúan con la plataforma, desde el registro hasta la gestión del inventario y la generación de reportes.
+Los diagramas de flujo de usuario (User Flow Diagrams) son representaciones visuales que muestran cómo los usuarios interactúan con la aplicación, desde el inicio hasta la finalización de una tarea específica. Estos diagramas ayudan a comprender el recorrido del usuario y a identificar posibles mejoras en la experiencia de usuario.
 
-![Mockups_Userflow.png](../../assets/chapter4/Mockups_Userflow.png)
+**User goal:** Como administrador deseo agregar productos al inventario.
+
+Happy Path:
+
+![Uflow1.png](../../assets/chapter4/Uflow1.png)
+
+**User goal:** Como administrador deseo visualizar un resumen de reportes
+
+Happy Path:
+![Uflow2.png](../../assets/chapter4/Uflow2.png)
+
+**User goal:** Como administrador deseo configurar los sensores que adquirí.
+
+Happy Path:
+![Uflow3.png](../../assets/chapter4/Uflow3.png)
+
+**User goal:** Como trabajador deseo registrar órdenes
+
+Happy Path:
+![Uflow4.png](../../assets/chapter4/Uflow4.png)
+
+**User goal:** Como trabajador deseo recibir notificaciones de los pedidos realizados
+
+Happy Path:
+![Uflow5.png](../../assets/chapter4/Uflow5.png)
 
 ## 4.5. Web Applications Prototyping.
 
-//ToDo
+En esta sección, se presentan los prototipos de la aplicación web de KeepItFresh. Estos prototipos son representaciones interactivas que permiten a los usuarios explorar y experimentar con la interfaz antes de su desarrollo final. Proporcionan una visión clara de la navegación, la disposición de los elementos y la funcionalidad general de la aplicación.
 
-![Mockups_Userflow.png](../../assets/chapter4/Mockups_Userflow.png)
+![Protype.png](../../assets/chapter4/Protype.png)
 
 ## 4.6. Domain-Driven Software Architecture.
 
