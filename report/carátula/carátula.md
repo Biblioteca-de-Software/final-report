@@ -46,12 +46,22 @@ Ciclo 2025-01
 
 
 # Registro de versiones del informe
-
-| Versión | Fecha      | Autor | Descripción de modificación                                                                                                                                                                              |
-|---------|------------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 24/04/2025 | Briceño Llanos, Ayrton Omar<br/>Lang Nassi, Werner Khalil<br/>Mamani Marca, Gabriel Cristian<br/>Torres Flores, Paolo Alessandro<br/>Maita Falckenheiner, Romina Guadalupe      | Se realizó la documentación respectiva a los capítulos I, II, III, IV y V así como también se realizaron los diagramas correspondientes, deployment de la landing page así como la creación de la misma. |
-
-
+| Versión | Fecha      | Autor                                 | Descripción de modificación                                                                                                                 |
+|---------|------------|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 7/04/2025  | Maita Falckenheiner, Romina Guadalupe | Creación del documento de trabajo en formato markdown.                                                                                      |
+| 1.1     | 9/04/2025  | Lang Nassi, Werner Khalil             | Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas. |
+| 1.2     | 12/04/2025 | Briceño Llanos, Ayrton Omar           | Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas.                                                        |
+| 1.3     | 15/04/2025 | Torres Flores, Paolo Alessandro       | Elaboración de user personas, impact mapping, as-is y to-be, redacción de conclusiones, biblografía y anexos.                               |
+| 1.4     | 16/04/2025 | Lang Nassi, Werner Khalil             | Elaboración de user stories, epics y technical stories.                                                                                     |
+| 1.5     | 17/04/2025 | Mamani Marca, Gabriel Cristian        | Elaboración de diagramas de contenedores, diagramas de contexto, diagramas de componentes.                                                  |
+| 1.6     | 19/04/2025 | Maita Falckenheiner, Romina Guadalupe | Registro de evidencias del Sprint 1.                                                                                                        |
+| 1.7     | 21/04/2025 | Briceño Llanos, Ayrton Omar           | Rediseño de mockups. Elaboración de wireflows y user-flows.                                                                                 |
+| 1.8     | 24/04/2025 | Mamani Marca, Gabriel Cristian        | Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases.                                                         |
+| 2.0     | 28/04/2025 | Maita Falckenheiner, Romina Guadalupe | Elaboración de Sprint 2, Sprint Planning 2, Sprint Backlog 2 y el deployement de la Aplicación Web.                                         |
+| 2.1     | 29/04/2025 | Torres Flores, Paolo Alessandro       | Elaboración de Services Documentation Evidence for Sprint Review.                                                                           |
+| 2.2     | 31/04/2025 | Briceño Llanos, Ayrton Omar           | Elaboración de Software Deployment Evidence for Sprint Review.                                                                              |
+| 2.3     | 02/04/2025 | Lang Nassi, Werner Khalil             | Elaboración de Team Collaboration Insights during Sprint.                                                                                   |
+| 2.4     | 05/04/2025 | Torres Flores, Paolo Alessandro       | Elaboración de bounded context e implementación en el frontend.                                                                             |
 # Project Report Collaboration Insights
 
 #### Repositorio del informe del proyecto
