@@ -443,12 +443,6 @@ Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a la
 
 - Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
 
-- Chang-Gómez, M., & Chang-Gómez, M. Á. (2020). Bienestar en el trabajo de los profesionales de salud durante la pandemia de COVID-19: Revisión narrativa. *Revista Cubana de Salud Pública, 46*(4), e2146. https://doi.org/10.1590/rcsp.v46i4.2146
-
-- Guardamino Soto, B. (2024, 3 de julio). Minsa reporta más de 900 mil atenciones en salud mental en el 2024: ansiedad y depresión son las principales afecciones. Infobae Perú. Recuperado de https://www.infobae.com/peru/2024/07/03/minsa-reporta-mas-de-900-mil-atenciones-en-salud-mental-en-el-2024-ansiedad-y-depresion-son-las-principales-afecciones/
-
-- Defensoría del Pueblo. (n.d.). Estado peruano debe priorizar la atención de la salud mental. Recuperado de https://www.defensoria.gob.pe/defensoria-del-pueblo-estado-peruano-debe-priorizar-la-atencion-de-la-salud-mental/
-
 - Angular. (n.d.). *Angular Material components.* Retrieved from https://material.angular.io/components/categories
 
 - AngularJS. (n.d.). *AngularJS Material.* Retrieved from https://material.angularjs.org/latest/
