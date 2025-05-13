@@ -54,14 +54,28 @@ Ciclo 2025-01
 
 # Project Report Collaboration Insights
 
-**Link de la organización del proyecto:**<br>
-https://github.com/orgs/Biblioteca-de-Software/repositories
+#### Repositorio del informe del proyecto
+El informe del proyecto se encuentra alojado en el siguiente repositorio de la organización de GitHub del equipo:
 
-**Insights del reporte:**<br>
-![p1](/assets/p1.jpeg)
+🔗 Enlace del repositorio: https://github.com/Biblioteca-de-Software/final-report
 
-**Insights del landing page:**<br>
-![p2](/assets/p2.jpeg)
+A continuación, se detallan las actividades realizadas en cada entrega, la participación de los miembros del equipo, y las evidencias correspondientes.
+
+#### Desarrollo del informe
+Para la primera entrega (TB1) se trabajó en la estructura inicial del informe, definiendo el índice y distribuyendo las secciones entre los miembros.
+
+##### Evidencia de colaboración
+![img_1.png](img_1.png)
+
+Para la segunda entrega (TP) se realizó las correcciones respectivas con respecto a la retroalimentación del primer entregable. A cada integrante de le asigno la supervición de cada capítulo.
+
+- **Paolo Torres**: Correcciones del capítulo 1
+- **Ayrton Briseña**: Correcciones del capítulo 2
+- **Gabriel Mamamani**: Correcciones del capítulo 3
+- **Werner Lang**: Correcciones del capítulo 4
+- **Romina Maita**: Correcciones del capítulo 5
+
+- ![img.png](img.png)
 
 # Contenido
 
