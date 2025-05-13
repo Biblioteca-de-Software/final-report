@@ -250,7 +250,20 @@ En esta sección se detalla los líderes de cada aspecto. Para el primer Sprint 
 
 #### 5.2.1.3. Sprint Backlog 1.
 
-
+|  Sprint 1  |             Sprint 1            |     |                              |                                                                     |                    |             |                                                     |
+|:----------:|:-------------------------------:|:---:|:----------------------------:|:-------------------------------------------------------------------:|:------------------:|:-----------:|:---------------------------------------------------:|
+| User Story | Work-Item / Task                |     |                              |                                                                     |                    |             |                                                     |
+| Id         | Title                           | Id  | Title                        | Description                                                         | Estimation (Hours) | Assigned To |   Status (To do / In process / To review / Done)    |
+| US01       | Registro de Producto            | W01 | Crear formulario de registro | Diseñar y codificar el formulario para ingresar datos del producto. | 3                  |   Ayrton    |                        To do                        |
+| US02       | Consulta de inventario          | W02 | Crear vista de inventario    | Mostrar los productos almacenados y su stock actual.                | 4                  |   Romina    |                        Done                         |
+| US03       | Registro de usuario             | W03 | Formulario de registro       | Crear un formulario de registro con validación de datos.            | 3                  |   Ayrton    |                        To do                        |
+| US04       | Inicio de sesión                | W04 | Interfaz de login            | Crear pantalla de inicio de sesión con validación.                  | 2                  |    Paolo    |                        Done                         |
+| US05       | Alertas de vencimiento          | W05 | Programar lógica de alerta   | Generar alertas automáticas según fecha de vencimiento.             | 1                  |   Werner    |                        Done                         |
+| US06       | Registro de tiempo de respuesta | W06 | Medir tiempo de atención     | Registrar tiempo desde la solicitud hasta la atención.              | 2                  |   Gabriel   |                        Done                         |
+| US07       | Solicitud de atención           | W07 | Crear formulario de atención | Interfaz para solicitar atención con datos necesarios.              | 2                  |   Gabriel   |                        Done                         |
+| US08       | Resumen general para dueños     | W08 | Panel de resumen             | Crear dashboard con métricas clave (ventas, pedidos, etc).          | 2                  |    Paolo    |                        Done                         |
+| US09       | Alertas visuales en dashboard   | W09 | Integrar alertas al panel    | Mostrar alertas de demora o alto volumen de pedidos.                | 2                  |   Werner    |                        Done                         |
+<br>
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
