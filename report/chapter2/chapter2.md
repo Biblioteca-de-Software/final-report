@@ -405,8 +405,10 @@ Cantidad: 3/6 (50%)
 
 
 ## 2.3. Needfinding.
-
+En esta sección se presenta el análisis detallado de la información recolectada durante las entrevistas realizadas a los distintos perfiles involucrados en la gestión y operación de restaurantes. El objetivo principal del proceso de Needfinding ha sido identificar necesidades reales, motivaciones, frustraciones y patrones de comportamiento de los usuarios para guiar el diseño de una solución centrada en ellos.<br>
+Los artefactos incluidos User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping, permiten visualizar, sintetizar y comprender de manera estructurada la experiencia actual de los usuarios, sus tareas clave, emociones, puntos de dolor y oportunidades de mejora. Este análisis constituye la base para el diseño de soluciones alineadas con sus contextos y objetivos reales.
 ### 2.3.1. User Personas.
+Esta sección presenta las fichas de User Persona elaboradas a partir del análisis de entrevistas y hallazgos del benchmarking. Cada arquetipo representa un segmento objetivo clave, reflejando sus características demográficas, comportamientos, necesidades, frustraciones y motivaciones. Estos perfiles permiten guiar el diseño centrado en el usuario, alineando la solución propuesta con contextos reales de uso.
 
 #### Segmento 1: Dueños de restaurantes.
 <img src="/assets/chapter2/userpersona1.png">
@@ -448,7 +450,7 @@ Segmento Objetivo 2: Javier(Trabajador de restaurante)
 | Capacitacion de personal     | Rara vez        | Media |
 
 ### 2.3.3. User Journey Mapping.
-
+En esta sección se presentan los User Journey Maps en su versión As-Is, uno por cada User Persona definidol. Cada journey refleja el recorrido actual que realiza el usuario en su contexto real de trabajo, desde el inicio hasta el fin de sus actividades clave, sin la existencia de una solución tecnológica. Estos mapas permiten identificar puntos de fricción, oportunidades de mejora y momentos críticos que guían el diseño centrado en el usuario. Los journeys están directamente vinculados a los arquetipos previamente definidos.
 ### Segmento 1: Dueños de restaurantes.
 
 <img src="/assets/chapter2/userjourney_owner.png">
@@ -458,7 +460,7 @@ Segmento Objetivo 2: Javier(Trabajador de restaurante)
 <img src="/assets/chapter2/userjourney_worker.png">
 
 ### 2.3.4. Empathy Mapping.
-
+Esta sección presenta los Empathy Maps desarrollados para los dos User Personas. El proceso de elaboración incluyó la reflexión colaborativa del equipo en torno a la experiencia, necesidades, pensamientos, emociones y percepciones de cada usuario. Los mapas permiten profundizar en la comprensión de sus contextos y motivaciones, respondiendo preguntas clave sobre lo que ven, escuchan, piensan, sienten, dicen y hacen. A partir de este análisis, se identificaron sus Pains y Gains, los cuales servirán como base para el diseño de una propuesta de valor relevante.
 #### Segmento 1: Dueños de restaurantes.
 
 <img src="/assets/chapter2/empathymap1.png">
@@ -468,8 +470,8 @@ Segmento Objetivo 2: Javier(Trabajador de restaurante)
 <img src="/assets/chapter2/empathymap2.png">
 
 ### 2.3.5. As-is Scenario Mapping.
-
-**Segmento 1**
+En esta sección se presentan los As-Is Scenario Maps elaborados para los User Personas. El proceso incluyó una fase de preparación, lluvia de ideas individual, revisión en equipo y estructuración por fases. Cada escenario fue construido considerando las filas Phases, Doing, Thinking y Feeling, permitiendo visualizar la experiencia actual de los usuarios en sus actividades cotidianas. Se identificaron puntos críticos, emociones, áreas positivas, negativas y espacios en blanco que requieren mayor exploración, sirviendo como base para detectar oportunidades de mejora y posibles intervenciones con la solución propuesta.<br>
+<br>**Segmento 1**
 
 Escenario: El dueño necesita revisar el estado de las mesas, el inventario de ingredientes y asignar tareas al personal.
 
