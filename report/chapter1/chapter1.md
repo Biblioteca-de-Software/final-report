@@ -251,4 +251,14 @@ Requieren una plataforma sencilla, rápida y accesible desde celulares o tablets
 Facilitar su labor diaria, reducir errores humanos en el manejo de productos y mejorar la eficiencia en la atención al cliente.
 
 **Sustento estadístico:**  
-De acuerdo con el Instituto Nacional de Estadística e Informática (INEI)
+Según el Instituto Nacional de Estadística e Informática (INEI), el sector de Alojamiento y Restaurantes empleó a 476,300 personas en el cuarto trimestre de 2023, representando aproximadamente el 5.8% del empleo total a nivel nacional. La mayor concentración de estos trabajadores se encuentra en zonas urbanas, destacando Lima Metropolitana, que concentra el 41.2% del empleo en este rubro.
+
+Fuente: INEI (2024). Encuesta Permanente de Empleo Nacional (EPEN) – IV Trimestre 2023. https://www.inei.gob.pe
+
+El grupo etario predominante en este sector es el de jóvenes entre 18 y 39 años, representando más del 84% de la fuerza laboral. Además, aproximadamente el 62% de los trabajadores cuentan con educación secundaria completa o formación técnica, especialmente en áreas como gastronomía y atención al cliente.
+
+Fuente: INEI (2023). Condiciones del Mercado Laboral en el Perú 2023. https://www.inei.gob.pe
+
+Por otro lado, según el Ministerio de la Producción (Produce), en Lima Metropolitana más del 35% de los restaurantes formales incorporan herramientas digitales para la gestión de pedidos, inventario o reservas. Esta tendencia se ha acelerado en los últimos años debido a los cambios impulsados por la pandemia.
+
+Fuente: Ministerio de la Producción (2023). Estudio sobre transformación digital en MYPE del sector gastronómico. https://www.gob.pe/produce
