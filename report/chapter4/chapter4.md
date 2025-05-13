@@ -134,31 +134,43 @@ En esta sección, se presentan los wireframes y mock-ups de la aplicación web d
 Los wireframes de la plataforma web KeepItFresh muestran la estructura funcional pensada para ayudar a propietarios y gestores a mantener un control eficiente sobre su inventario con sensores inteligentes. Incluyen:
 
 **Dashboard:**
+
 ![img_11.png](img_11.png)
+
 **IoT Sensors:**
 
 ![img_12.png](img_12.png)
 
 **Inventory:**
+
 ![img_13.png](img_13.png)
+
 **Summary:**
+
 ![img_14.png](img_14.png)
+
 **Profile:**
+
 ![img_15.png](img_15.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 **User goal:** Como administrador deseo agregar productos al inventario.
 
 ![img_16.png](img_16.png)
+
 **Use goal:** Como administrador deseo visualizar un resumen de reportes.
 
 ![img_17.png](img_17.png)
+
 **User goal:** Como administrador deseo gestionar los sensores IoT.
 
 ![img_18.png](img_18.png)
+
 **User goal:** Como trabajador deseo registrar órdenes.
 
 ![img_19.png](img_19.png)
+
 **User goal:** Como trabajador deseo recibir notificaciones de los pedidos realizados.
 
 ![img_20.png](img_20.png)
@@ -231,25 +243,36 @@ En esta sección, se presentan los prototipos de la aplicación web de KeepItFre
 
 ### 4.6.1. Software Architecture Context Diagram.
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepFresh.
-![ContextDiagram.png](ContextDiagram.png)
+
+![img_34.png](img_34.png)
+
 ### 4.6.2. Software Architecture Container Diagrams.
 A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
-![structurizr-Containers (2).png](structurizr-Containers%20%282%29.png)
+
+![img_35.png](img_35.png)
+
 ### 4.6.3. Software Architecture Components Diagrams.
 A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica## 4.7. Software Object-Oriented Design.
 
 Diagrama de componente de Inventario
-![structurizr-InventoryComponentDiagram.png](structurizr-InventoryComponentDiagram.png)
+
+![img_36.png](img_36.png)
+
 Diagrama de componente de Notificaciones
-![structurizr-NotificationComponentDiagram.png](structurizr-NotificationComponentDiagram.png)
-Diagrama de componente de Ordenes
-![structurizr-OrderComponentDiagram.png](structurizr-OrderComponentDiagram.png)
+
+![img_37.png](img_37.png)
+
+Diagrama de componente de Órdenes
+
+![img_38.png](img_38.png)
 
 Diagrama de componente de Reportes
-![structurizr-ReportComponentDiagram.png](structurizr-ReportComponentDiagram.png)
+
+![img_39.png](img_39.png)
 
 Diagrama de componente de Manejo de usuario
-![structurizr-UserComponentDiagram.png](structurizr-UserComponentDiagram.png)
+
+![img_40.png](img_40.png)
 
 ### 4.7.1. Class Diagrams.
 
