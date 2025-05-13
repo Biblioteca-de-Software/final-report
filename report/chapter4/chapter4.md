@@ -217,7 +217,7 @@ permitiendo una comprensión clara de cómo funcionará la aplicación.
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-Aquí, se presentan los diagramas de flujo de usuario para la aplicación web de KeepItFresh. Estos diagramas ilustran cómo los usuarios interactúan con la plataforma, desde el registro hasta la gestión del inventario y la generación de reportes.
+Los diagramas de flujo de usuario (User Flow Diagrams) son representaciones visuales que muestran cómo los usuarios interactúan con la aplicación, desde el inicio hasta la finalización de una tarea específica. Estos diagramas ayudan a comprender el recorrido del usuario y a identificar posibles mejoras en la experiencia de usuario.
 
 **User goal:** Como administrador deseo agregar productos al inventario.
 
@@ -247,9 +247,9 @@ Happy Path:
 
 ## 4.5. Web Applications Prototyping.
 
-//ToDo
+En esta sección, se presentan los prototipos de la aplicación web de KeepItFresh. Estos prototipos son representaciones interactivas que permiten a los usuarios explorar y experimentar con la interfaz antes de su desarrollo final. Proporcionan una visión clara de la navegación, la disposición de los elementos y la funcionalidad general de la aplicación.
 
-![Mockups_Userflow.png](../../assets/chapter4/Mockups_Userflow.png)
+![Protype.png](../../assets/chapter4/Protype.png)
 
 ## 4.6. Domain-Driven Software Architecture.
 
