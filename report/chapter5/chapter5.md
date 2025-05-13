@@ -236,16 +236,29 @@ En esta sección se detalla los líderes de cada aspecto. Para el primer Sprint 
 
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
 
-| Repository | Branch | Commit Id | commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-|            |        |           |                |                     |                    |
+🔗 Enlace al repositorio de la Landing Page: https://github.com/Biblioteca-de-Software/landing-page
 
-![img_8.png](img_8.png)
+| Repository                           | Branch | Commit Id                                 | Commit Message                 | Commit Message Body | Commited on (Date) |
+|--------------------------------------|--------|-------------------------------------------|--------------------------------|---------------------|--------------------|
+| Biblioteca-de-Software/landing-page  | main   | ac5503593079bdd29fcee4682e28a29cac8cc300  | feat(main): basic structure    |                     | 24/4/2025          |
+| Biblioteca-de-Software/landing-page  | main   | f0d37bfbf9cd357a095eaea176d9515738bbc38e  | feat: added suscriptions plans |                     | 24/4/2025          |
+| Biblioteca-de-Software/landing-page  | main   | 1312725155bd1bafd3abc0682592e7686a26ebd1  | feat: add opinions             |                     | 27/4/2025          |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+Este sprint estuvo únicamente enfocado en el desarrollo de la Landing Page. La cual fue programada en el repositorio "landing-page" de nuestra organización de Github.
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+
+🔗 Enlace al video de landing page: 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-Durante el presente Sprint, el equipo se enfocó en el desarrollo inicial del proyecto, completando la Landing Page de la aplicación. Aún no se han implementado ni documentado Endpoints con OpenAPI, ya que el desarrollo de los servicios web está planificado para los siguientes Sprints, conforme al roadmap del proyecto.
+Como se mencionó previamente, Este sprint solo tuvo como objetivo el desarrollo de Landing Page .Aún no se han implementado ni documentado Endpoints con OpenAPI, ya que el desarrollo de los servicios web está planificado para los siguientes Sprints, conforme al roadmap del proyecto.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
@@ -355,33 +368,40 @@ En esta sección se detalla los líderes de cada aspecto. Para este segundo spri
 |               |                                     | T20     | Verificar credenciales         | Comparar email y contraseña con lo almacenado en JSON Server y redirigir si es correcto.                         | 2h         |             | To-do          |
 
 #### 5.2.X.4. Development Evidence for Sprint Review.
-En esta sección se demuestran los commits relacionados a los principales avances en la implementación.
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
 Estos commits provienen del repositorio del frontend de la organización de GitHub.
 
 🔗 Enlace al repositorio del frontend: https://github.com/Biblioteca-de-Software/frontend
 
-| Repository | Branch            | Commit Id                                 | commit Message                                  | Commit Message Body | Commited on (Date) |
-|------------|-------------------|-------------------------------------------|-------------------------------------------------|---------------------|--------------------|
-|            | feature/inventory | 511a28fc33a708a84805bdb0b51526931a4acd77  | feat(inventory): add inventory entities.        |                     |                    |
-|            | feature/inventory | 7d9aee295dedaea2622e7e68466a5ee36be04dcc  | feat(inventory): add inventory services.        |                     |                    |
-|            | feature/inventory | 3f49d70cbc19da5d44b5ed65bb4159d94be42f51  | feat(inventory): add inventory components.      |                     |                    |
-|            | feature/orders    | 19e93de97fde7839a4f5c8c3bac2f5117eb9cca9  | feat(order): add order form component.          |                     |                    |
-|            | feature/orders    | d050f5b9c193e3c64e936f4b868b04dc640f7f43  | feat(order): add order page component.          |                     | 09/05/2025         |
-|            | feature/orders    | 1afe4f2d4c61966ed03286e5b2dabef5e78b8720  | feat(order): add order list component.          |                     | 09/05/2025         |
-|            | feature/orders    | 2913232089867f2da8fc86bb9f2c21e64637b48c  | feat(order): add order response and assembler.  |                     | 09/05/2025         |
-|            |                   |                                           |                                                 |                     |                    |
-|            |                   |                                           |                                                 |                     |                    |
-|            |                   |                                           |                                                 |                     |                    |
-|            |                   |                                           |                                                 |                     |                    |
+| Repository                       | Branch                 | Commit Id                                | commit Message                                                         | Commit Message Body | Commited on (Date) |
+|----------------------------------|------------------------|------------------------------------------|------------------------------------------------------------------------|---------------------|--------------------|
+| Biblioteca-de-Software/frontend  | feature/inventory      | 511a28fc33a708a84805bdb0b51526931a4acd77 | feat(inventory): add inventory entities.                               |                     |                    |
+| Biblioteca-de-Software/frontend  | feature/inventory      | 7d9aee295dedaea2622e7e68466a5ee36be04dcc | feat(inventory): add inventory services.                               |                     |                    |
+| Biblioteca-de-Software/frontend  | feature/inventory      | 3f49d70cbc19da5d44b5ed65bb4159d94be42f51 | feat(inventory): add inventory components.                             |                     |                    |
+| Biblioteca-de-Software/frontend  | feature/orders         | 19e93de97fde7839a4f5c8c3bac2f5117eb9cca9 | feat(order): add order form component.                                 |                     | 09/05/2025         |
+| Biblioteca-de-Software/frontend  | feature/orders         | d050f5b9c193e3c64e936f4b868b04dc640f7f43 | feat(order): add order page component.                                 |                     | 09/05/2025         |
+| Biblioteca-de-Software/frontend  | feature/orders         | 1afe4f2d4c61966ed03286e5b2dabef5e78b8720 | feat(order): add order list component.                                 |                     | 09/05/2025         |
+| Biblioteca-de-Software/frontend  | feature/orders         | 2913232089867f2da8fc86bb9f2c21e64637b48c | feat(order): add order response and assembler.                         |                     | 09/05/2025         |
+| Biblioteca-de-Software/frontend  | feature/notifications  | 7e2b469de1cfe2d9eeb15b16dcea0a6029579b6b | feat(notification): add clickable notification.                        |                     | 12/05/2025         |
+| Biblioteca-de-Software/frontend  | feature/notifications  | 0b0266c554c3a1c88d5c7425f6ff34f335403d8f | feat(notification): add notification filter for workers and inventory. |                     | 12/05/2025         |
+| Biblioteca-de-Software/frontend  | feature/notifications  | 645fe146147833215d3470f41ac565c78cf89764 | feat(notification): add notification database example and route.       |                     | 12/05/2025         |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+Para este sprint se desarrolló una primera versión del frontend con el framework Angular.
+A continuación, se evidencian las imágenes del frontend.
 
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+Durante el desarrollo del frontend de la aplicación, se utilizó JSON Server como una API falsa (fake API) con el objetivo de simular las funcionalidades del backend. Esta decisión se tomó debido a que el backend aún no se encuentra implementado. JSON Server permitió crear un entorno de pruebas funcional que responde a peticiones HTTP (GET, POST, PUT, DELETE) como lo haría un servidor real, utilizando un archivo db.json como fuente de datos persistente. Gracias a esto, fue posible desarrollar, probar y validar las interfaces de usuario y los servicios del frontend de manera efectiva, manteniendo una arquitectura desacoplada y preparada para integrarse con el backend real en el futuro. 
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+En esta sección se evidencia la colaboración de cada integrante en el repositorio de la Landing Page.
+🔗 Repositorio de Frontend: https://github.com/Biblioteca-de-Software/frontend
+
+#### Capturas de Insights del repositorio:
 
 
 # Conclusiones
@@ -398,29 +418,56 @@ Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a la
 
 # Bibliografía
 
-Bedoya-Perales, N. S., & Magro, G. P. D. (2021). Quantification of Food Losses and Waste in Peru: A Mass Flow Analysis along the Food Supply Chain. Sustainability, 13(5), 2807. https://doi.org/10.3390/su13052807
+- Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
+
+- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+
+- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
+
+- Chang-Gómez, M., & Chang-Gómez, M. Á. (2020). Bienestar en el trabajo de los profesionales de salud durante la pandemia de COVID-19: Revisión narrativa. *Revista Cubana de Salud Pública, 46*(4), e2146. https://doi.org/10.1590/rcsp.v46i4.2146
+
+- Guardamino Soto, B. (2024, 3 de julio). Minsa reporta más de 900 mil atenciones en salud mental en el 2024: ansiedad y depresión son las principales afecciones. Infobae Perú. Recuperado de https://www.infobae.com/peru/2024/07/03/minsa-reporta-mas-de-900-mil-atenciones-en-salud-mental-en-el-2024-ansiedad-y-depresion-son-las-principales-afecciones/
+
+- Defensoría del Pueblo. (n.d.). Estado peruano debe priorizar la atención de la salud mental. Recuperado de https://www.defensoria.gob.pe/defensoria-del-pueblo-estado-peruano-debe-priorizar-la-atencion-de-la-salud-mental/
+
+- Angular. (n.d.). *Angular Material components.* Retrieved from https://material.angular.io/components/categories
+
+- AngularJS. (n.d.). *AngularJS Material.* Retrieved from https://material.angularjs.org/latest/
+
+- BrowserStack. (n.d.). Responsive Web Design: A Complete Guide. Recuperado de https://www.browserstack.com/guide/responsive-web-design
+
+- Spring Boot. (n.d.). Spring Boot Documentation. Retrieved from https://docs.spring.io/spring-boot/documentation.html#documentation.web
+
+- Modyo. (n.d.). Domain-Driven Design (DDD) - Patrones de arquitectura. Retrieved from https://docs.modyo.com/es/architecture/patterns/ddd.html
+
 
 # Anexos
-**Anexo A: Entrevistas**<br>
-https://upcedupe-my.sharepoint.com/personal/u20221f613_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221f613_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4350-Go4U-Entrevistas-tb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef9358ec4-5889-4ffc-ab48-1cc2b59b3f66
 
+### VIDEOS:
+
+| Título                  | Descripción                                        | Enlace |
+|-------------------------|----------------------------------------------------|--------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 |        |
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       |        |  
+
+### DIAGRAMAS:
 **Anexo B: Diagrama de clases**<br>
-https://lucid.app/lucidchart/30ba92cc-d4a4-4173-a345-d9df240369ba/edit?viewport_loc=-1225%2C-952%2C3838%2C1768%2CizzJqiIIuiUG&invitationId=inv_162805fe-76e1-4eb0-9f55-a1369699a168
 
-**Anexo C: Diagrama de Base de Datos**<br>
-https://lucid.app/lucidchart/8b68a7d9-d409-4131-a858-0ff68f0d77e7/edit?viewport_loc=-1872%2C-635%2C2551%2C1175%2C0_0&invitationId=inv_04e0583c-2c83-4d99-b9e1-5c12dee721ad
+| Título                    | Descripción                                                 | Enlace |
+|---------------------------|-------------------------------------------------------------|--------|
+| Diagrama de base de datos | Enlace al diagrama de base de datos realizado en Lucidchart |        | 
+| Diagrama de clases        | Enlace al diagrama clases realizado en Lucidchart           |        | 
 
-**Anexo D: Landing Page**<br>
-https://biblioteca-de-software.github.io/landing-page/
+### UX/UI
+| Título | Descripción                                                                                                | Enlace                       |
+|--------|------------------------------------------------------------------------------------------------------------|------------------------------|
+| Figma  | Enlace hacia el documento de Figma con todos los diseños planteados para tanto Frontend como Landing Page. | https://acortar.link/4Ym8OK  | 
 
-**Anexo E: Wireframe**<br>
-https://www.figma.com/design/qhRLKjdaF9fijkKjSNQYEV/wireframe?node-id=0-1&t=aAudnWYnV3hGkMou-1
+### GITHUB
 
-**Anexo F: Mockup**<br>
-https://www.figma.com/design/XuRVo3M9aclKQzb5VTGsC7/Untitled?node-id=0-1&t=iMrbvYmaqMFpc3SE-1
+| Título       | Descripción                            | Enlace                                                |
+|--------------|----------------------------------------|-------------------------------------------------------|
+| Reporte      | Enlace al repositorio del reporte      | https://biblioteca-de-software.github.io/final-report |
+| Landing Page | Enlace al repositorio del Landing Page | https://biblioteca-de-software.github.io/landing-page |
+| Frontend     | Enlace al repositorio del frontend     | https://biblioteca-de-software.github.io/frontend     |
 
-**Anexo G: Web Application MockUp and Wireframe**<br>
-https://www.figma.com/design/ZPqKdgAXbM04JV4jEnc5rw/KeepItFresh--Copy-?node-id=74-247&t=CLgUbrYHBU9JTQu1-1
-
-figma
-https://acortar.link/4Ym8OK
