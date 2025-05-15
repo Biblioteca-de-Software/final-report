@@ -262,3 +262,5 @@ Fuente: INEI (2023). Condiciones del Mercado Laboral en el Perú 2023. https://w
 Por otro lado, según el Ministerio de la Producción (Produce), en Lima Metropolitana más del 35% de los restaurantes formales incorporan herramientas digitales para la gestión de pedidos, inventario o reservas. Esta tendencia se ha acelerado en los últimos años debido a los cambios impulsados por la pandemia.
 
 Fuente: Ministerio de la Producción (2023). Estudio sobre transformación digital en MYPE del sector gastronómico. https://www.gob.pe/produce
+
+()users toprteros
