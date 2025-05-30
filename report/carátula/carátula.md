@@ -4,7 +4,7 @@
 ## Desarrollo de Aplicaciones Open Source - Presencial 
 ## PROFESOR: Ángel Augusto
 ## Sección: 1ASI0729
-## INFORME TB1
+## INFORME TB2
 ## START UP: BIBLIOTECA DE SOFTWARE
 ## PRODUCTO: KeepItFresh
 
