@@ -157,23 +157,19 @@ Los wireframes de la plataforma web KeepItFresh muestran la estructura funcional
 
 **User goal:** Como administrador deseo agregar productos al inventario.
 
-![img_16.png](img_16.png)
+![wf1.png](wf1.png)
 
-**Use goal:** Como administrador deseo visualizar un resumen de reportes.
+**User goal:** Como administrador deseo guardar un nuevo reporte.
 
-![img_17.png](img_17.png)
+![wf2.png](wf2.png)
 
-**User goal:** Como administrador deseo gestionar los sensores IoT.
+**User goal:** Como administrador deseo observer los detalles de las notificaciones.
 
-![img_18.png](img_18.png)
+![wf3.png](wf3.png)
 
 **User goal:** Como trabajador deseo registrar órdenes.
 
-![img_19.png](img_19.png)
-
-**User goal:** Como trabajador deseo recibir notificaciones de los pedidos realizados.
-
-![img_20.png](img_20.png)
+![wf4.png](wf4.png)
 
 ### 4.4.2. Web Applications Mock-ups.
 
