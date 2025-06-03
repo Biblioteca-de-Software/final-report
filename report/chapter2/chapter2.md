@@ -483,18 +483,24 @@ Escenario: El dueño necesita revisar el estado de las mesas, el inventario de i
 ![img_11.png](img_11.png)
 
 ## 2.4. Ubiquitous Language.
-- Ubiquitous Language es un término que se refiere a un lenguaje común y compartido que se utiliza entre los miembros de un equipo de desarrollo de software, así como con los usuarios finales y otros interesados en el proyecto. Este lenguaje ayuda a asegurar que todos tengan una comprensión clara y coherente de los conceptos, términos y procesos involucrados en el desarrollo del software. A continuación, se presenta la lista de términos que se utilizarán en el desarrollo de la plataforma KeepltFresh, junto con sus definiciones y ejemplos de uso.
+A continuación, se presenta un glosario de términos clave del dominio que serán utilizados en el desarrollo de la plataforma KeepltFresh, orientada a la mejora de la conservación de alimentos y eficiencia del servicio en establecimientos gastronómicos. Los términos están en inglés, con su equivalente en español entre paréntesis y una definición clara en español.
 
-- Fecha de caducidad: Día límite en el que un producto debe ser utilizado antes de ser considerado no apto para el consumo.
+- Expiration Date (Fecha de caducidad): Fecha límite en la que un producto alimenticio debe ser consumido para garantizar su seguridad y calidad.
 
-- Sensor de temperatura: Dispositivo IoT que registra la temperatura de los productos almacenados y genera alertas si esta supera los límites establecidos.
+- Spoilage Level (Nivel de descomposición): Estado de deterioro de un alimento basado en su apariencia, olor u otros indicadores de frescura.
 
-- Sensor de gases: Dispositivo IoT que mide la concentración de gases como etileno y otros indicadores de descomposición o calidad del aire.
+- Food Waste (Desperdicio de alimentos): Alimentos que se descartan por haber superado su fecha de caducidad o por estar en mal estado, aunque podrían haberse consumido si se hubieran gestionado correctamente.
 
-- Nivel de descomposición: Indicador del estado de deterioro de un alimento, calculado a partir de sensores de temperatura y gases.
+- Freshness (Frescura): Grado en el que un alimento mantiene sus características originales de sabor, textura, color y aroma.
 
-- Botón de llamado: Funcionalidad dentro del sistema que permite a los clientes de una mesa llamar a un trabajador para solicitar atención.
+- Service Call (Llamado de servicio): Solicitud realizada por un cliente en una mesa para recibir atención del personal del establecimiento.
 
-- Optimización del servicio: Resultado de la mejora en la atención al cliente y en la eficiencia del personal, gracias al uso del botón de llamado y a la centralización de alertas.
+- Customer Satisfaction (Satisfacción del cliente): Percepción del cliente sobre la calidad del servicio recibido durante su experiencia en el local.
 
-- Gestión de IoT: Administración de los sensores conectados, su configuración, mantenimiento y visualización de los datos recolectados.
+- Cold Chain (Cadena de frío): Proceso logístico que asegura que los productos perecederos se mantengan a temperaturas adecuadas desde su origen hasta su destino final.
+
+- Shelf Life (Vida útil): Período durante el cual un alimento conserva sus propiedades para el consumo bajo condiciones de almacenamiento específicas.
+
+- Inventory Rotation (Rotación de inventario): Práctica de mover y utilizar primero los productos con fechas de caducidad más próximas para evitar desperdicio.
+
+- Food Safety (Seguridad alimentaria): Conjunto de prácticas que garantizan que los alimentos no causen daño al consumidor cuando se preparan y consumen según lo previsto.
