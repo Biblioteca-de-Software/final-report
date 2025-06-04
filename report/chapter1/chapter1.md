@@ -1,27 +1,28 @@
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
+
 A continuación, se brindará información sobre a qué se dedica nuestra empresa, Go4U.
 
 ### 1.1.1. Descripción de la Startup
 
 **Go4U** es una startup dedicada a soluciones digitales enfocadas en restaurantes. Utilizamos tecnologías IoT para agilizar la gestión de restaurantes. Nuestro enfoque es preventivo, proporcionando sensores y herramientas para evitar problemas tales como la descomposición de alimentos. No ofrecemos servicios de intervención, ni de acción inmediata.<br>
 
-- **Misión:** Facilitar la gestión de los restaurantes a través de tecnologías las cuales permiten el monitoreo continuo del restaurante, al igual que optimizan la atención de los trabajadores, para que estos puedan ofrecer un mejor servicio a sus consumidores. 
+- **Misión:** Facilitar la gestión de los restaurantes a través de tecnologías las cuales permiten el monitoreo continuo del restaurante, al igual que optimizan la atención de los trabajadores, para que estos puedan ofrecer un mejor servicio a sus consumidores.
 - **Visión:** Ser la empresa más importante en Perú, en el ámbito de gestión y optimización de restaurantes con el uso de soluciones tecnológicas.
 - **Producto:** “KeepItFresh” es un servicio el cual permite el monitoreo de puntos críticos del inventario de un restaurante, monitoreando fechas de caducidad, temperaturas y gases (tales como etileno y calidad de aire) para confirmar los niveles de descomposición de los productos en el inventario del restaurante. Así mismo este servicio también ofrece un botón para llamar a los trabajadores del restaurante desde la mesa, con el fin de optimizar la atención dirigida al consumidor.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|                          | Apellido y Nombre | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                         | Habilidades                                                                                                                                                                        |
-|--------------------------|----------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![img.png](img.png)      | Briceño Llanos, Ayrton Omar | Ingeniería de Software | Soy Ayrton Briceño. Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas. | comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico.                                                                                                            |
-| ![img_1.png](img_1.png)  | Maita Falckenheiner, Romina Guadalupe | Ingeniería de Software | Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro. | Liderazgo, competitividad y organización.                                                                                                                                          |
-| ![img_2.png](img_2.png)  | Lang Nassi, Werner Khalil | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC), cursando en 5.º ciclo. Soy un estudiante que le gusta investigar cosas nuevas. | Investigador, Innovador, Analista, Cooperativo.                                                                                                                                    |
-| ![img_3.png](img_3.png)  | Torres Flores, Paolo Alessandro | Ingeniería de Software | Soy un estudiante de 5to ciclo con afán de mejorar cada día que pasa. Tengo muchas aspiraciones, ya sea en mi carrera como personalmente, y lucho diariamente para acercarme cada vez más a ellas. | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software. |
-| ![img_4.png](img_4.png)  | Mamani Marca, Gabriel Cristian(u202220659)               | Ingeniería de Software | Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software.En mis tiempos libres estudio otras tecnologías,juego y veo futbol | Durante el camino aprendi lenguajes como c++,python y java.Tambien,sobre motores de base de datos como MongoDb y MYSQL                                                             |
-| ![img_4.png](img_7.png)  | Nakasone Gomes, Marco Antonio(u202210790)               | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y también soy buen compañero de trabajo que siempre quiere lo mejor para su grupo.                                                           |
-| ![img_4.png](img_6.png)  | Barrientos Quispe, Marcelo(u20221e646)               | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 19 años. Me considero alguien muy a fin a las tecnologías de Javascript y sus frameworks como React, Angular y Node. Me considero buen compañero y muy compretido con el curso y con el trabajo.                                                             |
+|                         | Apellido y Nombre                          | Carrera                | Acerca de                                                                                                                                                                                                                                                                         | Habilidades                                                                                                                                                                        |
+| ----------------------- | ------------------------------------------ | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![img.png](img.png)     | Briceño Llanos, Ayrton Omar                | Ingeniería de Software | Soy Ayrton Briceño. Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas.                                                                                                                                    | comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico.                                                                                                            |
+| ![img_1.png](img_1.png) | Maita Falckenheiner, Romina Guadalupe      | Ingeniería de Software | Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.                                                                                                                                    | Liderazgo, competitividad y organización.                                                                                                                                          |
+| ![img_2.png](img_2.png) | Lang Nassi, Werner Khalil                  | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC), cursando en 5.º ciclo. Soy un estudiante que le gusta investigar cosas nuevas.                                                                                                                                  | Investigador, Innovador, Analista, Cooperativo.                                                                                                                                    |
+| ![img_3.png](img_3.png) | Torres Flores, Paolo Alessandro            | Ingeniería de Software | Soy un estudiante de 5to ciclo con afán de mejorar cada día que pasa. Tengo muchas aspiraciones, ya sea en mi carrera como personalmente, y lucho diariamente para acercarme cada vez más a ellas.                                                                                | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software. |
+| ![img_4.png](img_4.png) | Mamani Marca, Gabriel Cristian(u202220659) | Ingeniería de Software | Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software.En mis tiempos libres estudio otras tecnologías,juego y veo futbol                                                                                                                                          | Durante el camino aprendi lenguajes como c++,python y java.Tambien,sobre motores de base de datos como MongoDb y MYSQL                                                             |
+| ![img_4.png](img_7.png) | Nakasone Gomes, Marco Antonio(u202210790)  | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y también soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | Tengo una mentalidad enfocada en la resolución de problemas y cuento con conocimientos básicos de las funcionalidades del software                                                 |
+| ![img_4.png](img_6.png) | Barrientos Quispe, Marcelo(u20221e646)     | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 19 años. Me considero alguien muy a fin a las tecnologías de Javascript y sus frameworks como React, Angular y Node. Me considero buen compañero y muy compretido con el curso y con el trabajo.                                  | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido.                                                                                             |
 
 ## 1.2. Solution Profile
 
@@ -29,7 +30,7 @@ A continuación, se brindará información sobre a qué se dedica nuestra empres
 **Product Description:** KeepItFresh, es una Web App que tiene como objetivo optimizar la gestión de los restaurantes. Para ello, esta permite al usuario monitorear los IoT que este tiene, mostrando información útil, ayudando con la gestión de inventarios y agilizando el trabajo de los trabajadores en la tienda. Los dueños de los restaurantes pueden usar KeepItFresh con el fin de optimizar varios procesos. <br>
 **Monetización:** KeepItFresh funciona mediante un modelo de suscripción mensual o anual, en el cual se alquilan los diferentes dispositivos IoT.
 
- **Plan Básico:**
+**Plan Básico:**
 
 Ideal para restaurantes pequeños que desean iniciarse en la digitalización operativa con funciones esenciales.
 
@@ -39,8 +40,7 @@ Ideal para restaurantes pequeños que desean iniciarse en la digitalización ope
 - Gestión sencilla de inventario (registro manual de productos y vencimientos)
 - Soporte técnico en horario laboral
 
-
- **Plan Gestión Pro:**
+  **Plan Gestión Pro:**
 
 Pensado para negocios que requieren mayor control, eficiencia operativa y soporte avanzado. Incluye todo lo del Plan Básico, más:
 
@@ -49,18 +49,18 @@ Pensado para negocios que requieren mayor control, eficiencia operativa y soport
 - Notificaciones inteligentes para compras, caducidades y mantenimiento
 - Informes personalizados de desempeño por sucursal
 - Soporte técnico 24/7 y mantenimiento preventivo de hardware
+
 ### 1.2.1 Antecedentes y problemática
 
 **Antecedentes:**
 
-
 Estudios recientes han analizado los factores que impulsan el desperdicio de alimentos en restaurantes informales de gama media, diferenciado entre el desperdicio generado por el cliente y el generado en la cocina. Una investigación en destinos turísticos de Lituania (Morkunas et al, 2025), empleo entrevistas con gerentes y un Proceso Analítico Jerárquico (AHP) difuso para priorizar las causas, revelando hallazgos clave:
 
-* Cliente: Destacaron el sentimiento de vergüenza, barrera lingüística, presentación inadecuada de platos tradicionales, tanto en destinos locales e internacionales.
+- Cliente: Destacaron el sentimiento de vergüenza, barrera lingüística, presentación inadecuada de platos tradicionales, tanto en destinos locales e internacionales.
 
-* Cocina: Asociado a fallas en la planificación de demanda, ineficiencias operativas y limitaciones en infraestructura de almacenamiento.
+- Cocina: Asociado a fallas en la planificación de demanda, ineficiencias operativas y limitaciones en infraestructura de almacenamiento.
 
-Dicho estudio, propone soluciones adaptadas a cada factor identificado, ofreciendo un marco relevante para abordar problemáticas similares en contextos gastronómicos. 
+Dicho estudio, propone soluciones adaptadas a cada factor identificado, ofreciendo un marco relevante para abordar problemáticas similares en contextos gastronómicos.
 
 **Problemáticas:**
 
@@ -144,14 +144,13 @@ El producto se utilizará de manera diaria durante las horas operativas del rest
 
 **¿Qué características son importantes?**<br>
 
-
 Entre las características más importantes de KeepItFresh se encuentra el monitoreo en tiempo real de sensores IoT, un panel de control intuitivo y visualmente claro, la integración sencilla con múltiples dispositivos y sensores, y la escalabilidad del servicio para adaptarse al crecimiento del restaurante.
-
 
 **¿Cómo debe verse nuestro producto y cómo debe comportarse?**<br>
 KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una paleta de colores que transmita frescura y confianza. La interfaz debe ser intuitiva, con una navegación fluida y amigable que permita al usuario encontrar con facilidad la información que necesita. Debe comportarse de forma estable y responsive, adaptándose sin dificultad a distintos tamaños de pantallas y dispositivos. La información debe de presentarse de forma clara, utilizando elementos como gráficos, iconos y colores para facilitar la interpretación de los datos.
 
 <ins>**Business Outcomes:**</ins>
+
 1. Al desarrollar KeepItFresh, prevemos un aumento en la cantidad de restaurantes con afinidad a nuestra plataforma, lo cual incrementará nuestras ventas y nos posicionará como una solución confiable en el mercado.
 2. Generación de ingresos constantes y predecibles mediante el modelo de suscripción mensual o anual, lo cual facilita la proyección financiera a largo plazo.
 3. Expansión del negocio hacia nuevos mercados y segmentos, como cadenas de restaurantes o franquicias, gracias a la escalabilidad de nuestro servicio.
@@ -197,9 +196,8 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 #### 1.2.2.4. Lean UX Canvas.
 
 ![img_5.png](img_5.png)
+
 ## 1.3. Segmentos objetivos.
-
-
 
 ### Segmento objetivo #1: Dueños de restaurantes
 
@@ -226,8 +224,6 @@ Reducir el desperdicio de alimentos, mejorar la rentabilidad del restaurante y t
 
 **Sustento estadístico:**  
 Según el Ministerio de la Producción del Perú (Produce, 2023), existen más de 220,000 restaurantes registrados en el país, de los cuales cerca del 85% corresponden a pequeñas y medianas empresas. Lima concentra aproximadamente el 40% del total de estos negocios. Además, estudios del Banco Interamericano de Desarrollo señalan que en América Latina, hasta el 34% de los alimentos en restaurantes se desperdician por una mala gestión de inventario.
-
- 
 
 ### Segmento objetivo #2: Trabajadores de restaurantes
 
