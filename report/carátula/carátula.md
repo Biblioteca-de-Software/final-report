@@ -5,7 +5,7 @@
 ## PROFESOR: Ángel Augusto
 ## Sección: 1ASI0729
 ## INFORME TB2
-## START UP: BIBLIOTECA DE SOFTWARE
+## START UP: Go4U
 ## PRODUCTO: KeepItFresh
 
 ### INTEGRANTES:
@@ -36,6 +36,14 @@
     <tr>
       <td>Maita Falckenheiner, Romina Guadalupe</td>
       <td>U202213765</td>
+    </tr>
+    <tr>
+        <td>Barrientos Quispe, Marcelo</td>
+        <td>U20221E646</td>
+    </tr>
+    <tr>
+        <td>Nakasone Gomes, Marco Antonio</td>
+        <td>U202210790</td>
     </tr>
   </tbody>
 </table>
