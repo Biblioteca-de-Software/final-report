@@ -465,6 +465,11 @@ Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a la
 
 - Modyo. (n.d.). Domain-Driven Design (DDD) - Patrones de arquitectura. Retrieved from https://docs.modyo.com/es/architecture/patterns/ddd.html
 
+- INEI (2024). Encuesta Permanente de Empleo Nacional (EPEN) – IV Trimestre 2023. https://www.gob.pe/institucion/inei/campañas/8528-encuesta-permanente-de-empleo-nacional-epen-2025
+
+- INEI (2023). Condiciones del Mercado Laboral en el Perú 2023. https://cdn.www.gob.pe/uploads/document/file/5543656/4930047-ite-2023-t2%282%29.pdf?v=1703860060
+
+- Ministerio de la Producción (2023). Estudio sobre transformación digital en MYPE del sector gastronómico. https://www.gob.pe/produce
 
 # Anexos
 
