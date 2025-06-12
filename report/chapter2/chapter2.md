@@ -471,16 +471,29 @@ Esta sección presenta los Empathy Maps desarrollados para los dos User Personas
 ![img_9.png](img_9.png)
 
 ### 2.3.5. As-is Scenario Mapping.
-En esta sección se presentan los As-Is Scenario Maps elaborados para los User Personas. El proceso incluyó una fase de preparación, lluvia de ideas individual, revisión en equipo y estructuración por fases. Cada escenario fue construido considerando las filas Phases, Doing, Thinking y Feeling, permitiendo visualizar la experiencia actual de los usuarios en sus actividades cotidianas. Se identificaron puntos críticos, emociones, áreas positivas, negativas y espacios en blanco que requieren mayor exploración, sirviendo como base para detectar oportunidades de mejora y posibles intervenciones con la solución propuesta.<br>
-<br>**Segmento 1**
 
-Escenario: El dueño necesita revisar el estado de las mesas, el inventario de ingredientes y asignar tareas al personal.
+En esta sección se presentan los As-Is Scenario Mapping elaborados por el equipo utilizando la herramienta Miro. El proceso se desarrolló con una preparación y definición del objetivo del análisis, una lluvia de ideas individual por cada integrante del equipo, una consolidación y revisión en equipo de las tareas y fases, identificación de las fases principales como columnas, inclusión de acciones (Doing), pensamientos (Thinking) y emociones (Feeling) por fase y finalmente un etiquetado de áreas positivas, negativas y espacios en blanco o desconocidos.
+Este mapeo permite visualizar de forma clara los puntos críticos, frustraciones y oportunidades de mejora en la experiencia del usuario actual.
 
-![img_10.png](img_10.png)
 
-**Segmento 2**  
+**As-is Scenario Mapping Dueño:** <br>
+Esta sección representa la experiencia actual del dueño durante la gestión operativa del restaurante.
+Se detallan fases clave como la verificación del estado de las mesas, el control del inventario,
+la asignación de tareas al personal y la comunicación con el equipo. A lo largo de estas etapas,
+el dueño enfrenta procesos manuales y poco sistematizados que dificultan la toma de decisiones en tiempo
+real. La falta de visibilidad, la carga operativa y la comunicación informal generan incertidumbre, 
+preocupación y una sensación de desorganización, lo que afecta negativamente su capacidad para liderar 
+eficientemente.
 
-![img_11.png](img_11.png)
+![img_10.jpg](img_10.jpg)
+
+**As-is Scenario Mapping Trabajadores del Restaurante:** <br>
+Esta sección representa la experiencia actual de los trabajadores durante el desarrollo de sus tareas diarias en el restaurante.
+Se detallan fases clave como la realización de tareas, la notificación de incidencias, la verificación de insumos y la comunicación con el supervisor. En estas etapas se evidencian procesos manuales, 
+comunicación ineficiente y falta de claridad sobre el estado del inventario. Esto genera incertidumbre, desmotivación y una sensación de insatisfacción en el equipo, al no contar con herramientas que
+faciliten la organización, seguimiento y coordinación de sus responsabilidades.
+
+![img_11.jpg](img_11.jpg)
 
 ## 2.4. Ubiquitous Language.
 A continuación, se presenta un glosario de términos clave del dominio que serán utilizados en el desarrollo de la plataforma KeepltFresh, orientada a la mejora de la conservación de alimentos y eficiencia del servicio en establecimientos gastronómicos. Los términos están en inglés, con su equivalente en español entre paréntesis y una definición clara en español.
