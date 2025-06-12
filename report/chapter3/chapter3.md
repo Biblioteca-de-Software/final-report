@@ -1,15 +1,41 @@
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
-En esta sección se presenta el escenario futuro ideal para cada User Persona, diseñado a partir del análisis de necesidades y oportunidades detectadas en los mapas As-Is. Se detalla el proceso seguido por el equipo, que incluyó preparación, lluvia de ideas individual, revisión colaborativa y definición de fases clave. Cada To-Be Scenario Mapping muestra cómo cambiaría la experiencia del usuario con la implementación de la solución propuesta, incluyendo sus acciones, pensamientos y emociones. Además, se comparan los cambios respecto al escenario actual, resaltando mejoras en eficiencia, claridad y satisfacción del usuario.
+Este mapa To-Be fue elaborado tras un proceso que incluyó preparación, 
+lluvia de ideas individual, revisión colaborativa y definición de fases clave para los
+trabajadores del restaurante. A partir de los insights obtenidos en el mapa As-Is, 
+se diseñó un escenario ideal que mejora la eficiencia operativa, comunicación y control 
+de recursos dentro del restaurante.
+La herramienta utilizada para la elaboración fue Miro.
 
-**Segmento 1**
+A diferencia del escenario As-Is donde predominaban la falta de visibilidad del inventario
+y la desorganización en la asignación de tareas, el escenario To-Be plantea un sistema 
+más automatizado y conectado. Se observa un cambio en las emociones del trabajador,
+pasando de frustración e incertidumbre a tranquilidad, confianza y conexión con su equipo.
+A continuación, se presenta el escenario futuro ideal para el User Persona trabajador 
+de restaurante y dueño de restaurante.”:
 
-![img.png](img.png)
+**To-be Scenario Mapping trabajador de restaurante:** <br>
+Esta sección refleja cómo sería la experiencia ideal del personal del restaurante al implementar una solución 
+tecnológica enfocada en la gestión interna de operaciones. Desde la verificación de mesas
+hasta la comunicación con el equipo, se observa un proceso más organizado, digitalizado y
+colaborativo. Los trabajadores pueden consultar reservas en tiempo real, recibir alertas 
+sobre inventario, asignar tareas desde una plataforma centralizada y comunicarse eficientemente mediante un chat integrado. 
+Esta mejora permite un entorno más fluido, equilibrado y con mayor control, generando satisfacción en la distribución del trabajo 
+y confianza en la coordinación del equipo.
 
-**Segmento 2**
+![img_1.jpg](img_1.jpg)
 
-![img_1.png](img_1.png)
+**To-be Scenario Mapping dueño de restaurante:** <br>
+Este escenario ideal describe cómo se transforma la experiencia del dueño del restaurante
+al implementar soluciones tecnológicas que facilitan la supervisión, control y toma
+de decisiones. Gracias a sistemas IoT y plataformas digitales, puede monitorear la 
+atención al cliente, verificar inventarios, exportar reportes detallados y asegurar el 
+estado óptimo de los productos. Estas herramientas permiten una gestión más precisa, 
+ordenada y proactiva, brindando tranquilidad, enfoque y confianza en el rendimiento 
+general del negocio.
+
+![img.jpg](img.jpg)
 
 ## 3.2. User Stories.
 
