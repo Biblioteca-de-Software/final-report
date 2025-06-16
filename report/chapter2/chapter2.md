@@ -415,7 +415,7 @@ Esta sección presenta las fichas de User Persona elaboradas a partir del análi
 ![img_6.png](img_6.png)
 
 #### Segmento 2: Empleados de restaurantes.
-![img_7.png](img_7.png)
+![img_10.png](img_10.png)
 
 ### 2.3.2. User Task Matrix.
 
