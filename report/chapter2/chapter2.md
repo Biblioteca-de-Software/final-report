@@ -412,7 +412,7 @@ Los artefactos incluidos User Personas, User Task Matrix, User Journey Maps, Emp
 Esta sección presenta las fichas de User Persona elaboradas a partir del análisis de entrevistas y hallazgos del benchmarking. Cada arquetipo representa un segmento objetivo clave, reflejando sus características demográficas, comportamientos, necesidades, frustraciones y motivaciones. Estos perfiles permiten guiar el diseño centrado en el usuario, alineando la solución propuesta con contextos reales de uso.
 
 #### Segmento 1: Dueños de restaurantes.
-![img_6.png](img_6.png)
+![img_11.png](img_11.png)
 
 #### Segmento 2: Empleados de restaurantes.
 ![img_10.png](img_10.png)
