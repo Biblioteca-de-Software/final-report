@@ -435,6 +435,82 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 ![img_14.png](img_14.png)
 
 
+
+## 5.3. Validation Interviews
+Esta sección está enfocada a registrar y explicar las acciones realizadas para las entrevistas de validación de cada segmento objetivo.
+
+### 5.3.1. Diseño de Entrevistas
+
+#### Segmento 1: Dueños de restaurantes
+
+Para el segmento objetivo Trabajadores de Restaurante, se diseñó una sesión de validación centrada en evaluar la utilidad, claridad y funcionalidad de la solución propuesta. La entrevista incluyó una interacción guiada con la Landing Page y con la aplicación web funcional desplegada. A continuación, se detallan los elementos incluidos y los flujos validados durante la sesión:
+
+##### Elementos incluidos en la sesión:
+- Landing Page: El entrevistado navegó por todas las secciones informativas, incluyendo descripciones de beneficios y funcionalidades de la solución. Se resaltaron elementos visuales, testimonios y comparaciones con métodos tradicionales.
+
+- Aplicación Web: Se presentó una versión desplegada de la app, permitiendo al entrevistado explorar cada uno de los módulos principales.
+
+##### User Flows validados:
+
+- Dashboard:
+
+Visualización de gráficos de ganancias y pérdidas.
+Revisión de los platos más vendidos en el periodo.
+
+- Órdenes:
+
+Acceso al módulo lateral donde se presenta un formulario para ingresar nuevas órdenes.
+Visualización de órdenes agrupadas por mesa mediante tarjetas resumen.
+
+- Inventario:
+
+Acceso al módulo de gestión de productos, donde se pudo revisar el registro completo del inventario.
+Validación de la organización de productos y claridad de la información mostrada.
+
+- Notificaciones
+
+Revisión de alertas del sistema relacionadas con el inventario, como productos por vencer o stock mínimo.
+
+La entrevista permitió observar la interacción real del usuario con los distintos módulos, validar la coherencia del flujo general de uso, y recoger impresiones cualitativas sobre la experiencia ofrecida por la solución.
+
+Durante la sesión, se realizaron preguntas clave para explorar la percepción del usuario y validar hipótesis del producto:
+- ¿Qué características de la aplicación web usaría en su día a día?
+- ¿Qué características le parecen más relevantes o útiles?
+- ¿Considera que es importante la pantalla de gráficos? ¿Por qué?
+- ¿Implementaría este sistema en su trabajo actual?
+
+Estas preguntas fueron diseñadas para detectar qué funcionalidades generan más valor, cuáles podrían mejorarse, y si el sistema realmente resuelve problemas del día a día en la gestión operativa del restaurante.
+
+##### Segmento 2: Trabajadores de restaurantes
+
+### 5.3.2. Registro de Entrevistas
+
+#### Segmento 1: Dueños de restaurantes
+
+###### Información del entrevistado
+| Nombre | Apellido | Edad | Distrito |
+|--------|----------|------|----------|
+| Italo  | Velazquez| 47   | Surco    | 
+
+![img_19.png](img_19.png)
+
+🔗 Enlace al video de la entrevista: https://acortar.link/xa6zRQ 
+- Duración Total: 8:13 minutos
+- Inicio: 00:03
+
+###### Resumen de entrevista
+Durante la sesión de validación, el entrevistado destacó varios aspectos clave del sistema que considera relevantes para su trabajo diario en el restaurante. Subrayó que el módulo de notificaciones es especialmente importante, ya que le permite estar al tanto del estado del negocio y anticipar problemas, lo que resulta útil para tomar decisiones estratégicas, como el lanzamiento de promociones.
+
+En cuanto al dashboard con gráficos, valoró positivamente su inclusión, ya que ofrece una visión general de las ventas e ingresos. Esta información le permite identificar patrones y decidir en qué áreas conviene invertir o reforzar.
+
+También sugirió que sería útil incluir una funcionalidad adicional: la visualización del aforo de comensales por horas. Esta capacidad permitiría analizar los momentos de mayor demanda, planificar mejor los recursos del local (como cantidad de mesas disponibles) y definir estrategias promocionales más efectivas.
+
+Respecto al módulo de inventario, resaltó su utilidad práctica para el registro diario de productos. Indicó que el sistema facilita el control operativo y valoró especialmente las alertas automáticas sobre productos por vencer o con stock bajo, lo que contribuye directamente a una mejor gestión del abastecimiento.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+5.4. Video About-the-Product
+
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
 - La importancia del trabajo en equipo y la colaboración entre los miembros del grupo.
