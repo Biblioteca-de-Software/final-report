@@ -758,6 +758,87 @@ Como sugerencia, propuso que el sistema pudiera incluir una vista resumida de lo
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+Site o App a evaluar: KeepItFresh
+
+Tareas a evaluar: | No incluidas en esta versión              
+Incluidas en esta evaluación
+1. Registro de un trabajador/dueño (Profile, LogIn & SignUp)
+2. Ingreso de un nuevo producto en Inventory
+3. Registro de un pedido en Orders
+4. Consulta rápida de métricas en el Dashboard
+5. Generación y guardado de un Report
+6. Respuesta a una Alert de producto por vencer
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Edición o eliminación de usuarios registrados.
+2. Visualización de estadísticas comparativas mensuales o anuales en el Dashboard.
+3. Historial completo de Alertas gestionadas o ignoradas.
+4. Accesibilidad extendida (lectores de pantalla, navegación por teclado, modo alto contraste).
+
+Escala de severidad:
+
+| Nivel | Descripción                                                                                                                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                     |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente    reléase |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                   |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                 |
+
+Tabla Resumen:
+
+| # |                               Problema detectado                              | Severidad |              Heurística/Principio violado              |
+|::|:-----------------------------------------------------------------------------:|:---------:|:------------------------------------------------------:|
+| 1 | Al guardar un Order no aparece mensaje de confirmación ni feedback visual.    | 3         |     Usabilidad: Visibilidad del estado del sistema     |
+| 2 | Gráficos del Dashboard no tienen texto alternativo para lectores de pantalla. | 3         | Inclusive Design: Proporciona experiencias comparables |
+| 3 | No existe opción para deshacer la creación de un Report recién añadido.       | 2         |       Usabilidad: Control y libertad del usuario       |
+
+No aparece mensaje de confirmación al guardar un pedido en Orders
+
+Problema #1
+Severidad: 3 (Problema mayor)
+
+Heurística violada: Usabilidad – Visibilidad del estado del sistema
+
+Observación
+Al registrar un nuevo pedido desde el módulo Orders, no se muestra ningún mensaje, alerta ni animación visual que indique que el pedido fue guardado correctamente. Esto genera incertidumbre en el usuario, 
+quien puede dudar si la acción fue exitosa o si debe repetirla.
+
+![img_24.jpg](img_24.jpg)
+
+Recomendación
+Incluir un mensaje de confirmación visual como: “Pedido guardado con éxito”, que desaparezca tras unos segundos. También podría añadirse una breve animación o cambio de estado en la card del pedido para reforzar el feedback.
+
+
+PROBLEMA #2
+Los gráficos del Dashboard no incluyen texto alternativo accesible
+
+Severidad: 3 (Problema mayor)
+
+Heurística violada: Inclusive Design – Proporciona experiencias comparables
+
+Observación
+Los gráficos del Dashboard no ofrecen texto alternativo ni descripciones para tecnologías de asistencia como lectores de pantalla. Esto limita el acceso a la información visual para personas con discapacidad visual o usuarios que navegan sin ver la pantalla.
+
+![img_25.jpg](img_25.jpg)
+
+Recomendación
+Incluir aria-label, alt o descripciones visibles/resumidas del contenido de cada gráfico. También se puede añadir una tabla textual con los mismos datos que se muestran visualmente.
+
+PROBLEMA #3
+No se puede deshacer la creación de un Report
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Usabilidad – Control y libertad del usuario
+
+Observación
+Al crear un nuevo Report con título, fecha y descripción, no existe una opción para cancelar la acción ni para eliminar el reporte justo después de creado.
+Si el usuario se equivoca, debe navegar a otra sección y regresar manualmente para borrarlo, lo que genera fricción innecesaria.
+
+![img_26.jpg](img_26.jpg)
+
+Recomendación
+Incluir un botón “Deshacer” o “Cancelar” visible después de crear un reporte. También se podría agregar una notificación con la opción “Eliminar este reporte” dentro de los primeros 10 segundos.
 
 5.4. Video About-the-Product
 
