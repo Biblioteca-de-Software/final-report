@@ -233,7 +233,28 @@ Happy Path:
 
 En esta sección, se presentan los prototipos de la aplicación web de KeepItFresh. Estos prototipos son representaciones interactivas que permiten a los usuarios explorar y experimentar con la interfaz antes de su desarrollo final. Proporcionan una visión clara de la navegación, la disposición de los elementos y la funcionalidad general de la aplicación.
 
-![img_31.png](img_31.png)
+Punto de entrada: El flujo comienza con wireframes de registro Sign Up y login, estableciendo el sistema de autenticación como puerta de entrada.
+Arquitectura de navegación: Se observa una estructura que combina:
+
+Navegación lineal para procesos específicos (registro → login → dashboard/orders)
+Navegación radial desde las funcionalidades hacia diferentes funcionalidades
+Navegación jerárquica dentro de cada módulo
+
+Módulos principales:
+
+Notificaciones - Gestión de alertas del sistema
+Dashboard - Vista general y métricas
+Inventario - Gestión de productos y stock
+Registro - Entrada de datos
+Órdenes - Gestión de pedidos
+
+Criterios de Decisión de Interacción
+Flujo centrado en tareas: Cada pantalla está diseñada para completar una acción específica, minimizando la carga cognitiva del usuario.
+Consistencia visual: Se mantiene una estructura uniforme en todas las pantallas (navegación lateral, área de contenido principal).
+Retroalimentación visual: Las conexiones indican las transiciones posibles, proporcionando claridad sobre las opciones de navegación.
+Accesibilidad de funciones críticas: Todas las instancias permiten el acceso rapido a todas las funcionalidades.
+
+![img_42.png](img_42.png)
 
 ## 4.6. Domain-Driven Software Architecture.
 
