@@ -212,8 +212,13 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 - Canales de interacción digital: Instagram, X
 
 Resumen:
-Richard es un emprendedor gastronómico con residencia en Jesús María. Tiene una experiencia consolidada en la administración de su restaurante, pero continúa utilizando métodos manuales como papel y lápiz para el control del inventario y organización interna. Reconoce que esta práctica es ineficiente y ha expresado de forma clara su interés por adoptar soluciones tecnológicas. Usa con frecuencia su smartphone para comunicarse y consumir contenido en redes como Instagram y X, donde también busca tendencias gastronómicas. Tiene una personalidad ordenada, enfocada y con apertura a la innovación si esta le ofrece resultados concretos, como mejorar sus decisiones estratégicas. Está interesado en plataformas que lo ayuden a analizar productos más vendidos y gestionar el inventario con datos confiables y visuales.
+Richard es un emprendedor gastronómico ubicado en Jesús María, con amplia experiencia en la administración de su restaurante. A lo largo de los años, ha demostrado ser una persona organizada, enfocada y comprometida con la mejora continua de su negocio. Aunque ha logrado manejar de forma efectiva muchos aspectos de su operación, aún utiliza métodos manuales, como papel y lápiz, para llevar el control de su inventario y organización interna. Él mismo reconoce que esta forma de trabajo es poco eficiente, especialmente ahora que su negocio requiere mayor agilidad y precisión.
 
+Consciente de estas limitaciones, Richard ha expresado un claro interés por incorporar herramientas tecnológicas que le permitan optimizar sus procesos. No es ajeno al uso de dispositivos digitales: usa su smartphone frecuentemente, tanto para comunicarse como para informarse y seguir tendencias gastronómicas en redes sociales como Instagram y X (Twitter). Su presencia en estas plataformas también lo mantiene atento a nuevas ideas, productos y enfoques que pueda aplicar en su restaurante.
+
+Si bien no es un experto en tecnología, está abierto a soluciones innovadoras, siempre que estas ofrezcan beneficios concretos, como facilitar la toma de decisiones estratégicas o mejorar la gestión del inventario. Le interesan especialmente aquellas plataformas que le permitan visualizar datos clave, como los productos más vendidos, las cantidades disponibles o las fechas de vencimiento, de forma clara y confiable.
+
+En resumen, Richard representa a un emprendedor tradicional con visión moderna, que busca digitalizar su negocio de manera práctica y efectiva, apostando por herramientas que le den control, orden y mejores resultados en su gestión diaria.
 ➡ Arquetipo base: Administrador Estratégico<br>
 - _Entrevista 2_
 
@@ -234,7 +239,12 @@ Richard es un emprendedor gastronómico con residencia en Jesús María. Tiene u
 - Canales de interacción digital: Facebook, X
 
 Resumen:
-Luis reside en Santiago de Surco y es propietario de un restaurante en etapa de consolidación. Aunque posee buena experiencia en la gestión operativa, sus procesos internos siguen siendo manuales o informales, lo cual ha comenzado a representar una carga. Está casado, es reflexivo y valora profundamente la eficiencia operativa. Usa principalmente su laptop para temas de trabajo y se mantiene activo en redes como Facebook y X, desde donde se informa sobre herramientas para emprendedores. Tiene una disposición positiva hacia el uso de tecnologías que mejoren la gestión del inventario y el análisis de ventas. Reconoce que necesita datos para optimizar su carta y mejorar el flujo de atención al cliente.
+Luis vive en Santiago de Surco y es dueño de un restaurante que se encuentra en etapa de consolidación. Tiene experiencia en la gestión operativa y conoce bien el día a día del negocio, pero sigue utilizando métodos manuales o informales para controlar procesos internos como el inventario o las ventas, lo que ha empezado a volverse una carga.
+
+Es una persona casada, reflexiva y enfocada en la eficiencia. Utiliza principalmente su laptop para trabajar y se mantiene informado a través de Facebook y X, donde sigue contenido sobre emprendimiento y herramientas digitales. Tiene una actitud abierta hacia la tecnología, especialmente si esta le permite mejorar el control del inventario, analizar las ventas y tomar mejores decisiones sobre su carta y la atención al cliente.
+
+Luis valora las soluciones que le permitan organizar mejor su operación y obtener datos claros para optimizar el rendimiento de su restaurante sin complicarse con herramientas complejas o difíciles de implementar.
+
 
 ➡ Arquetipo base: Administrador Estratégico<br>
 - _Entrevista 3_
@@ -256,7 +266,11 @@ Luis reside en Santiago de Surco y es propietario de un restaurante en etapa de 
 - Canales de interacción digital: Messenger, Instagram
 
 Resumen:
-Daniel vive en Miami y es un dueño de restaurante que ha dirigido su negocio por varios años con métodos tradicionales. Aunque usa su computadora de escritorio como herramienta principal, su interacción digital también incluye canales como Messenger e Instagram. Su enfoque es práctico y, aunque no tan tecnológico, demuestra interés en automatizar la gestión del inventario, especialmente por las dificultades que enfrenta al controlar la rotación de productos y la reposición. Aprecia mucho la eficiencia, y su actitud hacia la innovación tecnológica es positiva, siempre que esta se adapte a su forma de trabajar y le permita reducir el margen de error. Tiene interés moderado en el análisis de ventas, pero reconoce el valor de las estadísticas visuales para tomar decisiones.
+Daniel reside en Miami y es propietario de un restaurante que ha gestionado durante varios años utilizando métodos tradicionales. Aunque no es un usuario intensivo de tecnología, ha incorporado gradualmente herramientas digitales en su rutina diaria. Su principal medio de trabajo es la computadora de escritorio, aunque también utiliza Messenger e Instagram para comunicarse y mantenerse conectado con su entorno.
+
+Con una mentalidad práctica y orientada a resultados, Daniel ha comenzado a interesarse en automatizar la gestión del inventario, especialmente debido a las dificultades que enfrenta con la rotación de productos y la reposición oportuna. Su enfoque en la eficiencia lo lleva a valorar las soluciones que puedan reducir errores y mejorar el control sin requerir cambios drásticos en su forma de operar.
+
+Aunque su interés en el análisis de ventas es moderado, reconoce que las estadísticas visuales pueden facilitar la toma de decisiones y ayudarlo a identificar patrones importantes. Tiene una actitud positiva hacia la innovación, siempre que esta se adapte a sus procesos actuales y no complique su gestión diaria.
 
 ➡ Arquetipo base: Administrador Estratégico<br>
 
@@ -282,7 +296,11 @@ Daniel vive en Miami y es un dueño de restaurante que ha dirigido su negocio po
 - Canales de interacción digital: Messenger, Instagram
 
 Resumen:
-Diego es parte clave del equipo operativo de un restaurante, desempeñándose como mesero. Utiliza su smartphone de forma intensiva para comunicarse y acceder a redes como Instagram y Messenger. Expresó que la falta de tecnología le genera una carga de trabajo adicional, especialmente al coordinar con cocina o verificar inventario. Mencionó con claridad la necesidad de una herramienta que simplifique sus tareas, automatice pedidos y mejore la coordinación interna. Tiene una personalidad proactiva y digitalmente nativa, con disposición para adaptarse a nuevas herramientas si eso implica hacer su trabajo más ágil. Está muy familiarizado con la dinámica operativa, lo que lo convierte en un usuario ideal para validar soluciones móviles.
+Diego forma parte del equipo operativo de un restaurante, donde cumple un rol clave como mesero. Con un perfil proactivo y digitalmente nativo, utiliza su smartphone de forma intensiva para comunicarse, coordinar y mantenerse conectado a través de redes como Instagram y Messenger. Está plenamente familiarizado con la dinámica del día a día en sala y cocina, lo que le da una visión clara de las necesidades operativas.
+
+Ha manifestado que la falta de tecnología representa una carga adicional en su trabajo, sobre todo al momento de coordinar con cocina, hacer seguimientos o verificar el estado del inventario. Para él, sería clave contar con una herramienta que automatice pedidos, mejore la comunicación interna y simplifique sus tareas.
+
+Tiene una alta disposición para adoptar nuevas herramientas tecnológicas, especialmente si estas le permiten trabajar de forma más ágil y eficiente. Por su cercanía con los procesos operativos y su familiaridad con entornos digitales, Diego es un usuario ideal para validar soluciones móviles pensadas para el equipo en campo.
 
 ➡ Arquetipo base: Operador Multifuncional<br>
 - _Entrevista 2_
@@ -304,7 +322,11 @@ Diego es parte clave del equipo operativo de un restaurante, desempeñándose co
 - Canales de interacción digital: Facebook, Instagram
 
 Resumen:
-Esthephano trabaja como mesero y tiene un rol activo en el inventario del restaurante donde labora. A diferencia de otros operativos, también utiliza laptop y PC para tareas complementarias, lo que lo hace más versátil en el uso de tecnología. Está completamente a favor de soluciones digitales que mejoren la coordinación entre cocina y servicio, reducir errores y ahorrar tiempo. Es una persona organizada y con visión a futuro, lo que lo hace ideal para introducir cambios tecnológicos en el entorno operativo. Suele navegar por Facebook e Instagram, donde sigue páginas de tecnología y gastronomía.
+Estephano trabaja como mesero, pero también tiene un rol activo en la gestión del inventario dentro del restaurante donde labora. Su perfil destaca por ser versátil y tecnológicamente hábil, ya que, a diferencia de otros operativos, no solo utiliza su smartphone, sino también laptop y PC para realizar tareas complementarias, lo que le permite adaptarse con facilidad a distintos entornos digitales.
+
+Es una persona organizada, con visión a futuro y apertura al cambio, cualidades que lo convierten en un aliado clave para introducir soluciones tecnológicas en el espacio operativo. Ve con claridad el valor de digitalizar procesos, especialmente aquellos que mejoran la coordinación entre cocina y servicio, reducen errores humanos y optimizan el tiempo durante las jornadas de alta demanda.
+
+Estephano navega regularmente por Facebook e Instagram, donde sigue contenido relacionado con gastronomía y tecnología, lo que refuerza su interés por mantenerse actualizado en tendencias que pueden impactar su entorno laboral. Su combinación de experiencia operativa, manejo de herramientas digitales y actitud proactiva lo posiciona como un usuario ideal para adoptar e impulsar soluciones tecnológicas dentro del restaurante.
 
 ➡ Arquetipo base: Operador Multifuncional<br>
 - _Entrevista 3_
@@ -326,7 +348,13 @@ Esthephano trabaja como mesero y tiene un rol activo en el inventario del restau
 - Canales de interacción digital: Instagram, Facebook
 
 Resumen:
-Luis es un joven mesero que combina atención al cliente con tareas relacionadas al inventario. Durante la entrevista se mostró entusiasta por adoptar herramientas que automaticen tareas repetitivas como el control de stock o la organización de pedidos. Utiliza principalmente su smartphone para revisar redes sociales, donde se expone constantemente a herramientas digitales del rubro gastronómico. Es una persona dinámica, empática y orientada a resolver problemas inmediatos. Su frustración se centra en la falta de sincronización entre cocina y sala, lo que lo hace un claro portavoz del dolor operativo diario. Tiene conocimientos básicos de tecnología y es muy receptivo al uso de apps móviles.
+Luis es un joven mesero que combina su rol de atención al cliente con tareas operativas relacionadas al inventario. Durante la entrevista, se mostró entusiasta y receptivo ante la idea de incorporar herramientas digitales que le ayuden a automatizar tareas repetitivas, como el control de stock o la organización de pedidos, lo cual considera clave para mejorar su rendimiento diario.
+
+Su principal dispositivo de uso es el smartphone, desde el cual accede frecuentemente a redes sociales, donde está expuesto a tendencias y herramientas tecnológicas del sector gastronómico. Tiene una personalidad dinámica, empática y resolutiva, enfocada en atender las necesidades del cliente pero también en facilitar el trabajo operativo interno.
+
+Luis expresó una clara frustración con la falta de sincronización entre cocina y sala, una problemática que vive a diario y que afecta directamente la eficiencia del servicio. Esa experiencia lo convierte en un portavoz genuino del dolor operativo, con la perspectiva adecuada para evaluar soluciones que apunten a ese punto crítico.
+
+Aunque tiene conocimientos básicos de tecnología, es muy receptivo al uso de apps móviles y demuestra una alta disposición para adaptarse, siempre que la herramienta represente una mejora tangible en su rutina de trabajo.
 
 ➡ Arquetipo base: Operador Multifuncional<br>
 
@@ -412,9 +440,15 @@ Los artefactos incluidos User Personas, User Task Matrix, User Journey Maps, Emp
 Esta sección presenta las fichas de User Persona elaboradas a partir del análisis de entrevistas y hallazgos del benchmarking. Cada arquetipo representa un segmento objetivo clave, reflejando sus características demográficas, comportamientos, necesidades, frustraciones y motivaciones. Estos perfiles permiten guiar el diseño centrado en el usuario, alineando la solución propuesta con contextos reales de uso.
 
 #### Segmento 1: Dueños de restaurantes.
+
+Daniel es un dueño de restaurante con experiencia en la gestión operativa, que busca optimizar sus procesos y mejorar la eficiencia del negocio. A continuación se presenta su User Persona:
+
 ![img_11.png](img_11.png)
 
 #### Segmento 2: Empleados de restaurantes.
+
+Javier es un empleado de restaurante que realiza tareas operativas diarias y busca herramientas que faciliten su trabajo. A continuación se presenta su User Persona:
+
 ![img_10.png](img_10.png)
 
 ### 2.3.2. User Task Matrix.
@@ -422,7 +456,9 @@ Esta sección presenta las fichas de User Persona elaboradas a partir del análi
 En esta sección, se presenta la matriz de tareas de los usuarios, que muestra las actividades realizadas por los dueños y empleados de restaurantes, junto con su frecuencia e importancia. Esta matriz ayuda a identificar las tareas clave y su relevancia para cada tipo de usuario.
 Para ello, usamos los user personas creadas en la sección anterior tomando a Daniel, segmento 1: Dueño de restaurante, y a Javier, segmento 2: trabajador de restaurante. <br>
 
-Segmento Objetivo 1: Daniel(Dueño de restaurante)
+Segmento Objetivo 1: Daniel (Dueño de restaurante)
+
+Daniel representa a un dueño de restaurante con experiencia en la gestión operativa, que busca optimizar sus procesos y mejorar la eficiencia del negocio. A continuación se presenta su User Task Matrix:
 
 | Actividades                  | Frecuencia   | Importancia |
 |------------------------------|--------------|-------------|
@@ -436,7 +472,9 @@ Segmento Objetivo 1: Daniel(Dueño de restaurante)
 | Limpieza de area             | Rara vez     | Media       |
 | Capacitacion de personal     | Con Frecuencia     | Media       |
 
-Segmento Objetivo 2: Javier(Trabajador de restaurante)
+Segmento Objetivo 2: Javier (Trabajador de restaurante)
+
+Javier representa a un empleado de restaurante que realiza tareas operativas diarias y busca herramientas que faciliten su trabajo. A continuación se presenta su User Task Matrix:
 
 | Actividades       | Frecuencia      | Importancia |
 |-------------------|-----------------|------------|
