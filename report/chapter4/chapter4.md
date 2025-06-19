@@ -254,9 +254,6 @@ Diagrama de componente de Inventario
 
 ![img_36.png](img_36.png)
 
-Diagrama de componente de Notificaciones
-
-![img_37.png](img_37.png)
 
 Diagrama de componente de Órdenes
 
