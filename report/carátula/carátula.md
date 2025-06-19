@@ -107,6 +107,9 @@ Para la tercera entrega (TB2) se trabajó en la corrección de elementos detalla
 - **Romina Maita**: Corrección de las user stories.
 - **Marco Nakasone**: Corrección de la sección de Lean UX.
 
+![image](https://github.com/user-attachments/assets/1f3dfd56-de66-4bcb-b27e-ebe1269dd834)
+
+
 # Contenido
 
 ## Tabla de Contenidos
