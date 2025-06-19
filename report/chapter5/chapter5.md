@@ -26,6 +26,8 @@ Los enlaces a cada una de las herramientas se encuentran disponibles en los anex
 
 #### Software Deployment
 - GitHub Pages: Servicio de despliegue de aplicaciones web estáticas desde repositorios GitHub.
+- Netlify: Plataforma para desplegar aplicaciones web frontend, utilizada para el frontend de la aplicación.
+- Azure: Plataforma de nube para el despliegue de aplicaciones backend y servicios web. Se utilizará para el despliegue de la API RESTful en Java (Spring Boot) en los siguientes sprints.
 
 ### 5.1.2. Source Code Management.
 
@@ -57,7 +59,7 @@ Para el repositorio del Fronted se crearon las siguientes ramas:
 - **feature/orders**: Rama en la que se desarrolla el bounded context de órdenes donde una persona del segmento trabajadores del restaurante registra las órdenes de cada mesa.
 - **feature/inventory**: Rama donde se desarrolla el bounded context del inventario donde una persona del segmento dueños de restaurante puede ingresar productos al inventario y revisar su fecha de caducidad.
 - **feature/notifications**: Rama donde se desarrolla del bounded context de notificaciones donde el usuario, ya sea dueño o trabajador, puede ver todas las notificaciones. Es parte del core del negocio, ya que para el segmento de dueños las notificaciones le permiten estar alerta de la fecha de vencimiento de los productos. 
-- **feature/userManagement**: Rama donde se desarrolla el código respecto a el registro o ingreso a la cuenta de cada segmento objetivo.
+- **feature/userManagement**: Rama donde se desarrolla el código respecto al registro o ingreso a la cuenta de cada segmento objetivo.
 
 Para el repositorio de Backend se crearon las siguientes ramas:
 - **develop:** Rama principal donde se realizan merge de las versiones finales de cada rama y se utiliza para el despliegue.
@@ -152,7 +154,7 @@ La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediant
 3. Desde la configuración del repositorio, se activó **GitHub Pages** seleccionando la rama `main` y la carpeta raíz (`/`).
 4. Automáticamente, GitHub publicó el sitio web en una URL pública.
 
-**Repositorio:** [https://github.com/Biblioteca-de-Software/landing-page](https://github.com/Biblioteca-de-Software/landing-page)  
+**Repositorio:** [https://github.com/Biblioteca-de-Software/landing-page](https://github.com/Biblioteca-de-Software/landing-page)  <br>
 **URL desplegada:** [https://biblioteca-de-software.github.io/landing-page/](https://biblioteca-de-software.github.io/landing-page/)
 
 #### Frontend Web Application
@@ -167,11 +169,30 @@ El frontend se desplegó utilizando la herramienta Netlify.
 - Build command: ng build --configuration=production
 - Publish directory: dist/nombre-de-tu-app
 
-**Repositorio:** https://github.com/Biblioteca-de-Software/frontend
+**Repositorio:** https://github.com/Biblioteca-de-Software/frontend <br>
+**URL desplegada:** https://keepdeplo.netlify.app/
 
 #### Restful API
 
 Los servicios backend serán desarrollados en **Java (Spring Boot)** más adelante.
+
+##### Backend Web Service
+El backend se desplegó utilizando la plataforma Azure App Service.
+
+**Pasos de despliegue:**
+
+1. Build del proyecto: Generar el archivo ejecutable .jar usando el comando ./mvnw clean package.
+2. Verificar que el proyecto esté completado en la rama develop.
+3. Crear una cuenta en Azure e iniciar sesión mediante Azure CLI (az login).
+4. Crear un grupo de recursos en Azure desde el portal o CLI.
+5. Crear un App Service Plan con sistema operativo Windows y runtime Java 21.
+6. Crear una instancia de Web App con soporte para Java (por ejemplo: JAVA|21-java21).
+7. Realizar el despliegue del archivo .jar mediante la opción ZIP Deploy usando el portal o CLI.
+8. Configurar variables de entorno necesarias para perfiles de Spring, conexión a base de datos, etc.
+9. Probar el servicio en la URL pública proporcionada por Azure App Service.
+
+**Repositorio:** https://github.com/Biblioteca-de-Software/KeepItFresh-platform <br>
+**URL desplegada:** https://keepitfresh.azurewebsites.net/
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
@@ -436,6 +457,21 @@ Durante el desarrollo del frontend de la aplicación, se utilizó JSON Server co
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+#### Frontend Web Application
+El frontend se desplegó utilizando la herramienta Netlify.
+
+**Pasos de despliegue:**
+1. Build del proyecto: Generar los archivos estáticos de producción (ng build --configuration=production)
+2. Verificar que el proyecto esté completado en la rama develop.
+3. Creación de cuenta en Netlify
+4. Click en "Add new site" → "Import an existing project" y elegir el repositorio y rama (develop)
+5. Configurar build:
+- Build command: ng build --configuration=production
+- Publish directory: dist/nombre-de-tu-app
+
+**Repositorio:** https://github.com/Biblioteca-de-Software/frontend <br>
+**URL desplegada:** https://keepdeplo.netlify.app/
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 En esta sección se evidencia la colaboración de cada integrante en el repositorio de la Landing Page.
 🔗 Repositorio de Frontend: https://github.com/Biblioteca-de-Software/frontend
@@ -563,21 +599,65 @@ Estos commits provienen del repositorio del backend de la organización de GitHu
 
 🔗 Enlace al repositorio del backend: https://github.com/Biblioteca-de-Software/KeepItFresh-platform  
 
-| Repository                                    | Branch                 | Commit Id                                 | commit Message                                 | Commit Message Body | Commited on (Date) |
-|-----------------------------------------------|------------------------|-------------------------------------------|------------------------------------------------|---------------------|--------------------|
-| Biblioteca-de-Software/KeepItFresh-platform   | feature/inventory      |                                           |                                                |                     |                    |
-| Biblioteca-de-Software/KeepItFresh-platform   | feature/reports        |                                           |                                                |                     |                    |
-| Biblioteca-de-Software/KeepItFresh-platform   | feature/orders         | 9a38045c69eca91e232fe6ef13f4a0e2254c472c  | feat(orders): add get mapping by id operation. |                     | 17/06/2025         |
-| Biblioteca-de-Software/KeepItFresh-platform   | feature/orders         | 93bbd7df7dfad5306755ec79b2df64ff9b7a5248  | feat(orders): add dishes controller.           |                     | 17/06/2025         |
-| Biblioteca-de-Software/KeepItFresh-platform   | feature/subscriptions  |                                           |                                                |                     |                    |
-| Biblioteca-de-Software/KeepItFresh-platform   | feature/userManagement |                                           |                                                |                     |                    |
+| Repository                                    | Branch                 | Commit Id                                | commit Message                                    | Commit Message Body | Commited on (Date) |
+|-----------------------------------------------|------------------------|------------------------------------------|---------------------------------------------------|---------------------|--------------------|
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/inventory      | 9a24545c69pra91e232fe6ef13f4a0e34mau820s | fear(inventory): add products controller.         |                     | 15/06/2025         |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/reports        | 9b74bak7402ndla0q99237najd9219347197dns9 | feat(reports): add reports controller.            |                     | 18/06/2025         |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/orders         | 9a38045c69eca91e232fe6ef13f4a0e2254c472c | feat(orders): add get mapping by id operation.    |                     | 17/06/2025         |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/orders         | 93bbd7df7dfad5306755ec79b2df64ff9b7a5248 | feat(orders): add dishes controller.              |                     | 16/06/2025         |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/subscriptions  | 9bnasl72736294dhakd827362hds80932jks982s | feat(subscription): add subscriptions controller. |                     | 17/06/2025         |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/userManagement | 9a2jeek2nmcnwk29383028392dmwo93831dk193u | feat(userManagement): add users controller.       |                     | 17/06/2025         |
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
+Para este sprint se desarrolló una primera versión del backend con Springboot.
+A continuación, se evidencian las imágenes del backend configurado en Azure.
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+Durante el desarrollo del backend de la aplicación, se generaron los siguientes servicios RESTful para las funcionalidades del sistema. Estos servicios permiten la interacción con el frontend y la gestión de datos en la base de datos.
+
+| Service Name           | HTTP Method | Endpoint                               | Description                                                                 |
+|------------------------|-------------|----------------------------------------|-----------------------------------------------------------------------------|
+| Orders Service         | GET         | /api/v1/orders                         | Obtiene los pedidos agrupados por mesa.                                    |
+|                        | POST        | /api/v1/orders                         | Crea un nuevo pedido para una mesa.                                        |
+| Inventory Service      | GET         | /api/v1/products                       | Obtiene la información de los insumos del inventario.                      |
+|                        | POST        | /api/v1/products                       | Añade un nuevo insumo al inventario.                                       |
+| User Management        | POST        | /api/v1/auth/login                     | Inicia sesión de usuario y devuelve un token de autenticación.            |
+|                        | POST        | /api/v1/auth/register                  | Registra un nuevo usuario en el sistema.                                  |
+| Reports Service        | GET         | /api/v1/reports                        | Obtiene los reportes del sistema, filtrados por tipo si se especifica.    |
+|                        | POST        | /api/v1/reports                        | Crea un nuevo reporte en el sistema.                                      |
+| Subscriptions Service  | POST        | /api/v1/subscriptions                  | Crea una nueva suscripción para un usuario.                               |
+|                        | GET         | /api/v1/subscriptions/{userId}         | Obtiene las suscripciones activas de un usuario específico.               |
+|                        | DELETE      | /api/v1/subscriptions/{subscriptionId} | Cancela una suscripción específica.                                       |
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### Restful API
+
+Los servicios backend serán desarrollados en **Java (Spring Boot)** más adelante.
+
+##### Backend Web Service
+El backend se desplegó utilizando la plataforma Azure App Service.
+
+**Pasos de despliegue:**
+
+1. Build del proyecto: Generar el archivo ejecutable .jar usando el comando ./mvnw clean package.
+2. Verificar que el proyecto esté completado en la rama develop.
+3. Crear una cuenta en Azure e iniciar sesión mediante Azure CLI (az login).
+4. Crear un grupo de recursos en Azure desde el portal o CLI.
+5. Crear un App Service Plan con sistema operativo Windows y runtime Java 21.
+6. Crear una instancia de Web App con soporte para Java (por ejemplo: JAVA|21-java21).
+7. Realizar el despliegue del archivo .jar mediante la opción ZIP Deploy usando el portal o CLI.
+8. Configurar variables de entorno necesarias para perfiles de Spring, conexión a base de datos, etc.
+9. Probar el servicio en la URL pública proporcionada por Azure App Service.
+
+**Repositorio:** https://github.com/Biblioteca-de-Software/KeepItFresh-platform <br>
+**URL desplegada:** https://keepitfresh.azurewebsites.net/
+
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
