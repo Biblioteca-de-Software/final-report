@@ -447,6 +447,11 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 ### 5.2.3. Sprint 3
 Esta sección detalla el tercer sprint del proyecto KeepItFresh, donde se implementaron las funcionalidades de pedidos, reportes, inventario, manejo de perfiles y suscripciones, así como la integración con el frontend. Se utilizó JSON Server como una API falsa para simular el backend y permitir el desarrollo del frontend de manera independiente.
 
+Para la planificación de este sprint utilizamos Trello como herramienta de gestión de tareas, permitiendo una mejor organización y seguimiento del progreso del equipo. Las tareas se dividieron en historias de usuario y se asignaron a los miembros del equipo según sus habilidades y disponibilidad.
+![img_22.png](img_22.png)
+
+🔗 Enlace al tablero de Trello: https://trello.com/b/OFzWqryU/sprint-3 
+
 #### 5.2.3.1. Sprint Planning 3.
 A continuación se detalla el acta de planificación del tercer sprint, donde se definieron los objetivos y tareas a realizar.
 <table>
@@ -553,6 +558,20 @@ Para el tercer sprint se definieron las siguientes historias de usuario y tareas
 |            |                                                                          | TSK35          | Crear controlador REST para POST /api/v1/reports                 | Implementar un endpoint que reciba el DTO, valide y cree el reporte, retornando estado 201 y lo pedido.                                                                                                                             | 2h         | Ayrton Briceño | Done           |
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del backend de la organización de GitHub.
+
+🔗 Enlace al repositorio del backend: https://github.com/Biblioteca-de-Software/KeepItFresh-platform  
+
+| Repository                                    | Branch                 | Commit Id                                 | commit Message                                 | Commit Message Body | Commited on (Date) |
+|-----------------------------------------------|------------------------|-------------------------------------------|------------------------------------------------|---------------------|--------------------|
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/inventory      |                                           |                                                |                     |                    |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/reports        |                                           |                                                |                     |                    |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/orders         | 9a38045c69eca91e232fe6ef13f4a0e2254c472c  | feat(orders): add get mapping by id operation. |                     | 17/06/2025         |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/orders         | 93bbd7df7dfad5306755ec79b2df64ff9b7a5248  | feat(orders): add dishes controller.           |                     | 17/06/2025         |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/subscriptions  |                                           |                                                |                     |                    |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/userManagement |                                           |                                                |                     |                    |
+
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
