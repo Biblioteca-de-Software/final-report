@@ -16,7 +16,7 @@ En esta sección, se presenta un análisis de los competidores de KeepItFresh y 
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td>KeepItFresh<br></td>
+    <td><img src="/assets/chapter2/logokeep.png" alt="Keep"><br></td>
     <td><img src="/assets/chapter2/marketman-logo.webp" alt="MarketMan"><br></td>
     <td><img src="/assets/chapter2/opentable.jpg" alt="OpenTable"/><br></td>
     <td><img src="/assets/chapter2/covermanager.jpg" alt="CoverManager"/><br></td>
@@ -451,42 +451,27 @@ Javier es un empleado de restaurante que realiza tareas operativas diarias y bus
 
 ![img_10.png](img_10.png)
 
-### 2.3.2. User Task Matrix.
+### 2.3.2. User Task Matrix
 
-En esta sección, se presenta la matriz de tareas de los usuarios, que muestra las actividades realizadas por los dueños y empleados de restaurantes, junto con su frecuencia e importancia. Esta matriz ayuda a identificar las tareas clave y su relevancia para cada tipo de usuario.
-Para ello, usamos los user personas creadas en la sección anterior tomando a Daniel, segmento 1: Dueño de restaurante, y a Javier, segmento 2: trabajador de restaurante. <br>
+En esta sección, se presenta la matriz de tareas de los usuarios, que muestra las actividades realizadas por los dueños y empleados de restaurantes, junto con su frecuencia e importancia. Esta matriz ayuda a identificar las tareas clave y su relevancia para cada tipo de usuario.  
+Para ello, usamos los user personas creados en la sección anterior tomando a Daniel, segmento 1: Dueño de restaurante, y a Javier, segmento 2: trabajador de restaurante.
 
-Segmento Objetivo 1: Daniel (Dueño de restaurante)
+| Actividades                  | Daniel (Dueño de restaurante) - Frecuencia / Importancia | Javier (Trabajador de restaurante) - Frecuencia / Importancia |
+|-----------------------------|-----------------------------------------------------------|----------------------------------------------------------------|
+| Guardar productos           | Rara vez / Media                                          | Con Frecuencia / Media                                         |
+| Atender clientes            | Rara vez / Alta                                           | Siempre / Alta                                                 |
+| Tomar pedidos               | Rara vez / Alta                                           | Siempre / Alta                                                 |
+| Cobrar cuenta               | Rara vez / Alta                                           | Siempre / Alta                                                 |
+| Manejo financiero           | Siempre / Alta                                            | Rara vez / Alta                                                |
+| Contratación y supervisión | Con Frecuencia / Media                                    | Rara vez / Media                                               |
+| Gestión de inventario       | Siempre / Alta                                            | Rara vez / Alta                                                |
+| Limpieza de área            | Rara vez / Media                                          | Con Frecuencia / Media                                         |
+| Capacitación de personal    | Con Frecuencia / Media                                    | Rara vez / Media                                               |
 
-Daniel representa a un dueño de restaurante con experiencia en la gestión operativa, que busca optimizar sus procesos y mejorar la eficiencia del negocio. A continuación se presenta su User Task Matrix:
+Daniel representa a un dueño de restaurante con experiencia en la gestión operativa, que busca optimizar sus procesos y mejorar la eficiencia del negocio. Su enfoque está en actividades estratégicas como el manejo financiero y la gestión de inventario, que realiza con alta frecuencia e importancia. Aunque interactúa ocasionalmente con clientes y empleados en tareas operativas, estas no son su prioridad diaria.
 
-| Actividades                  | Frecuencia   | Importancia |
-|------------------------------|--------------|-------------|
-| Guardar productos            | Rara vez     | Media       |
-| Atender clientes             | Rara vez     | Alta        |
-| Tomar pedidos                | Rara vez     | Alta        |
-| Cobrar cuenta                | Rara vez     | Alta        |
-| Manejo financiero            | Siempre      | Alta        |
-| Contratacion y supervision      | Con Frecuencia     | Media       |
-| Gestion de inventario        | Siempre      | Alta        |
-| Limpieza de area             | Rara vez     | Media       |
-| Capacitacion de personal     | Con Frecuencia     | Media       |
+Por otro lado, Javier representa a un empleado de restaurante que realiza tareas operativas diarias y busca herramientas que faciliten su trabajo. Para él, actividades como tomar pedidos, atender clientes y cobrar cuentas son de alta frecuencia e importancia, reflejando su rol directo en la atención al cliente. En contraste, tareas como el manejo financiero o la contratación tienen menor frecuencia en su día a día.
 
-Segmento Objetivo 2: Javier (Trabajador de restaurante)
-
-Javier representa a un empleado de restaurante que realiza tareas operativas diarias y busca herramientas que faciliten su trabajo. A continuación se presenta su User Task Matrix:
-
-| Actividades       | Frecuencia      | Importancia |
-|-------------------|-----------------|------------|
-| Guardar productos | Con Frecuencia     | Media      |
-| Atender clientes  | Siempre         | Alta       |
-| Tomar pedidos     | Siempre         | Alta       |
-| Cobrar cuenta                | Siempre         | Alta       |
-| Manejo financiero            | Rara vez        | Alta       |
-| Contratacion y supervision       | Rara vez        | Media      |
-| Gestion de inventario        | Rara vez        | Alta       |
-| Limpieza de area             | Con Frecuencia  | Media      |
-| Capacitacion de personal     | Rara vez        | Media |
 
 ### 2.3.3. User Journey Mapping.
 En esta sección se presentan los User Journey Maps en su versión As-Is, uno por cada User Persona definidol. Cada journey refleja el recorrido actual que realiza el usuario en su contexto real de trabajo, desde el inicio hasta el fin de sus actividades clave, sin la existencia de una solución tecnológica. Estos mapas permiten identificar puntos de fricción, oportunidades de mejora y momentos críticos que guían el diseño centrado en el usuario. Los journeys están directamente vinculados a los arquetipos previamente definidos.
