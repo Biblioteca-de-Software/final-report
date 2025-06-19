@@ -444,6 +444,159 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 ![img_14.png](img_14.png)
 
 
+### 5.2.3. Sprint 3
+Esta sección detalla el tercer sprint del proyecto KeepItFresh, donde se implementaron las funcionalidades de pedidos, reportes, inventario, manejo de perfiles y suscripciones, así como la integración con el frontend. Se utilizó JSON Server como una API falsa para simular el backend y permitir el desarrollo del frontend de manera independiente.
+
+Para la planificación de este sprint utilizamos Trello como herramienta de gestión de tareas, permitiendo una mejor organización y seguimiento del progreso del equipo. Las tareas se dividieron en historias de usuario y se asignaron a los miembros del equipo según sus habilidades y disponibilidad.
+![img_22.png](img_22.png)
+
+🔗 Enlace al tablero de Trello: https://trello.com/b/OFzWqryU/sprint-3 
+
+#### 5.2.3.1. Sprint Planning 3.
+A continuación se detalla el acta de planificación del tercer sprint, donde se definieron los objetivos y tareas a realizar.
+<table>
+<tr>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">07/06/2025</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">8:00 pm</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Ayrton Omar Briceño Llanos</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Ayrton Omar Briceño Llanos, Maita Falckenheiner Romina Guadalupe, Lang Nassi Werner Khalil, Torres Flores Paolo Alessandro, Mamani Marca Gabriel Cristian.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  1 Review Summary</td>
+    <td colspan="8">En esta reunión se planificaron las tareas a realizar para el desarrollo del backend así como también, se establecieron fechas límites para la entrega con la finalidad de reservar tiempo para las pruebas unitarias y el despliegue.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">Los integrantes mencionaron sus habilidades y puntos de mejora con respecto a la programación y diseño del backend, además establecimos confianza para crear un entorno colaborativo y con comunicación activa..</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8">Nos centramos en desarrollar un sistema funcional para la gestión de procesos en restaurantes.
+Durante este sprint, nuestro enfoque está en implementar los módulos esenciales del sistema que permiten a los usuarios registrarse, gestionar suscripciones, realizar pagos, registrar pedidos, controlar inventario y generar reportes.
+Creemos que esto nos permitirá establecer la base operativa del sistema, optimizando procesos internos y brindando una experiencia funcional inicial tanto para usuarios como para administradores.
+El éxito de este sprint se confirmará cuando los usuarios puedan suscribirse y pagar, gestionar órdenes por mesa, registrar y consultar inventario, generar reportes, y autenticarse mediante una cuenta de usuario, validado mediante interacciones reales con el frontend y llamadas exitosas a los endpoints del backend.
+ </td>
+</tr>
+</table>
+
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+En esta sección se detalla los líderes de cada aspecto. Para este tercer sprint se crearon 3 aspectos relacionados a los entregables.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Inventory (L) / Collaborator (C) | Aspect 2: Orders (L) / Collaborator (C) | Aspect 3: Reports (L) / Collaborator (C) | Aspect 4: Subscriptions (L) / Collaborator (C) | Aspect 5: User Management (L) / Collaborator (C) |
+|------------------------------------|-----------------|--------------------------------------------|-----------------------------------------|------------------------------------------|------------------------------------------------|--------------------------------------------------|
+| Maita Romina                       | RominaMaita     | C                                          | L                                       | C                                        | C                                              | C                                                |
+| Torres Paolo                       | PaleToFo        | L                                          | C                                       | C                                        | C                                              | C                                                |
+| Lang Werner                        | 00WernerLang    | C                                          | C                                       | L                                        | C                                              | C                                                |
+| Briceño Ayrton                     | Ayrton          | C                                          | C                                       | L                                        | C                                              | C                                                |
+| Mamani Gabriel                     | Gabriel0105     | C                                          | C                                       | C                                        | C                                              | L                                                |
+| Nakasone Marco                     | marquinho04     | C                                          | C                                       | C                                        | L                                              | C                                                |
+
+#### 5.2.3.3. Sprint Backlog 3.
+Para el tercer sprint se definieron las siguientes historias de usuario y tareas relacionadas con el desarrollo del backend y la integración con el frontend. Se utilizaron los principios de DDD (Domain-Driven Design) para estructurar el código y mantener una separación clara de responsabilidades.
+
+| User Story |                                                                          | Work-item/task |                                                                  |                                                                                                                                                                                                                                     |            |                |                |
+|------------|--------------------------------------------------------------------------|----------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------|----------------|
+| ID         | Title                                                                    | ID             | Title                                                            | Description                                                                                                                                                                                                                         | Estimation | Assigned to    | Status (To-do) |
+| TS1        | Ingresar nuevo pedido para una mesa a través de un RESTful API           | TKS1           | Definir entidad dominio Order                                    | Diseñar la entidad Order en el dominio con atributos: orderId, restaurantId, tableNumber, createdAt, total, y lista de platos con cantidades y subtotales.                                                                          | 3h         | Romina         | Done           |
+|            |                                                                          | TSK2           | Definir repositorio para Orders                                  | Crear interfaz y clase repositorio que permita consultar pedidos filtrados por restaurante y agruparlos por mesa.                                                                                                                   | 4h         | Romina         | Done           |
+|            |                                                                          | TSK3           | Implementar servicio para obtener pedidos agrupados              | Crear la lógica en la capa de servicio para obtener pedidos con sus platos y agruparlos por número de mesa. Aplicar patrones DDD para mantener separación de responsabilidades.                                                     | 4h         | Romina         | Done           |
+|            |                                                                          | TSK4           | Crear controlador REST para GET /api/v1/orders                   | Implementar el endpoint que llame al servicio y devuelva respuesta con estado 200 y estructura JSON de pedidos agrupados por mesa.                                                                                                  | 2h         | Romina         | Done           |
+|            |                                                                          | TSK5           | Validar respuesta vacía                                          | Asegurar que el endpoint retorne lista vacía si no hay pedidos en la base.                                                                                                                                                          | 4h         | Romina         | Done           |
+| TS2        | Visualizar los pedidos por mesa a través de un RESTful API               | TSK6           | Definir DTO para crear pedido                                    | Crear un objeto de transferencia (DTO) que contenga los datos esperados en la petición: restaurantId, tableNumber, lista de platos con dishId y quantity.                                                                           | 4h         | Romina         | Done           |
+|            |                                                                          | TSK7           | Implementar validación existencia restaurante                    | En la capa de servicio, validar que el restaurantId existe en la base de datos antes de proceder con la creación del pedido.                                                                                                        | 3h         | Romina         | Done           |
+|            |                                                                          | TSK8           | Validar cantidades de platos                                     | Validar que las cantidades de platos sean mayores a cero y no nulas. Retornar error 400 en caso contrario.                                                                                                                          | 3h         | Romina         | Done           |
+|            |                                                                          | TSK9           | Implementar lógica para cálculo de totales                       | Calcular el subtotal de cada plato multiplicando cantidad por precio, sumar subtotales para obtener el total del pedido.                                                                                                            | 4h         | Romina         | Done           |
+|            |                                                                          | TSK10          | Implementar repositorio para guardar pedido                      | Crear lógica para guardar pedido en tabla orders y sus platos relacionados en orders_dishes. Asegurar manejo transaccional.                                                                                                         | 4h         | Romina         | Done           |
+|            |                                                                          | TSK11          | Crear controlador REST para POST /api/v1/orders                  | Implementar endpoint que reciba el DTO, valide y cree el pedido, retornando estado 201 y el recurso creado.                                                                                                                         | 4h         | Romina         | Done           |
+| TS3        | Obtener los insumos del inventario a través de un RESTful API            | TSK12          | Implementar servicio para obtener la información de los insumos. | Crear la lógica en la capa de servicio para obtener información de los insumos del inventario y añadirlo a los gastos. Aplicar patrones DDD para mantener separación de responsabilidades.                                          | 2h         | Marco          | Done           |
+|            |                                                                          | TSK13          | Crear controlador REST para GET /api/v1/inventory                | Implementar el endpoint que llame al servicio y devuelva respuesta con estado 200 y estructura JSON de insumos previamente agregados.                                                                                               | 3h         | Marco          | Done           |
+|            |                                                                          | TSK14          | Validar respuesta vacía.                                         | Asegurar que el endpoint retorne lista vacía si no hay insumos en el inventario.                                                                                                                                                    | 3h         | Marco          | Done           |
+| TS4        | Añadir los insumos y su información a través de un RESTful API           | TSK15          | Definir DTO para agregar insumo.                                 | Crear un objeto de transferencia (DTO) que contenga los datos esperados en la petición: product_Id, nombre del insumo, fecha de vencimiento y stock.                                                                                | 2h         | Paolo          | Done           |
+|            |                                                                          | TSK16          | Validar cantidad de insumos.                                     | Validar que las cantidades de los insumos ingresados sean mayores a cero y no nulas. Retornar error 400 en caso contrario.                                                                                                          | 3h         | Paolo          | Done           |
+|            |                                                                          | TSK17          | Crear controlador REST para POST /api/v1/inventory               | Implementar endpoint que reciba el DTO, valide y cree el insumo, retornando estado 201 y el recurso creado                                                                                                                          | 3h         | Paolo          | Done           |
+| TS5        | Inicio de sesión de usuarios a través de RESTful API                     | TSK18          | Definir DTO LoginRequest                                         | Crear un DTO que reciba email y password como datos obligatorios para la autenticación.                                                                                                                                             | 4h         | Gabriel Mamani | Done           |
+|            |                                                                          | TSK19          | Implementar lógica de validación                                 | Validar que el email esté registrado y que la contraseña coincida, usando hash seguro                                                                                                                                               | 3h         | Gabriel Mamani | Done           |
+|            |                                                                          | TSK20          | Crear controlador REST POST /api/v1/auth/login                   | Implementar el endpoint que reciba el DTO, valide credenciales, y retorne estado 200 con el token generado                                                                                                                          | 1h         | Gabriel Mamani | Done           |
+| TS6        |                                                                          | TSK21          | Manejar errores de autenticación                                 | Retornar estado 401 con mensaje claro si las credenciales son inválidas.                                                                                                                                                            | 2h         | Gabriel Mamani | Done           |
+|            | Registro de usuarios a través de RESTful API                             | TSK22          | Definir DTO RegisterRequest                                      | Crear un DTO con los campos requeridos para registro: fullName, email, password, confirmPassword.                                                                                                                                   | 1h         | Gabriel Mamani | Done           |
+|            |                                                                          | TSK23          | Validar formato y unicidad de email                              | Verificar que el email tenga formato válido y que no esté previamente registrado                                                                                                                                                    | 3h         | Gabriel Mamani | Done           |
+| TS7        |                                                                          | TSK24          | Encriptar contraseña                                             | Utilizar algoritmo seguro (e.g., bcrypt) para almacenar la contraseña en forma de hash                                                                                                                                              | 4h         | Gabriel Mamani | Done           |
+|            |                                                                          | TSK25          | Crear entidad User                                               | Diseñar la entidad User con campos necesarios y reglas de negocio del sistema                                                                                                                                                       | 1h         | Gabriel Mamani | Done           |
+|            |                                                                          | TSK26          | Crear controlador REST POST /api/v1/auth/register                | Implementar endpoint que reciba el DTO, valide los datos y registre el usuario con estado 201.                                                                                                                                      | 2h         | Gabriel Mamani | Done           |
+| TS8        | Obtener información y descripción de reportes a través de un RESTful API | TSK27          | Validar respuesta vacía para reportes                            | Asegurar que el endpoint retorne { “data”: [] } con status 200 cuando no hay reportes                                                                                                                                               | 2h         | Werner Lang    | Done           |
+|            |                                                                          | TSK28          | Crear controlador REST para GET /api/v1/reports                  | Implementar el endpoint que acepte el query param ?type=<value>. Llame al servicio y retorne respuesta con status y Cuerpo JSON                                                                                                     | 2h         | Werner Lang    | Done           |
+|            |                                                                          | TSK29          | Implementar manejo de errores (500) en reportes                  | Capturar errores de base de datos y retornar Status 500 y Cuerpo { “error”: “Servicio no disponible”}                                                                                                                               | 3h         | Werner Lang    | Done           |
+| TS9        |                                                                          | TSK30          | Implementar servicio para listar reportes                        | Crear lógica en la capa de servicio para consultar reportes (con/sin filtro por type).                                                                                                                                              | 4h         | Werner Lang    | Done           |
+|            | Añadir nuevos reportes a través de un RESTful API                        | TSK31          | Definir DTO para crear reporte                                   | Crear un DTO que contenga los datos requeridos en la petición POST: reportTitle description, category, createdBy, createdAt.                                                                                                        | 3h         | Ayrton Briceño | Done           |
+|            |                                                                          | TSK32          | Validar campos requeridos                                        | Validar que los campos title, description, category y createdBy estén presentes y no sean nulos. Retornar error 409 si falta alguno.                                                                                                | 2h         | Ayrton Briceño | Done           |
+| TS10       |                                                                          | TSK33          | Validar formato y longitud del título                            | Antes de guardar el reporte, validar que el campo category corresponde a una categoría válida del sistema (por ejemplo: "ganancias", "gastos", "pérdidas".). Si no coincide, retornar error 409 con mensaje: "Categoría no válida." | 3h         | Ayrton Briceño | Done           |
+|            |                                                                          | TSK34          | Registrar fecha automática si no se envía                        | Si no se incluye createdAt en la petición, asignar la fecha y hora actual antes de guardar el reporte.                                                                                                                              | 2h         | Ayrton Briceño | Done           |
+|            |                                                                          | TSK35          | Crear controlador REST para POST /api/v1/reports                 | Implementar un endpoint que reciba el DTO, valide y cree el reporte, retornando estado 201 y lo pedido.                                                                                                                             | 2h         | Ayrton Briceño | Done           |
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del backend de la organización de GitHub.
+
+🔗 Enlace al repositorio del backend: https://github.com/Biblioteca-de-Software/KeepItFresh-platform  
+
+| Repository                                    | Branch                 | Commit Id                                 | commit Message                                 | Commit Message Body | Commited on (Date) |
+|-----------------------------------------------|------------------------|-------------------------------------------|------------------------------------------------|---------------------|--------------------|
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/inventory      |                                           |                                                |                     |                    |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/reports        |                                           |                                                |                     |                    |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/orders         | 9a38045c69eca91e232fe6ef13f4a0e2254c472c  | feat(orders): add get mapping by id operation. |                     | 17/06/2025         |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/orders         | 93bbd7df7dfad5306755ec79b2df64ff9b7a5248  | feat(orders): add dishes controller.           |                     | 17/06/2025         |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/subscriptions  |                                           |                                                |                     |                    |
+| Biblioteca-de-Software/KeepItFresh-platform   | feature/userManagement |                                           |                                                |                     |                    |
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+A coninuación se evidencia la colaboración de cada integrante en el repositorio del frontend y backend.
+
+- Frontend:
+
+A continuación se evidencia la colaboración de cada integrante en el repositorio del frontend.
+
+🔗 Repositorio del Frontend: https://github.com/Biblioteca-de-Software/frontend
+![img_21.png](img_21.png)
+
+- Backend:
+
+A continuación se evidencia la colaboración de cada integrante en el repositorio del backend.
+
+🔗 Repositorio del Backend: https://github.com/Biblioteca-de-Software/KeepItFresh-platform 
+![img_20.png](img_20.png)
+
 
 ## 5.3. Validation Interviews
 Esta sección está enfocada a registrar y explicar las acciones realizadas para las entrevistas de validación de cada segmento objetivo.
@@ -622,8 +775,6 @@ Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a la
 
 # Bibliografía
 
-- Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
-
 - Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
 
 - Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
@@ -670,15 +821,7 @@ Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a la
 | Título                  | Descripción                                        | Enlace                          |
 |-------------------------|----------------------------------------------------|---------------------------------|
 | Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/Vr5XIl     |
-| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/9818Zn     |  
-
-### DIAGRAMAS:
-**Anexo B: Diagrama de clases**<br>
-
-| Título                    | Descripción                                                 | Enlace |
-|---------------------------|-------------------------------------------------------------|--------|
-| Diagrama de base de datos | Enlace al diagrama de base de datos realizado en Lucidchart |        | 
-| Diagrama de clases        | Enlace al diagrama clases realizado en Lucidchart           |        | 
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/9818Zn     |
 
 ### UX/UI
 | Título | Descripción                                                                                                | Enlace                       |
