@@ -219,7 +219,7 @@ Consciente de estas limitaciones, Richard ha expresado un claro interés por inc
 Si bien no es un experto en tecnología, está abierto a soluciones innovadoras, siempre que estas ofrezcan beneficios concretos, como facilitar la toma de decisiones estratégicas o mejorar la gestión del inventario. Le interesan especialmente aquellas plataformas que le permitan visualizar datos clave, como los productos más vendidos, las cantidades disponibles o las fechas de vencimiento, de forma clara y confiable.
 
 En resumen, Richard representa a un emprendedor tradicional con visión moderna, que busca digitalizar su negocio de manera práctica y efectiva, apostando por herramientas que le den control, orden y mejores resultados en su gestión diaria.
-➡ Arquetipo base: Administrador Estratégico<br>
+<br>➡ Arquetipo base: Administrador Estratégico<br>
 - _Entrevista 2_
 
 | Nombre               | Luis                                                                                                                                                                                                                                                                                                                        |
@@ -246,7 +246,7 @@ Es una persona casada, reflexiva y enfocada en la eficiencia. Utiliza principalm
 Luis valora las soluciones que le permitan organizar mejor su operación y obtener datos claros para optimizar el rendimiento de su restaurante sin complicarse con herramientas complejas o difíciles de implementar.
 
 
-➡ Arquetipo base: Administrador Estratégico<br>
+<br>➡ Arquetipo base: Administrador Estratégico<br>
 - _Entrevista 3_
 
 | Nombre               | Daniel                                                                                                                                                                                                                                                                                                                      |
@@ -272,7 +272,7 @@ Con una mentalidad práctica y orientada a resultados, Daniel ha comenzado a int
 
 Aunque su interés en el análisis de ventas es moderado, reconoce que las estadísticas visuales pueden facilitar la toma de decisiones y ayudarlo a identificar patrones importantes. Tiene una actitud positiva hacia la innovación, siempre que esta se adapte a sus procesos actuales y no complique su gestión diaria.
 
-➡ Arquetipo base: Administrador Estratégico<br>
+<br>➡ Arquetipo base: Administrador Estratégico<br>
 
 
 ##### Segmento 2: Trabajadores de restaurantes.
@@ -302,7 +302,7 @@ Ha manifestado que la falta de tecnología representa una carga adicional en su 
 
 Tiene una alta disposición para adoptar nuevas herramientas tecnológicas, especialmente si estas le permiten trabajar de forma más ágil y eficiente. Por su cercanía con los procesos operativos y su familiaridad con entornos digitales, Diego es un usuario ideal para validar soluciones móviles pensadas para el equipo en campo.
 
-➡ Arquetipo base: Operador Multifuncional<br>
+<br>➡ Arquetipo base: Operador Multifuncional<br>
 - _Entrevista 2_
 
 | Nombre               | Estephano                                                                                                                                                                                                                                                                                                                |
@@ -328,7 +328,7 @@ Es una persona organizada, con visión a futuro y apertura al cambio, cualidades
 
 Estephano navega regularmente por Facebook e Instagram, donde sigue contenido relacionado con gastronomía y tecnología, lo que refuerza su interés por mantenerse actualizado en tendencias que pueden impactar su entorno laboral. Su combinación de experiencia operativa, manejo de herramientas digitales y actitud proactiva lo posiciona como un usuario ideal para adoptar e impulsar soluciones tecnológicas dentro del restaurante.
 
-➡ Arquetipo base: Operador Multifuncional<br>
+<br>➡ Arquetipo base: Operador Multifuncional<br>
 - _Entrevista 3_
 
 | Nombre               | Luis                                                                                                                                                                                                                                                                                                                      |
@@ -356,7 +356,7 @@ Luis expresó una clara frustración con la falta de sincronización entre cocin
 
 Aunque tiene conocimientos básicos de tecnología, es muy receptivo al uso de apps móviles y demuestra una alta disposición para adaptarse, siempre que la herramienta represente una mejora tangible en su rutina de trabajo.
 
-➡ Arquetipo base: Operador Multifuncional<br>
+<br>➡ Arquetipo base: Operador Multifuncional<br>
 
 ### 2.2.3. Análisis de entrevistas.
 
