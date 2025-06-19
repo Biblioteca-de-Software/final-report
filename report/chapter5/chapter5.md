@@ -472,6 +472,9 @@ El frontend se desplegó utilizando la herramienta Netlify.
 **Repositorio:** https://github.com/Biblioteca-de-Software/frontend <br>
 **URL desplegada:** https://keepdeplo.netlify.app/
 
+![image](https://github.com/user-attachments/assets/66a03ca5-d0f1-4885-9b01-dd368e60ae10)
+
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 En esta sección se evidencia la colaboración de cada integrante en el repositorio de la Landing Page.
 🔗 Repositorio de Frontend: https://github.com/Biblioteca-de-Software/frontend
