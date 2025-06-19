@@ -660,6 +660,9 @@ El backend se desplegó utilizando la plataforma Azure App Service.
 **Repositorio:** https://github.com/Biblioteca-de-Software/KeepItFresh-platform <br>
 **URL desplegada:** https://keepitfresh.azurewebsites.net/
 
+![image](https://github.com/user-attachments/assets/a9fd075c-d501-44b9-9334-f2087b61dee3)
+
+![image](https://github.com/user-attachments/assets/ead4ee68-8e1f-47e0-81c1-598c0ca6d10d)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
