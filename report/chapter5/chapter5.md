@@ -518,11 +518,11 @@ A continuación se detalla el acta de planificación del tercer sprint, donde se
     <td colspan="8">Ayrton Omar Briceño Llanos, Maita Falckenheiner Romina Guadalupe, Lang Nassi Werner Khalil, Torres Flores Paolo Alessandro, Mamani Marca Gabriel Cristian.</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint  1 Review Summary</td>
+    <td colspan="5">Sprint  3 Review Summary</td>
     <td colspan="8">En esta reunión se planificaron las tareas a realizar para el desarrollo del backend así como también, se establecieron fechas límites para la entrega con la finalidad de reservar tiempo para las pruebas unitarias y el despliegue.</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
     <td colspan="8">Los integrantes mencionaron sus habilidades y puntos de mejora con respecto a la programación y diseño del backend, además establecimos confianza para crear un entorno colaborativo y con comunicación activa..</td>
 </tr>
 <tr>
