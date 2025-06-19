@@ -516,9 +516,94 @@ También sugirió que sería útil incluir una funcionalidad adicional: la visua
 
 Respecto al módulo de inventario, resaltó su utilidad práctica para el registro diario de productos. Indicó que el sistema facilita el control operativo y valoró especialmente las alertas automáticas sobre productos por vencer o con stock bajo, lo que contribuye directamente a una mejor gestión del abastecimiento.
 
+###### Información del entrevistado
+| Nombre | Apellido | Edad | Distrito |
+|--------|----------|------|----------|
+| Darío  | Lopez    | 25    | Quito    | 
+
+![img_20.jpg](img_20.jpg)
+
+🔗 Enlace al video de la entrevista: https://acortar.link/hivj0q
+- Duración Total: 7:54 minutos
+- Inicio: 00:01
+
+###### Resumen de entrevista
+Durante la sesión de validación, el entrevistado resaltó la utilidad general del sistema para optimizar la operatividad del restaurante. Mencionó que el módulo de órdenes le permite registrar los pedidos de forma rápida y organizada, lo que reduce los errores al momento de atender a los comensales y mejora el flujo de trabajo entre el salón y la cocina.
+
+En relación con el módulo de inventario, valoró positivamente la posibilidad de registrar productos con su fecha de expiración, tipo de medida y precio, ya que esto le permite mantener un mejor control del stock y evitar desperdicios. Destacó especialmente la función de alertas automáticas, la cual considera fundamental para anticipar problemas con productos vencidos o mal almacenados, algo que solía pasar con frecuencia en su negocio antes de implementar este tipo de tecnología.
+
+El entrevistado también expresó que el dashboard de estadísticas es una herramienta valiosa para la toma de decisiones. Mencionó que al ver claramente los platos más consumidos y el balance de ganancias y pérdidas, puede evaluar la rentabilidad de ciertos productos y ajustar el menú o los precios de manera informada.
+
+Finalmente, sugirió que una funcionalidad adicional que podría mejorar el sistema sería la posibilidad de generar reportes automáticos semanales que se envíen por correo, para mantener a la gerencia informada sin necesidad de acceder manualmente a la plataforma.
+
+###### Información del entrevistado
+| Nombre | Apellido  | Edad | Distrito   |
+|--------|-----------|------|------------|
+| Luis    | Rodriguez | 23   | Miraflores | 
+
+![img_21.jpg](img_21.jpg)
+
+🔗 Enlace al video de la entrevista: https://acortar.link/n5C754
+- Duración Total: 5:47
+- Inicio: 00:01
+
+###### Resumen de entrevista
+Durante la entrevista de validación, el entrevistado propietario de un restaurante de tamaño mediano comentó que la aplicación cubre varias de las necesidades clave que enfrenta en la gestión diaria de su negocio. Destacó que el módulo de dashboard le permite tener una visión clara y actualizada del desempeño del restaurante, lo que considera fundamental para tomar decisiones rápidas y basadas en datos. Subrayó que las métricas sobre ganancias y pérdidas le han ayudado a detectar platos poco rentables y ajustar su menú en función de esa información.
+
+En cuanto al módulo de pedidos, valoró que se puedan ingresar manualmente las mesas y platos, ya que su restaurante no usa sistemas de comandos digitales. Consideró que esta flexibilidad permite adaptar el sistema a su flujo de trabajo sin necesidad de hacer grandes cambios en el proceso operativo.
+
+También elogió el módulo de alerts, especialmente por su capacidad de detectar productos cerca del vencimiento o almacenados en condiciones inadecuadas. Según su experiencia, este tipo de notificaciones reduce pérdidas por deterioro de productos y mejora los estándares de higiene y control.
+
+Respecto al módulo de inventory, mencionó que ahora puede llevar un mejor control de los productos en stock y planificar compras con mayor precisión. Además, resaltó que registrar el tipo de unidad (litros, kilos, unidades, etc.) facilita una mejor organización de los insumos.
+
+
+#### Segmento 1: Dueños de restaurantes
+
+| Nombre | Apellido | Edad | Distrito              |
+|-------|----------|-----|-----------------------|
+| Diego | Espinoza | 25  | San Juan de Lurigancho | 
+
+![img_22.jpg](img_22.jpg)
+
+🔗 Enlace al video de la entrevista: https://acortar.link/IjIsiM
+- Duración Total: 8;12
+- Inicio: 00:01
+
+###### Resumen de entrevista
+Durante la entrevista de validación, el entrevistado destacó que la aplicación le ha facilitado varias tareas que antes realizaba de forma manual o con anotaciones físicas. En particular, mencionó que el módulo de orders le permite ingresar pedidos de forma rápida, eligiendo la mesa, el plato y la cantidad sin confusión. Comentó que esta funcionalidad ha ayudado a reducir errores al pasar los pedidos a cocina y ha mejorado el tiempo de atención a los comensales.
+
+También resaltó que el módulo de inventory le resulta útil para registrar productos nuevos cuando llegan los pedidos de insumos. Afirmó que antes debía llevar este control en una libreta, lo cual se prestaba a errores u omisiones, mientras que ahora el sistema le permite guardar toda la información como fecha de vencimiento, cantidad y unidad de medida de manera ordenada y clara.
+
+Otro punto que valoró fue la presencia del módulo de alerts, ya que ahora recibe notificaciones cuando un producto está a punto de vencer o presenta condiciones de almacenamiento inadecuadas. Dijo que esto le da más confianza al momento de organizar las cámaras de refrigeración y seleccionar los ingredientes durante el día.
+
+Por último, comentó que al usar el sistema como trabajador, pudo loguearse fácilmente en su perfil sin necesidad de permisos especiales, y que la aplicación es intuitiva, incluso para quienes no tienen experiencia con tecnología. Como sugerencia, propuso incluir una opción para marcar productos como “usados” o “retirados”, de modo que el inventario refleje aún mejor la rotación diaria.
+
+
+
+###### Información del entrevistado
+
+| Nombre  | Apellido | Edad | Distrito   |
+|---------|----------|------|------------|
+| Stephano | Moscoso  | 20    | La Libertad | 
+
+![img_23.jpg](img_23.jpg)
+
+🔗 Enlace al video de la entrevista: https://acortar.link/RRf0rO
+- Duración Total: 3:56
+- Inicio: 00:01
+
+###### Resumen de entrevista
+Durante la sesión de validación, el entrevistado —encargado del control de insumos en el almacén del restaurante— señaló que la aplicación representa una mejora significativa en el registro y seguimiento de los productos. Comentó que antes llevaba un control manual con hojas impresas, lo cual era lento y propenso a errores. Con la app, ahora puede registrar fácilmente la cantidad exacta, tipo de medida y fecha de expiración de cada producto al momento de recibirlo.
+
+Valoró especialmente la capacidad del módulo de inventory para manejar distintos tipos de unidades, lo que le permite trabajar con precisión tanto con productos en unidades como en litros o kilos. Mencionó que esto facilita la verificación del stock disponible sin necesidad de hacer conteos físicos constantes.
+
+Respecto al sistema de alertas, afirmó que ha sido clave para anticiparse a problemas logísticos. Comentó que ha recibido notificaciones a tiempo sobre productos a punto de vencer o almacenados en condiciones inadecuadas, lo que le ha permitido tomar medidas correctivas antes de que se generen pérdidas.
+
+También se refirió positivamente al módulo de reports, ya que le permite documentar incidencias, registrar observaciones del estado de los insumos, y compartir esa información con el resto del equipo de forma organizada. Destacó que esto mejora la comunicación entre áreas y evita malentendidos entre turnos.
+
+Como sugerencia, propuso que el sistema pudiera incluir una vista resumida de los productos más utilizados por semana, para ayudar en la planificación de compras futuras y evitar el sobreabastecimiento.
+
 ### 5.3.3. Evaluaciones según heurísticas.
-
-
 
 
 5.4. Video About-the-Product
