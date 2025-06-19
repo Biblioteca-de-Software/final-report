@@ -928,6 +928,33 @@ Incluir un botón “Deshacer” o “Cancelar” visible después de crear un r
 
 5.4. Video About-the-Product
 
+Este video está dirigido a los visitantes de nuestra landing page y a los usuarios de la aplicación. Presenta una visión general del modelo de negocio, las funcionalidades clave del software y los beneficios principales de nuestra solución de gestión de inventario para restaurantes.
+
+Nuestro objetivo es mostrar cómo nuestra aplicación ayuda a los dueños y trabajadores de restaurantes a optimizar su gestión de pedidos, productos e inventario, con herramientas prácticas y automatizadas para mejorar la eficiencia operativa.
+
+El video presenta: <br>
+- Introducción al problema de gestión de inventario en restaurantes.
+- Principales funcionalidades de la aplicación:
+- Dashboard: Visualización de estadísticas de consumo y rendimiento económico.
+- Orders: Registro manual de pedidos por mesa, plato y cantidad.
+- Inventory: Gestión de productos con fechas de expiración, medidas y precios.
+- Profile: Ingreso diferenciado como trabajador o dueño de restaurante.
+- Reports: Generación y almacenamiento de reportes.
+- Alerts: Notificaciones sobre vencimientos, condiciones de almacenamiento y temperatura.
+- Testimonio validado de un usuario que participó en las entrevistas de validación.
+- Cierre con llamado a la acción para visitar la landing page y conocer más.
+
+![img_27.png](img_27.png)
+
+Enlace de video a Microsoft Stream: https://acortar.link/NvzSlz <br>
+Enlace de video a YouTube: https://www.youtube.com/watch?v=UA0Mvyjgsr4
+
+- [0:00 – 0:17] | Intro impactante
+- [0:17 – 1:05  | Funcionalidades clave
+- [1:05 – 1:10  | Testimonio positivo
+- [1:10 – 1:19] | Llamado a la acción y cierre
+
+
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
 - La importancia del trabajo en equipo y la colaboración entre los miembros del grupo.
@@ -939,6 +966,26 @@ Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a la
 - Se concluye que la aplicación es escalable y puede adaptarse a diferentes necesidades y requerimientos de los usuarios.
 
 # Video About-the-Team.
+
+Este video muestra el proceso de trabajo del equipo que desarrolló KeepItFresh. Incluye escenas reales de nuestras sesiones de planificación, codificación y validación con usuarios, complementadas con una narración en
+off que explica cada fase. Cada integrante aparece ante cámara para describir su rol, los principales outcomes logrados y las competencias que fortaleció durante el proyecto.
+
+| # | Sección                       | Inicio (`hh:mm:ss`) | Contenido resumido                       |
+|---|-------------------------------|---------------------|------------------------------------------|
+| 1 | **Intro del equipo**          | 00:00:00            | Logo, nombre del proyecto y foto grupal. |
+| 2 | **Metodología de trabajo**    | 00:00:10            | Clips de reuniones (Miro, Trello, etc).  |
+| 3 | **Testimonio – Integrante 1** | 00:00:30            | Rol, logros (Reports)                    |
+| 4 | **Testimonio – Integrante 2** | 00:01:12            | Rol, logros (Reports)                    |
+| 5 | **Testimonio – Integrante 3** | 00:02:18            | Rol, logros (Subscriptions)              |
+| 6 | **Testimonio – Integrante 4** | 00:03:12            | Rol, logros (Orders)                     |
+| 7 | **Testimonio – Integrante 5** | 00:04:00            | Rol, logros (Profile)                    |
+| 7 | **Testimonio – Integrante 6** | 00:04:00            | Rol, logros (Inventory)                  |
+| 9 | **Final**                     | 00:07:19            | Cierre del video                         |
+
+- **Microsoft Stream (versión institucional):**
+https://acortar.link/RbY7vX
+- **YouTube (para incrustar en la landing):**
+https://youtu.be/gj1rPo6-jh8
 
 # Bibliografía
 
