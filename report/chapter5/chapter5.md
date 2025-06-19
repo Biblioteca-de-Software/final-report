@@ -36,6 +36,7 @@ Los enlaces también están disponibles en la sección de anexos.
 - **Repositorio del informe final:** [https://github.com/Biblioteca-de-Software/final-report](https://github.com/Biblioteca-de-Software/final-report)
 - **Repositorio de la Landing Page:** [https://github.com/Biblioteca-de-Software/landing-page](https://github.com/Biblioteca-de-Software/landing-page)
 - **Repositorio del FrontEnd:** [https://github.com/Biblioteca-de-Software/frontend](https://github.com/Biblioteca-de-Software/frontend)
+- **Repositorio del BackEnd:** https://github.com/Biblioteca-de-Software/KeepItFresh-platform 
 
 #### Modelo de ramificación: GitFlow
 
@@ -57,6 +58,14 @@ Para el repositorio del Fronted se crearon las siguientes ramas:
 - **feature/inventory**: Rama donde se desarrolla el bounded context del inventario donde una persona del segmento dueños de restaurante puede ingresar productos al inventario y revisar su fecha de caducidad.
 - **feature/notifications**: Rama donde se desarrolla del bounded context de notificaciones donde el usuario, ya sea dueño o trabajador, puede ver todas las notificaciones. Es parte del core del negocio, ya que para el segmento de dueños las notificaciones le permiten estar alerta de la fecha de vencimiento de los productos. 
 - **feature/userManagement**: Rama donde se desarrolla el código respecto a el registro o ingreso a la cuenta de cada segmento objetivo.
+
+Para el repositorio de Backend se crearon las siguientes ramas:
+- **develop:** Rama principal donde se realizan merge de las versiones finales de cada rama y se utiliza para el despliegue.
+- **feature/inventory**: Rama de desarrollo del bounded context inventory que proporciona endpoints para guardado y muestra de datos de los productos del almacén de un restaurante. 
+- **feature/subscriptions:** Rama de desarrollo del bounded context de subscriptions donde se almacena la información del tipo de suscripción del restaurante, ya que el proyecto sigue el modelo Software as a Service.
+- **feature/userManagement:** Rama de desarrollo del bounded context iam y profiles para el ingreso de cuenta a los segmentos objetivos dueños de restaurantes y trabajadores.
+- **feature/reports:** Rama de desarrollo del bounded context reports que proporciona los endpoints necesarios para almacenar los documentos del restaurante.
+- **feature/orders:** Rama de desarrollo del bounded context orders que proporciona los endpoints que se usa para los gráficos del frontend y la muestra y creación de orders.
 
 #### Estilo de commits: Conventional Commits
 Para asegurar mensajes de commits claros y estandarizados, se seguirá la convención [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Algunos ejemplos:
@@ -509,6 +518,9 @@ Respecto al módulo de inventario, resaltó su utilidad práctica para el regist
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+
+
+
 5.4. Video About-the-Product
 
 # Conclusiones
@@ -546,6 +558,25 @@ Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a la
 - INEI (2023). Condiciones del Mercado Laboral en el Perú 2023. https://cdn.www.gob.pe/uploads/document/file/5543656/4930047-ite-2023-t2%282%29.pdf?v=1703860060
 
 - Ministerio de la Producción (2023). Estudio sobre transformación digital en MYPE del sector gastronómico. https://www.gob.pe/produce
+
+- Pivotal Software (2024). Spring Boot Reference Documentation (v3.2.4). https://docs.spring.io/spring-boot/docs/current/reference/html/
+
+- Project Lombok (2024). Lombok - The boilerplate code remover. https://projectlombok.org/features/all
+
+- Oracle Corporation (2024). MySQL 8.0 Reference Manual. https://dev.mysql.com/doc/refman/8.0/en/
+
+- Eclipse Foundation (2023). Jakarta Persistence API (JPA) Specification. https://jakarta.ee/specifications/persistence/3.1/
+
+- Postman (2024). Postman Learning Center: Using Postman. https://learning.postman.com/docs/getting-started/introduction/
+
+- Baeldung (2023). A Guide to JPA with Spring Boot. https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa
+
+- DigitalOcean (2023). How To Use MySQL with Spring Boot. https://www.digitalocean.com/community/tutorials/spring-boot-mysql-jpa-hibernate
+
+- Evans, E. (2004). Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley. https://www.domainlanguage.com/ddd/
+
+- REST API Tutorial (2023). REST API Design Tutorial. https://restfulapi.net/
+
 
 # Anexos
 
