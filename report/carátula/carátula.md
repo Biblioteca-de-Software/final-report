@@ -3,7 +3,7 @@
 ## Carrera: Ingeniería de Software
 ## Desarrollo de Aplicaciones Open Source - Presencial 
 ## PROFESOR: Ángel Augusto
-## Sección: 1ASI0729
+## NRC: 4350
 ## INFORME TB2
 ## START UP: Go4U
 ## PRODUCTO: KeepItFresh
@@ -46,7 +46,7 @@
 
 --- 
 
-Ciclo 2025-01
+Ciclo 2025-10
 
 
 # Registro de versiones del informe
