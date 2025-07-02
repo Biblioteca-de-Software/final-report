@@ -1043,12 +1043,15 @@ https://youtu.be/gj1rPo6-jh8
 
 ### VIDEOS:
 
-| Título                  | Descripción                                        | Enlace                           |
-|-------------------------|----------------------------------------------------|----------------------------------|
-| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/Vr5XIl      |
-| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/9818Zn      |
-| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://acortar.link/5cdNWo      |
+| Título                  | Descripción                                        | Enlace                          |
+|-------------------------|----------------------------------------------------|---------------------------------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/Vr5XIl     |
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/9818Zn     |
+| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://acortar.link/5cdNWo     |
+| Video de exposición TB2 | Video explicativo de los avances de la entrega TB2 | https://acortar.link/9lLNcz     |
 
+
+https://acortar.link/9lLNcz
 ### UX/UI
 | Título | Descripción                                                                                                | Enlace                       |
 |--------|------------------------------------------------------------------------------------------------------------|------------------------------|
