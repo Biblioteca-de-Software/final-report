@@ -75,6 +75,7 @@ Ciclo 2025-10
 | 3.3     | 14/06/2025 | Mamani Marca, Gabriel Cristian        | Corrección de Impact Mapping.                                                                                                               |
 | 3.4     | 15/06/2025 | Torres Flores, Paolo Alessandro       | Corrección de Product Backlog.                                                                                                              |
 | 3.5     | 16/06/2025 | Nakasone Gomes, Marco Antonio         | Corrección de Lean Ux                                                                                                                       |
+| 3.6     | 02/07/2025 | Torres Flores, Paolo Alessandro       | Corregir y detallar información de la carátula.                                                                                             |
 
 # Project Report Collaboration Insights
 
