@@ -883,11 +883,11 @@ Escala de severidad:
 
 Tabla Resumen:
 
-| # |                               Problema detectado                              | Severidad |              Heurística/Principio violado              |
-|::|:-----------------------------------------------------------------------------:|:---------:|:------------------------------------------------------:|
-| 1 | Al guardar un Order no aparece mensaje de confirmación ni feedback visual.    | 3         |     Usabilidad: Visibilidad del estado del sistema     |
-| 2 | Gráficos del Dashboard no tienen texto alternativo para lectores de pantalla. | 3         | Inclusive Design: Proporciona experiencias comparables |
-| 3 | No existe opción para deshacer la creación de un Report recién añadido.       | 2         |       Usabilidad: Control y libertad del usuario       |
+|  #   |                               Problema detectado                               |  Severidad  |              Heurística/Principio violado               |
+|:----:|:------------------------------------------------------------------------------:|:-----------:|:-------------------------------------------------------:|
+|  1   |   Al guardar un Order no aparece mensaje de confirmación ni feedback visual.   |      3      |     Usabilidad: Visibilidad del estado del sistema      |
+|  2   | Gráficos del Dashboard no tienen texto alternativo para lectores de pantalla.  |      3      | Inclusive Design: Proporciona experiencias comparables  |
+|  3   |    No existe opción para deshacer la creación de un Report recién añadido.     |      2      |       Usabilidad: Control y libertad del usuario        |
 
 No aparece mensaje de confirmación al guardar un pedido en Orders
 
