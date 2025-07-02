@@ -76,6 +76,8 @@ Ciclo 2025-10
 | 3.4     | 15/06/2025 | Torres Flores, Paolo Alessandro       | Corrección de Product Backlog.                                                                                                              |
 | 3.5     | 16/06/2025 | Nakasone Gomes, Marco Antonio         | Corrección de Lean Ux                                                                                                                       |
 | 4.1     | 02/07/2025 | Torres Flores, Paolo Alessandro       | Corregir y detallar información de la carátula.                                                                                             |
+| 4.2     | 02/07/2025 | Lang Nassi, Werner Khalil             | Agregar anexos de videos y Repositorios                                                                                                     |
+| 4.3     | 02/07/2025 | Lang Nassi, Werner Khalil             | Corrección de sprint backlog 3                                                                                                              |
 
 # Project Report Collaboration Insights
 
