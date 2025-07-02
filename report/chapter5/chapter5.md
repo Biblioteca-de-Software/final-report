@@ -625,6 +625,18 @@ Estos commits provienen del repositorio del backend de la organización de GitHu
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
+Para este sprint se desarrolló una segunda versión del frontend con el framework Angular.
+A continuación, se evidencian las imágenes del frontend.
+
+<br>
+<br>
+
+**Repositorio:** https://github.com/Biblioteca-de-Software/frontend <br>
+**URL desplegada:** https://keepdeplo.netlify.app/
+
+<br>
+<br>
+
 Para este sprint se desarrolló una primera versión del backend con Springboot.
 A continuación, se evidencian las imágenes del backend configurado en Azure.
 
@@ -648,6 +660,21 @@ Durante el desarrollo del backend de la aplicación, se generaron los siguientes
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### Frontend Web Application
+El frontend se desplegó utilizando la herramienta Netlify.
+
+**Pasos de despliegue:**
+1. Build del proyecto: Generar los archivos estáticos de producción (ng build --configuration=production)
+2. Verificar que el proyecto esté completado en la rama develop.
+3. Creación de cuenta en Netlify
+4. Click en "Add new site" → "Import an existing project" y elegir el repositorio y rama (develop)
+5. Configurar build:
+- Build command: ng build --configuration=production
+- Publish directory: dist/nombre-de-tu-app
+
+**Repositorio:** https://github.com/Biblioteca-de-Software/frontend <br>
+**URL desplegada:** https://keepdeplo.netlify.app/
 
 #### Restful API
 
