@@ -1051,7 +1051,6 @@ https://youtu.be/gj1rPo6-jh8
 | Video de exposición TB2 | Video explicativo de los avances de la entrega TB2 | https://acortar.link/9lLNcz     |
 
 
-https://acortar.link/9lLNcz
 ### UX/UI
 | Título | Descripción                                                                                                | Enlace                       |
 |--------|------------------------------------------------------------------------------------------------------------|------------------------------|
