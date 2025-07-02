@@ -496,8 +496,6 @@ Esta sección detalla el tercer sprint del proyecto KeepItFresh, donde se implem
 
 Para la planificación de este sprint utilizamos Trello como herramienta de gestión de tareas, permitiendo una mejor organización y seguimiento del progreso del equipo. Las tareas se dividieron en historias de usuario y se asignaron a los miembros del equipo según sus habilidades y disponibilidad.
 
-🔗 Enlace al tablero de Trello: https://trello.com/b/OFzWqryU/sprint-3 
-
 #### 5.2.3.1. Sprint Planning 3.
 A continuación se detalla el acta de planificación del tercer sprint, donde se definieron los objetivos y tareas a realizar.
 <table>
@@ -565,6 +563,8 @@ En esta sección se detalla los líderes de cada aspecto. Para este tercer sprin
 Para el tercer sprint se definieron las siguientes historias de usuario y tareas relacionadas con el desarrollo del backend y la integración con el frontend. Se utilizaron los principios de DDD (Domain-Driven Design) para estructurar el código y mantener una separación clara de responsabilidades. Las tareas fueron agrupadas y detalladas gracias a la buena organizacion del equipo y el correcto uso de la herramienta Trello.
 
 ![img_22.png](img_22.png)
+
+🔗 Enlace al tablero de Trello: https://trello.com/b/OFzWqryU/sprint-3 
 
 
 
