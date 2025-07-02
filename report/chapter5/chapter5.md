@@ -711,12 +711,23 @@ A coninuación se evidencia la colaboración de cada integrante en el repositori
 
 A continuación se evidencia la colaboración de cada integrante en el repositorio del frontend.
 
+- **Paolo Torres**: 
+- **Ayrton Briceño**: 
+- **Gabriel Mamani**: 
+- **Werner Lang**: Implementacion de notificaciones en el frontend.
+- **Romina Maita**: 
+
 🔗 Repositorio del Frontend: https://github.com/Biblioteca-de-Software/frontend
 ![img_21.png](img_21.png)
 
 - Backend:
 
 A continuación se evidencia la colaboración de cada integrante en el repositorio del backend.
+- **Paolo Torres**: 
+- **Ayrton Briceño**: 
+- **Gabriel Mamani**: 
+- **Werner Lang**: Implementación de backend de reportes. 
+- **Romina Maita**: 
 
 🔗 Repositorio del Backend: https://github.com/Biblioteca-de-Software/KeepItFresh-platform 
 ![img_20.png](img_20.png)
