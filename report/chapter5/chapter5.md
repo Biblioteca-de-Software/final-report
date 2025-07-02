@@ -1060,7 +1060,8 @@ https://youtu.be/gj1rPo6-jh8
 
 | Título       | Descripción                            | Enlace                                                |
 |--------------|----------------------------------------|-------------------------------------------------------|
-| Reporte      | Enlace al repositorio del reporte      | https://biblioteca-de-software.github.io/final-report |
-| Landing Page | Enlace al repositorio del Landing Page | https://biblioteca-de-software.github.io/landing-page |
-| Frontend     | Enlace al repositorio del frontend     | https://biblioteca-de-software.github.io/frontend     |
+| Reporte      | Enlace al repositorio del reporte      | https://github.com/Biblioteca-de-Software/final-report |
+| Landing Page | Enlace al repositorio del Landing Page | https://github.com/Biblioteca-de-Software/landing-page |
+| Frontend     | Enlace al repositorio del frontend     | https://github.com/Biblioteca-de-Software/frontend    |
+| Backend      | Enlace al repositorio del backend      | https://github.com/Biblioteca-de-Software/KeepItFresh-platform     |
 
