@@ -54,6 +54,14 @@ Para el repositorio del informe final se crearon las siguientes ramas:
 
 Para el repositorio de Landing Page se crearon las siguientes ramas:
 
+- **main**: Rama principal donde se una vez terminada los features, se uniran en esta rama para realizar el despliegue.
+- **develop**: Rama de desarrollo donde se realiza, como su nombre lo dice, las principales acciones de desarrollo y unión de ramas.
+- **feature/header**: Rama de desarrollo de la cabecera de la landing page.
+- **feature/footer**: Rama de desarrollo del pie de página de la landing page.
+- **feature/about-us**: Rama de desarrollo de la sección principal de información del producto KeepItFresh y la startup Go4U.
+- **feature/suscriptions**: Rama de desarrollo de la sección de suscripciones.
+- **feature/contact**: Rama de desarrollo de la sección de contacto.
+
 Para el repositorio del Fronted se crearon las siguientes ramas:
 - **develop**: Rama principal donde una vez concluida la programación de un bounded context se hace un merge a esta rama.
 - **feature/orders**: Rama en la que se desarrolla el bounded context de órdenes donde una persona del segmento trabajadores del restaurante registra las órdenes de cada mesa.
@@ -487,7 +495,6 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 Esta sección detalla el tercer sprint del proyecto KeepItFresh, donde se implementaron las funcionalidades de pedidos, reportes, inventario, manejo de perfiles y suscripciones, así como la integración con el frontend. Se utilizó JSON Server como una API falsa para simular el backend y permitir el desarrollo del frontend de manera independiente.
 
 Para la planificación de este sprint utilizamos Trello como herramienta de gestión de tareas, permitiendo una mejor organización y seguimiento del progreso del equipo. Las tareas se dividieron en historias de usuario y se asignaron a los miembros del equipo según sus habilidades y disponibilidad.
-![img_22.png](img_22.png)
 
 🔗 Enlace al tablero de Trello: https://trello.com/b/OFzWqryU/sprint-3 
 
@@ -555,7 +562,11 @@ En esta sección se detalla los líderes de cada aspecto. Para este tercer sprin
 | Nakasone Marco                     | marquinho04     | C                                          | C                                       | C                                        | L                                              | C                                                |
 
 #### 5.2.3.3. Sprint Backlog 3.
-Para el tercer sprint se definieron las siguientes historias de usuario y tareas relacionadas con el desarrollo del backend y la integración con el frontend. Se utilizaron los principios de DDD (Domain-Driven Design) para estructurar el código y mantener una separación clara de responsabilidades.
+Para el tercer sprint se definieron las siguientes historias de usuario y tareas relacionadas con el desarrollo del backend y la integración con el frontend. Se utilizaron los principios de DDD (Domain-Driven Design) para estructurar el código y mantener una separación clara de responsabilidades. Las tareas fueron agrupadas y detalladas gracias a la buena organizacion del equipo y el correcto uso de la herramienta Trello.
+
+![img_22.png](img_22.png)
+
+
 
 | User Story |                                                                          | Work-item/task |                                                                  |                                                                                                                                                                                                                                     |            |                |                |
 |------------|--------------------------------------------------------------------------|----------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------|----------------|
