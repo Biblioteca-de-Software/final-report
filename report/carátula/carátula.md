@@ -7,7 +7,7 @@
 ## Desarrollo de Aplicaciones Open Source - Presencial 
 ## PROFESOR: Ángel Augusto
 ## NRC: 4350
-## INFORME TB2
+## INFORME TF
 ## START UP: Go4U
 ## PRODUCTO: KeepItFresh
 
