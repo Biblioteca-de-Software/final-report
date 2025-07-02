@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/26df3e9c-651a-489d-8604-2851c7fe2907)
+
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 ## Carrera: Ingeniería de Software
