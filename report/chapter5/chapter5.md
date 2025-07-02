@@ -562,7 +562,7 @@ En esta sección se detalla los líderes de cada aspecto. Para este tercer sprin
 #### 5.2.3.3. Sprint Backlog 3.
 Para el tercer sprint se definieron las siguientes historias de usuario y tareas relacionadas con el desarrollo del backend y la integración con el frontend. Se utilizaron los principios de DDD (Domain-Driven Design) para estructurar el código y mantener una separación clara de responsabilidades. Las tareas fueron agrupadas y detalladas gracias a la buena organizacion del equipo y el correcto uso de la herramienta Trello.
 
-![img_22.png](img_22.png)
+![img_28.jpeg](img_28.jpeg)
 
 🔗 Enlace al tablero de Trello: https://trello.com/b/OFzWqryU/sprint-3 
 
