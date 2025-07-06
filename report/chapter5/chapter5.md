@@ -664,6 +664,9 @@ Estos commits provienen del repositorio del backend de la organización de GitHu
 Para este sprint se desarrolló una segunda versión del frontend con el framework Angular.
 A continuación, se evidencian las imágenes del frontend.
 
+![image](https://github.com/user-attachments/assets/a5c760f5-f483-47c7-a3cd-9db5b23789d3)
+
+
 <br>
 <br>
 
@@ -675,6 +678,9 @@ A continuación, se evidencian las imágenes del frontend.
 
 Para este sprint se desarrolló una primera versión del backend con Springboot.
 A continuación, se evidencian las imágenes del backend configurado en Azure.
+
+![image](https://github.com/user-attachments/assets/a4389df9-4d06-42d1-8c8d-57655719c4c5)
+
 
 <br>
 <br>
