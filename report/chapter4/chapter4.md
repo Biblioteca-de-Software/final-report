@@ -201,7 +201,7 @@ permitiendo una comprensión clara de cómo funcionará la aplicación.
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-Los diagramas de flujo de usuario (User Flow Diagrams) son representaciones visuales que muestran cómo los usuarios interactúan con la aplicación, desde el inicio hasta la finalización de una tarea específica. Estos diagramas ayudan a comprender el recorrido del usuario y a identificar posibles mejoras en la experiencia de usuario.
+Los diagramas de flujo de usuarios (User Flow Diagrams) son representaciones visuales que muestran cómo los usuarios interactúan con la aplicación, desde el inicio hasta la finalización de una tarea específica. Estos diagramas ayudan a comprender el recorrido del usuario y a identificar posibles mejoras en la experiencia de usuario.
 
 **User goal:** Como administrador deseo agregar productos al inventario.
 
@@ -242,17 +242,17 @@ Navegación jerárquica dentro de cada módulo
 
 Módulos principales:
 
-Notificaciones - Gestión de alertas del sistema
-Dashboard - Vista general y métricas
-Inventario - Gestión de productos y stock
-Registro - Entrada de datos
-Órdenes - Gestión de pedidos
+Notificaciones - Gestión de alertas del sistema.<br>
+Dashboard - Vista general y métricas.<br>
+Inventario - Gestión de productos y stock.<br>
+Registro - Entrada de datos.<br>
+Órdenes - Gestión de pedidos.<br>
 
-Criterios de Decisión de Interacción
-Flujo centrado en tareas: Cada pantalla está diseñada para completar una acción específica, minimizando la carga cognitiva del usuario.
-Consistencia visual: Se mantiene una estructura uniforme en todas las pantallas (navegación lateral, área de contenido principal).
-Retroalimentación visual: Las conexiones indican las transiciones posibles, proporcionando claridad sobre las opciones de navegación.
-Accesibilidad de funciones críticas: Todas las instancias permiten el acceso rapido a todas las funcionalidades.
+Criterios de Decisión de Interacción<br>
+Flujo centrado en tareas: Cada pantalla está diseñada para completar una acción específica, minimizando la carga cognitiva del usuario.<br>
+Consistencia visual: Se mantiene una estructura uniforme en todas las pantallas (navegación lateral, área de contenido principal).<br>
+Retroalimentación visual: Las conexiones indican las transiciones posibles, proporcionando claridad sobre las opciones de navegación.<br>
+Accesibilidad de funciones críticas: Todas las instancias permiten el acceso rapido a todas las funcionalidades.<br>
 
 ![img_42.png](img_42.png)
 
