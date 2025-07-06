@@ -1071,7 +1071,8 @@ A continuación se evidencia la colaboración de cada integrante en el repositor
 **URL desplegada:** http://keepitfresh.netlify.app <br>
 🔗 Repositorio del Frontend: https://github.com/Biblioteca-de-Software/frontend <br>
 
-![img_21.png](img_21.png)
+![image](https://github.com/user-attachments/assets/2e640bfb-d4a5-4568-94e6-324d62391175)
+
 
 - Backend:
 
