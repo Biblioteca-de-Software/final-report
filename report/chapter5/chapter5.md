@@ -1089,7 +1089,9 @@ A continuación se evidencia la colaboración de cada integrante en el repositor
 **URL desplegada**: https://keepitfresh-platform-yrav.onrender.com  <br>
 
 🔗 Repositorio del Backend: https://github.com/Biblioteca-de-Software/KeepItFresh-platform <br>
-![img_20.png](img_20.png)
+
+![image](https://github.com/user-attachments/assets/7e77622b-03a3-49bb-a4d4-548ba3be84fd)
+
 
 
 
