@@ -126,6 +126,7 @@ Para la cuarta entrega (TF) se realizaron las correcciones finales del informe, 
 - **Romina Maita**: Adición de información extra en insights, revisión final de las secciones incluídas del capítulo 5.
 - **Marco Nakasone**: Adición de technical stories con relación al bounded context Subscriptions en los sprints requeridos.
 
+![image](https://github.com/user-attachments/assets/66eed174-fa3a-4ac3-bc22-5ceab7e21671)
 
 
 
