@@ -229,6 +229,11 @@ A continuación las siguientes imágenes sirven de referencia para evidencia la 
 El backend fue realizado de manera grupal utilizando el framework Spring Boot.
 A continuación las siguientes imágenes sirven de referencia para evidencia la implementación del backend.
 
+![image](https://github.com/user-attachments/assets/bec85da6-9d17-4e9d-a202-19a276a533cf)
+
+<br>
+
+
 
 ### 5.2.1. Sprint 1
 
