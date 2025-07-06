@@ -55,7 +55,7 @@ Especialmente enfocado a negocios con alto volumen de ingredientes y múltiples 
 
 Bares, bodegas y hoteles
 
-Otros negocios: Empresas que requieren gestión de reservaciones y optimización de espacios. ​
+Otros negocios: Empresas que requieren gestión de reservaciones y optimización de espacios.
 </td>
     <td>Restaurantes.
 
@@ -96,7 +96,7 @@ Ofrecen prueba gratuita.
     <td>Plan estándar: Incluye gestión centralizada de reservas, integración con canales propios, usuarios y dispositivos ilimitados, y funcionalidades como pedido y pago desde el móvil. </td>
     </tr>
 <td>Canales de distribución (Web y/o Móvil)</td>
-    <td>Plataforma Web y aplicación movil</td>
+    <td>Plataforma Web y aplicación móvil</td>
     <td>Plataforma web 
 
 Aplicación móvil para Android y iOS .
@@ -105,7 +105,7 @@ Distribución directa desde su sitio web.
 
 Integraciones con plataformas aliadas.
 </td>
-    <td>Plataforma web: Accesible desde navegadores para la gestión completa de las operaciones del restaurante.​
+    <td>Plataforma web: Accesible desde navegadores para la gestión completa de las operaciones del restaurante.
 
 Aplicación móvil: App para propietarios que permite gestionar reservaciones y operaciones desde dispositivos móviles.
 </td>
@@ -145,12 +145,12 @@ Aplicación móvil: App para propietarios que permite gestionar reservaciones y 
 
 Desarrollar estrategias y tácticas efectivas para enfrentar a nuestros competidores requiere de un enfoque cuidadoso y planificado. A continuación se presentan algunas estrategias y tácticas que podrían ser consideradas para tener una ventaja competitiva frente a otras alternativas:
 
-- Implementación de tecnología IOT: Utilizamos sensores IOT para ofrecer un monitoreo continuo de el estado de los alimentos que hay en el almacenamiento del restaurante y también le damos la oportunidad al cliente de decidir cuántos sensores desea de acuerdo a su presupuesto.
+- Implementación de tecnología IOT: Utilizamos sensores IOT para ofrecer un monitoreo continuo del estado de los alimentos que hay en el almacenamiento del restaurante y también le damos la oportunidad al cliente de decidir cuántos sensores desea de acuerdo a su presupuesto.
 - Enfoque en la experiencia para el usuario: Desarrollar una interfaz simple y fácil de entender para que el usuario no tenga dificultades en entenderlar y pueda usarla sin problemas.
 - Mantenimiento y mejoras en la aplicación: Mantener un ritmo constante en las actualizaciones para mejorar y arreglar la aplicación es esencial para que el usuario tenga la mejor experiencia posible y esto lo haremos recopilando información de errores y quejas de los usuarios.
 
 ## 2.2. Entrevistas.
-En esta sección se presenta la investigación realizada a partir de entrevistas en profundidad dirigidas a representantes de los segmentos objetivo: propietarios/gerentes de restaurantes y personal operativo. El análisis recoge tanto características objetivas como percepciones subjetivas de los entrevistados, permitiendo identificar patrones, necesidades, motivaciones y dolores comunes. Esta información sirve como base para la construcción de los arquetipos de usuario y demás artefactos del proceso de diseño centrado en el usuario.
+En esta sección se presenta la investigación realizada a partir de entrevistas en profundidad dirigidas a representantes de los segmentos objetivos: propietarios/gerentes de restaurantes y personal operativo. El análisis recoge tanto características objetivas como percepciones subjetivas de los entrevistados, permitiendo identificar patrones, necesidades, motivaciones y dolores comunes. Esta información sirve como base para la construcción de los arquetipos de usuario y demás artefactos del proceso de diseño centrado en el usuario.
 
 ### 2.2.1. Diseño de entrevistas.
 
@@ -195,15 +195,15 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 1_
 
-| Nombre               | Richard                                                                                                                                                                                                                                                                                                                     |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Melgarejo                                                                                                                                                                                                                                                                                                                   |
-| Edad                 | 52 años                                                                                                                                                                                                                                                                                                                     |
-| Distrito             | Lince                                                                                                                                                                                                                                                                                                                       |
-| Evidencia            | ![img.png](img.png)                                                                                                                                                                                                                                                      |
+| Nombre               | Richard                     |
+|----------------------|-----------------------------|
+| Apellido             | Melgarejo                   |
+| Edad                 | 52 años                     |
+| Distrito             | Lince                       |
+| Evidencia            | ![img.png](img.png)         |
 | Url                  | https://acortar.link/9818Zn |
-| Inicio de entrevista | 6:33                                                                                                                                                                                                                                                                                                                        |    
-| Fin de entrevista    | 25:26                                                                                                                                                                                                                                                                                                                       |
+| Inicio de entrevista | 6:33                        |    
+| Fin de entrevista    | 25:26                       |
 
 - Distrito de residencia: Jesús María
 - Estado civil: Divorciado
@@ -222,15 +222,15 @@ En resumen, Richard representa a un emprendedor tradicional con visión moderna,
 <br>➡ Arquetipo base: Administrador Estratégico<br>
 - _Entrevista 2_
 
-| Nombre               | Luis                                                                                                                                                                                                                                                                                                                        |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Agurto                                                                                                                                                                                                                                                                                                                      |
-| Edad                 | 34 años                                                                                                                                                                                                                                                                                                                     |
-| Distrito             | San Borja                                                                                                                                                                                                                                                                                                                   |
-| Evidencia            | ![img_1.png](img_1.png)                                                                                                                                                                                                                                                                                                                        |
+| Nombre               | Luis                        |
+|----------------------|-----------------------------|
+| Apellido             | Agurto                      |
+| Edad                 | 34 años                     |
+| Distrito             | San Borja                   |
+| Evidencia            | ![img_1.png](img_1.png)     |
 | Url                  | https://acortar.link/9818Zn |
-| Inicio de entrevista | 0:00                                                                                                                                                                                                                                                                                                                        |    
-| Fin de entrevista    | 6:32                                                                                                                                                                                                                                                                                                                        |
+| Inicio de entrevista | 0:00                        |    
+| Fin de entrevista    | 6:32                        |
 
 - Distrito de residencia: Santiago de Surco
 - Estado civil: Casado
@@ -249,15 +249,15 @@ Luis valora las soluciones que le permitan organizar mejor su operación y obten
 <br>➡ Arquetipo base: Administrador Estratégico<br>
 - _Entrevista 3_
 
-| Nombre               | Daniel                                                                                                                                                                                                                                                                                                                      |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Céspedes                                                                                                                                                                                                                                                                                                                    |
-| Edad                 | 54 años                                                                                                                                                                                                                                                                                                                     |
-| Distrito             | Miami                                                                                                                                                                                                                                                                                                                       |
-| Evidencia            | ![img_2.png](img_2.png)                                                                                                                                                                                                                                                                                                                           |
-| Url                  |  |
-| Inicio de entrevista | 25:27                                                                                                                                                                                                                                                                                                                       |    
-| Fin de entrevista    | 39:54                                                                                                                                                                                                                                                                                                                       |
+| Nombre               | Daniel                  |
+|----------------------|-------------------------|
+| Apellido             | Céspedes                |
+| Edad                 | 54 años                 |
+| Distrito             | Miami                   |
+| Evidencia            | ![img_2.png](img_2.png) |
+| Url                  |                         |
+| Inicio de entrevista | 25:27                   |    
+| Fin de entrevista    | 39:54                   |
 
 - Distrito de residencia: Miami
 - Estado civil: Casado
@@ -279,15 +279,15 @@ Aunque su interés en el análisis de ventas es moderado, reconoce que las estad
 
 - _Entrevista 1_
 
-| Nombre               | Diego                                                                                                                                                                                                                                                                                                                       |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Espinoza                                                                                                                                                                                                                                                                                                                    |
-| Edad                 | 21 años                                                                                                                                                                                                                                                                                                                     |
-| Distrito             | Los Olivos                                                                                                                                                                                                                                                                                                                  |
-| Evidencia            | ![img_3.png](img_3.png)                                                                                                                                                                                                                                                                                                                            |
+| Nombre               | Diego                       |
+|----------------------|-----------------------------|
+| Apellido             | Espinoza                    |
+| Edad                 | 21 años                     |
+| Distrito             | Los Olivos                  |
+| Evidencia            | ![img_3.png](img_3.png)     |
 | Url                  | https://acortar.link/9818Zn |
-| Inicio de entrevista | 42:56                                                                                                                                                                                                                                                                                                                       |    
-| Fin de entrevista    | 47:11                                                                                                                                                                                                                                                                                                                       |
+| Inicio de entrevista | 42:56                       |    
+| Fin de entrevista    | 47:11                       |
 
 - Distrito de residencia: La Molina
 - Estado civil: Soltero
@@ -305,15 +305,15 @@ Tiene una alta disposición para adoptar nuevas herramientas tecnológicas, espe
 <br>➡ Arquetipo base: Operador Multifuncional<br>
 - _Entrevista 2_
 
-| Nombre               | Estephano                                                                                                                                                                                                                                                                                                                |
-|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Moscoso Bejar                                                                                                                                                                                                                                                                                                            |
-| Edad                 | 22                                                                                                                                                                                                                                                                                                                       |
-| Distrito             | Comas                                                                                                                                                                                                                                                                                                                    |
-| Evidencia            | ![img_4.png](img_4.png)                                                                                                                                                                                                                                                                         |
+| Nombre               | Estephano                   |
+|----------------------|-----------------------------|
+| Apellido             | Moscoso Bejar               |
+| Edad                 | 22                          |
+| Distrito             | Comas                       |
+| Evidencia            | ![img_4.png](img_4.png)     |
 | Url                  | https://acortar.link/9818Zn |
-| Inicio de entrevista | 47:12                                                                                                                                                                                                                                                                                                                    |    
-| Fin de entrevista    | 53:50                                                                                                                                                                                                                                                                                                                    |
+| Inicio de entrevista | 47:12                       |    
+| Fin de entrevista    | 53:50                       |
 
 - Distrito de residencia: La Victoria
 - Estado civil: Soltero
@@ -331,15 +331,15 @@ Estephano navega regularmente por Facebook e Instagram, donde sigue contenido re
 <br>➡ Arquetipo base: Operador Multifuncional<br>
 - _Entrevista 3_
 
-| Nombre               | Luis                                                                                                                                                                                                                                                                                                                      |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Roman                                                                                                                                                                                                                                                                                                                     |
-| Edad                 | 20 años                                                                                                                                                                                                                                                                                                                   |
-| Distrito             | Jesús María                                                                                                                                                                                                                                                                                                               |
-| Evidencia            | ![img_5.png](img_5.png)                                                                                                                                                                                                                                                                                                                          |
+| Nombre               | Luis                        |
+|----------------------|-----------------------------|
+| Apellido             | Roman                       |
+| Edad                 | 20 años                     |
+| Distrito             | Jesús María                 |
+| Evidencia            | ![img_5.png](img_5.png)     |
 | Url                  | https://acortar.link/9818Zn |
-| Inicio de entrevista | 39:55                                                                                                                                                                                                                                                                                                                     |    
-| Fin de entrevista    | 42:55                                                                                                                                                                                                                                                                                                                     |
+| Inicio de entrevista | 39:55                       |    
+| Fin de entrevista    | 42:55                       |
 
 - Distrito de residencia: Jesús María
 - Estado civil: Soltero
@@ -400,14 +400,14 @@ Cantidad: 3/6 (50%)
 
 **Análisis global (6 entrevistados)**
 
-| **Característica común**                  | **Frecuencia** | **Porcentaje** |
-|-------------------------------------------|----------------|----------------|
-| Interés en automatizar inventario         | 6/6            | 100%           |
-| Uso actual de métodos manuales o informales | 5/6            | 83%            |
-| Valoración de la eficiencia y optimización del tiempo | 6/6 | 100%           |
-| Deseo de incorporar tecnología            | 6/6            | 100%           |
-| Interés en análisis predictivo o de ventas | 3/6            | 50%            |
-| Necesidad de mejorar la coordinación interna | 3/6          | 50%            |
+| **Característica común**                              | **Frecuencia** | **Porcentaje** |
+|-------------------------------------------------------|----------------|----------------|
+| Interés en automatizar inventario                     | 6/6            | 100%           |
+| Uso actual de métodos manuales o informales           | 5/6            | 83%            |
+| Valoración de la eficiencia y optimización del tiempo | 6/6            | 100%           |
+| Deseo de incorporar tecnología                        | 6/6            | 100%           |
+| Interés en análisis predictivo o de ventas            | 3/6            | 50%            |
+| Necesidad de mejorar la coordinación interna          | 3/6            | 50%            |
 
 **Conclusiones para construcción de arquetipos**<br>
 
@@ -435,9 +435,10 @@ Cantidad: 3/6 (50%)
 
 ## 2.3. Needfinding.
 En esta sección se presenta el análisis detallado de la información recolectada durante las entrevistas realizadas a los distintos perfiles involucrados en la gestión y operación de restaurantes. El objetivo principal del proceso de Needfinding ha sido identificar necesidades reales, motivaciones, frustraciones y patrones de comportamiento de los usuarios para guiar el diseño de una solución centrada en ellos.<br>
-Los artefactos incluidos User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping, permiten visualizar, sintetizar y comprender de manera estructurada la experiencia actual de los usuarios, sus tareas clave, emociones, puntos de dolor y oportunidades de mejora. Este análisis constituye la base para el diseño de soluciones alineadas con sus contextos y objetivos reales.
-### 2.3.1. User Personas.
-Esta sección presenta las fichas de User Persona elaboradas a partir del análisis de entrevistas y hallazgos del benchmarking. Cada arquetipo representa un segmento objetivo clave, reflejando sus características demográficas, comportamientos, necesidades, frustraciones y motivaciones. Estos perfiles permiten guiar el diseño centrado en el usuario, alineando la solución propuesta con contextos reales de uso.
+Los artefactos incluidos User Persona, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping, permiten visualizar, sintetizar y comprender de manera estructurada la experiencia actual de los usuarios, sus tareas clave, emociones, puntos de dolor y oportunidades de mejora. Este análisis constituye la base para el diseño de soluciones alineadas con sus contextos y objetivos reales.
+
+### 2.3.1. User Persona.
+Esta sección presenta las fichas de User Persona elaborada a partir del análisis de entrevistas y hallazgos del benchmarking. Cada arquetipo representa un segmento objetivo clave, reflejando sus características demográficas, comportamientos, necesidades, frustraciones y motivaciones. Estos perfiles permiten guiar el diseño centrado en el usuario, alineando la solución propuesta con contextos reales de uso.
 
 #### Segmento 1: Dueños de restaurantes.
 
@@ -454,19 +455,19 @@ Javier es un empleado de restaurante que realiza tareas operativas diarias y bus
 ### 2.3.2. User Task Matrix
 
 En esta sección, se presenta la matriz de tareas de los usuarios, que muestra las actividades realizadas por los dueños y empleados de restaurantes, junto con su frecuencia e importancia. Esta matriz ayuda a identificar las tareas clave y su relevancia para cada tipo de usuario.  
-Para ello, usamos los user personas creados en la sección anterior tomando a Daniel, segmento 1: Dueño de restaurante, y a Javier, segmento 2: trabajador de restaurante.
+Para ello, usamos los user persona creados en la sección anterior tomando a Daniel, segmento 1: Dueño de restaurante, y a Javier, segmento 2: trabajador de restaurante.
 
-| Actividades                  | Daniel (Dueño de restaurante) - Frecuencia / Importancia | Javier (Trabajador de restaurante) - Frecuencia / Importancia |
-|-----------------------------|-----------------------------------------------------------|----------------------------------------------------------------|
-| Guardar productos           | Rara vez / Media                                          | Con Frecuencia / Media                                         |
-| Atender clientes            | Rara vez / Alta                                           | Siempre / Alta                                                 |
-| Tomar pedidos               | Rara vez / Alta                                           | Siempre / Alta                                                 |
-| Cobrar cuenta               | Rara vez / Alta                                           | Siempre / Alta                                                 |
-| Manejo financiero           | Siempre / Alta                                            | Rara vez / Alta                                                |
-| Contratación y supervisión | Con Frecuencia / Media                                    | Rara vez / Media                                               |
-| Gestión de inventario       | Siempre / Alta                                            | Rara vez / Alta                                                |
-| Limpieza de área            | Rara vez / Media                                          | Con Frecuencia / Media                                         |
-| Capacitación de personal    | Con Frecuencia / Media                                    | Rara vez / Media                                               |
+| Actividades                | Daniel (Dueño de restaurante) - Frecuencia / Importancia | Javier (Trabajador de restaurante) - Frecuencia / Importancia |
+|----------------------------|----------------------------------------------------------|---------------------------------------------------------------|
+| Guardar productos          | Rara vez / Media                                         | Con Frecuencia / Media                                        |
+| Atender clientes           | Rara vez / Alta                                          | Siempre / Alta                                                |
+| Tomar pedidos              | Rara vez / Alta                                          | Siempre / Alta                                                |
+| Cobrar cuenta              | Rara vez / Alta                                          | Siempre / Alta                                                |
+| Manejo financiero          | Siempre / Alta                                           | Rara vez / Alta                                               |
+| Contratación y supervisión | Con Frecuencia / Media                                   | Rara vez / Media                                              |
+| Gestión de inventario      | Siempre / Alta                                           | Rara vez / Alta                                               |
+| Limpieza de área           | Rara vez / Media                                         | Con Frecuencia / Media                                        |
+| Capacitación de personal   | Con Frecuencia / Media                                   | Rara vez / Media                                              |
 
 Daniel representa a un dueño de restaurante con experiencia en la gestión operativa, que busca optimizar sus procesos y mejorar la eficiencia del negocio. Su enfoque está en actividades estratégicas como el manejo financiero y la gestión de inventario, que realiza con alta frecuencia e importancia. Aunque interactúa ocasionalmente con clientes y empleados en tareas operativas, estas no son su prioridad diaria.
 
