@@ -78,6 +78,8 @@ Ciclo 2025-10
 | 4.1     | 02/07/2025 | Torres Flores, Paolo Alessandro       | Corregir y detallar información de la carátula.                                                                                             |
 | 4.2     | 02/07/2025 | Lang Nassi, Werner Khalil             | Agregar anexos de videos y Repositorios                                                                                                     |
 | 4.3     | 02/07/2025 | Lang Nassi, Werner Khalil             | Corrección de sprint backlog 3                                                                                                              |
+| 4.4     | 02/07/2025 | Maita Falckenheiner, Romina Guadalupe | Adición de Sprint Review Evidence                                                                                                           |
+| 4.5     | 02/07/2025 | Briceño Llanos, Ayrton Omar           | Adición de información extra en insights                                                                                                    |
 
 # Project Report Collaboration Insights
 
@@ -94,26 +96,35 @@ Para la primera entrega (TB1) se trabajó en la estructura inicial del informe, 
 ##### Evidencia de colaboración
 ![img_1.png](img_1.png)
 
-Para la segunda entrega (TP) se realizó las correcciones respectivas con respecto a la retroalimentación del primer entregable. A cada integrante de le asigno la supervición de cada capítulo.
+Para la segunda entrega (TP) se realizó las correcciones respectivas con respecto a la retroalimentación del primer entregable. A cada integrante de le asigno la supervisión de cada capítulo.
 
-- **Paolo Torres**: Correcciones del capítulo 1
-- **Ayrton Briceño**: Correcciones del capítulo 2
-- **Gabriel Mamani**: Correcciones del capítulo 3
-- **Werner Lang**: Correcciones del capítulo 4
-- **Romina Maita**: Correcciones del capítulo 5
+- **Paolo Torres**: Correcciones del Lean UX Process y reestructuración de segmentos objetivos.
+- **Ayrton Briceño**: Correcciones de resumen de entrevistas y análisis de entrevistas.
+- **Gabriel Mamani**: Correcciones de user personas, impact mapping, as-is scenario mapping y to-be scenario mapping.
+- **Werner Lang**: Correcciones de wireframes, wireflows, user flows, y prototyping.
+- **Romina Maita**: Correcciones de services documentation evidence, sprint review evidence, y team collaboration insights.
 
 - ![img.png](img.png)
 
 Para la tercera entrega (TB2) se trabajó en la corrección de elementos detallados en la retroalimentación del segundo entregable. Se asignaron tareas específicas a cada integrante para asegurar una revisión exhaustiva de cada sección del informe.
 
-- **Paolo Torres**: Corrección del product backlog.
-- **Ayrton Briceño**: Corrección del to be scenario mapping.
-- **Gabriel Mamani**: Corrección del impact mapping.
-- **Werner Lang**: Corrección de las technical stories.
-- **Romina Maita**: Corrección de las user stories y capítulo 5.
-- **Marco Nakasone**: Corrección de la sección de Lean UX.
+- **Paolo Torres**: Adición de technical Stories con relación al bounded context Inventory, corrección de user stories y product backlog.
+- **Ayrton Briceño**: Corrección de to-be scenario mapping y adición de videos about the team y product.
+- **Gabriel Mamani**: Corrección del impact mapping y adición de technical stories con relación al bounded context Profile.
+- **Werner Lang**: Corrección de las technical stories con relación al bounded context Reports.
+- **Romina Maita**: Corrección de las user stories y adición de technical stories con relación al bounded context Orders.
+- **Marco Nakasone**: Corrección de la sección de Lean UX y adición de technical stories con relación al bounded context Subscriptions.
 
 ![image](https://github.com/user-attachments/assets/1f3dfd56-de66-4bcb-b27e-ebe1269dd834)
+
+Para la cuarta entrega (TF) se realizaron las correcciones finales del informe, asegurando que todas las secciones estuvieran completas y alineadas con los objetivos del proyecto. Se revisaron los detalles de la carátula, se agregaron los anexos necesarios y se verificó la coherencia del documento.
+
+- **Paolo Torres**: 
+- **Ayrton Briceño**: 
+- **Gabriel Mamani**: 
+- **Werner Lang**: 
+- **Romina Maita**: 
+- **Marco Nakasone**: 
 
 
 # Contenido
