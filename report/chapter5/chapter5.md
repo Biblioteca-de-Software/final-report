@@ -357,6 +357,11 @@ Se verificó la correcta publicación de la Landing Page en la siguiente URL:
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta sección se evidencia la colaboración de cada integrante en el repositorio de la Landing Page.
 
+Cada integrante del equipo contribuyó al desarrollo de la Landing Page, realizando commits y pull requests para implementar las diferentes secciones y funcionalidades. A continuación, se muestran algunos insights del repositorio:
+- **Maita Romina:** Implementó la sección de suscripciones y colaboró en el diseño general.
+- **Torres Paolo:** Se encargó de la sección de sobre nosotros, contacto y validación de formularios.
+- **Mamani Gabriel:** Implementó la sección de opiniones y testimonios de usuarios.
+
 🔗 Repositorio de Landing Page: https://github.com/Biblioteca-de-Software/landing-page
 
 #### Capturas de Insights del repositorio:
@@ -498,6 +503,16 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 🔗 Repositorio de Frontend: https://github.com/Biblioteca-de-Software/frontend
 
 #### Capturas de Insights del repositorio:
+
+Cada integrante del equipo contribuyó al desarrollo del frontend, realizando commits y pull requests para implementar las diferentes secciones y funcionalidades. A continuación, se muestran algunos insights del repositorio:
+- **Maita Romina:** Implementó la sección de órdenes.
+- **Torres Paolo:** Se encargó de la sección de inventario.
+- **Mamani Gabriel:** Implementó la sección de perfil de usuario y autenticación.
+- **Lang Werner:** Implementó la sección de reportes y notificaciones.
+- **Briceño Ayrton:** Implementó la sección de reportes y notificaciones.
+- **Nakasone Marco:** Colaboró en la implementación del bounded context Subscriptions.
+
+
 ![img_14.png](img_14.png)
 
 
