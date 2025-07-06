@@ -1018,13 +1018,33 @@ Enlace de video a YouTube: https://www.youtube.com/watch?v=UA0Mvyjgsr4
 
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
-- La importancia del trabajo en equipo y la colaboración entre los miembros del grupo.
-- La importancia de la planificación y organización en el desarrollo de software.
-- La importancia de la tecnología y las herramientas en el desarrollo de software aplicado a la realidad.
-- Se concluye que este trabajo es una solución rentable y sostenible para la problemática de la reducción de desperdicios alimentarios en el Perú por medio de los restaurantes.
-- Se usa la tecnología de la información y la comunicación para poder llegar a un público más amplio y poder ayudar a la reducción de desperdicios alimentarios en el Perú.
-- Se concluye que la aplicación es fácil de usar y tiene una buena usabilidad, lo que permite a los usuarios interactuar con ella de manera eficiente.
-- Se concluye que la aplicación es escalable y puede adaptarse a diferentes necesidades y requerimientos de los usuarios.
+
+### 1. Trabajo en equipo y colaboración
+El éxito de este proyecto demuestra la importancia del trabajo en equipo y la colaboración efectiva entre los miembros del grupo. La sinergia, comunicación constante y distribución de roles permitieron integrar diferentes perspectivas y habilidades, logrando un desarrollo más robusto y eficiente.
+
+### 2. Planificación y organización en el desarrollo de software
+Una adecuada planificación y organización fueron clave para el cumplimiento de los objetivos del proyecto. La metodología empleada (como Agile o SCRUM) facilitó la gestión de tareas, la priorización de funcionalidades y la entrega de resultados en los tiempos establecidos, asegurando un producto de calidad.
+
+### 3. Tecnología y herramientas aplicadas a las realidad
+El uso de tecnologías modernas y herramientas innovadoras permitió desarrollar una solución alineada con las necesidades reales del sector. La integración de frameworks ágiles, bases de datos eficientes y sistemas en la nube garantizó un producto escalable, seguro y adaptable al contexto peruano.
+
+### 4. Solución rentable y sostenible contra el desperdicio alimentario
+Este proyecto se consolida como una solución rentable y sostenible para reducir el desperdicio de alimentos en Perú, especialmente en el sector restaurantero. Al conectar a establecimientos con consumidores, se optimiza el uso de excedentes, generando un impacto económico, social y ambiental positivo.
+
+### 5. TIC para ampliar el alcance y el impacto
+Mediante el uso estratégico de Tecnologías de la Información y Comunicación (TIC), la aplicación logra llegar a un público más amplio, facilitando la concientización y participación activa de la sociedad en la reducción del desperdicio alimentario.
+
+### 6. Usabilidad y experiencia del usuario
+Los testeos y feedback recibido confirman que la aplicación es intuitiva y ofrece una alta usabilidad, permitiendo una interacción fluida y satisfactoria para los usuarios. Su diseño centrado en el usuario (UX/UI) asegura una experiencia accesible y eficiente.
+
+### 7. Escalabilidad y adaptabilidad
+La aplicación está diseñada con una arquitectura escalable, lo que permite su adaptación a futuras demandas, integraciones con otros sistemas o expansión a nuevos mercados. Esto garantiza su sostenibilidad a largo plazo y su capacidad de evolucionar según las necesidades de los usuarios.
+
+### 8. Importancia del feedback continuo
+La retroalimentación de usuarios y restaurantes durante la fase de pruebas fue clave para refinar funcionalidades. Esto resalta la necesidad de mantener ciclos iterativos de mejora incluso después del lanzamiento.
+
+### 9. Adaptabilidad a otros contextos
+Si bien la solución fue diseñada para Perú, su arquitectura modular y enfoque flexible permitiría replicarla en otros países de Latinoamérica con problemáticas similares, previos ajustes culturales y normativos.
 
 # Video About-the-Team.
 
