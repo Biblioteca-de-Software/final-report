@@ -254,7 +254,13 @@ Consistencia visual: Se mantiene una estructura uniforme en todas las pantallas 
 Retroalimentación visual: Las conexiones indican las transiciones posibles, proporcionando claridad sobre las opciones de navegación.<br>
 Accesibilidad de funciones críticas: Todas las instancias permiten el acceso rapido a todas las funcionalidades.<br>
 
+
 ![img_42.png](img_42.png)
+
+
+<br>
+
+**Link del video del prototipo:** https://acortar.link/dhEwVa <br>
 
 ## 4.6. Domain-Driven Software Architecture.
 

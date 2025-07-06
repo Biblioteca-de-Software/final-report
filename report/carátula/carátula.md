@@ -119,12 +119,14 @@ Para la tercera entrega (TB2) se trabajó en la corrección de elementos detalla
 
 Para la cuarta entrega (TF) se realizaron las correcciones finales del informe, asegurando que todas las secciones estuvieran completas y alineadas con los objetivos del proyecto. Se revisaron los detalles de la carátula, se agregaron los anexos necesarios y se verificó la coherencia del documento.
 
-- **Paolo Torres**: 
-- **Ayrton Briceño**: 
-- **Gabriel Mamani**: 
-- **Werner Lang**: 
-- **Romina Maita**: 
-- **Marco Nakasone**: 
+- **Paolo Torres**: Adición de información de la carátula, corrección de sprint backlog 3, sprint review evidence y adición del sprint 4.
+- **Ayrton Briceño**: Modificación de la sección de conclusiones y recomendaciones, adición de información extra en insights.
+- **Gabriel Mamani**: Revisión final de las secciones incluídas desde el capítulo 1 hasta el 3.
+- **Werner Lang**: Revisión final de las secciones incluídas del capítulo 4.
+- **Romina Maita**: Adición de información extra en insights, revisión final de las secciones incluídas del capítulo 5.
+- **Marco Nakasone**: Adición de technical stories con relación al bounded context Subscriptions en los sprints requeridos.
+
+
 
 
 # Contenido
