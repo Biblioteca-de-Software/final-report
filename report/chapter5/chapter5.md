@@ -858,9 +858,10 @@ En esta sección se detalla los líderes de cada aspecto. Para este cuarto sprin
 #### 5.2.4.3. Sprint Backlog 4.
 Para el cuarto sprint se definieron las siguientes historias de usuario y tareas relacionadas con el desarrollo del backend y la integración con el frontend. Se utilizaron los principios de DDD (Domain-Driven Design) para estructurar el código y mantener una separación clara de responsabilidades. Las tareas fueron agrupadas y detalladas gracias a la buena organizacion del equipo y el correcto uso de la herramienta Trello.
 
+![image](https://github.com/user-attachments/assets/4d74bdbd-f1ea-41ff-8b48-5dbe75b2a9f4)
 
 
-🔗 Enlace al tablero de Trello: 
+🔗 Enlace al tablero de Trello: https://trello.com/invite/b/6862afbfb034c2340c33a449/ATTIa5e463d5c1ce11672df40f4cbfb0456209423446/sprint-4
 
 
 | User Story |                                                                          | Work-item/task |                                                                                       |                                                                                                                                                                                                                                     |            |                |                |
